@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<header class="intro grid cf">
+  <h1>{{page.title}}</h1>
+  {% if page.description != blank and page.description != nil %}
+    <p>{{page.description}}</p>
+  {% endif %} 
+</header>
+
+<div class="grid-wrapper cf">
+  <section class="archive grid cf">
+  {% for post in site.posts  %}
+    {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+    {% capture page_year %}{{page.date | date: "%Y"}}{% endcapture %}
+    {% if year == page_year and post.type == page.section.type %}
+      <article{% if page.[page.type].class != blank and page.[page.type].class != nil %} class="{% if page.[page.type].include_slug == 'true' %}{{ post.slug}} {% endif %}{{ page.[page.type].class }}"{% endif %}>
+        {% if page.[page.type].omit_title != 'true' %}<h1>{% if page.[page.type].unlinked_title != 'true' %}{% if post.type == 'aside' %}<a href="{{post.link}}"> {% else %}<a href="{{post.url}}">{% endif %}{{post.title}}{% if post.type == 'aside' %} <span class="fa fa-arrow-circle-o-right"></span>{% endif %}</a>{% else %} {{post.title}} {% endif %}</h1>{% endif %}
+        {% if page.[page.type].type != 'page' %}<p class="muted">{{ post.date | date: "%B %-d, %Y" }}</p>{% endif %}
+        {% if page.[page.type].type == 'aside' %}{% if post.description != blank and post.description != nil %}<p>{{post.description}}</p>{% else %}{{post.content}}{% endif %}{% endif %}
+      </article>
+    {% endif %}
+  {% endfor %}
+  </section>
+
+  <nav class="grid-wrapper section-nav all-years cf">
+    <ol class="grid cf">
+      {% capture this_year %}{{site.time | date: '%Y'}}{% endcapture %}
+      {% capture page_year %}{{page.date | date: '%Y'}}{% endcapture %}
+      {% for year in (2007..this_year) %}
+        {% capture my_year %}{{year}}{% endcapture %}
+        {% if my_year == this_year %}
+        <li><a href="/items-of-interest/"{% if my_year == page_year %} class="active"{% endif %}>{{year}}</a></li>
+        {% else %}
+        <li><a href="/items-of-interest/{{year}}/"{% if my_year == page_year %} class="active"{% endif %}>{{year}}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ol>
+  </nav>
+
+</div>

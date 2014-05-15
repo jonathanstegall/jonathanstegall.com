@@ -1,0 +1,62 @@
+---
+layout: post
+status: publish
+title: Hello, 2010
+excerpt: "Right. So 2010 is a few days old now. Welcome to it. Lots of folks have
+  been reflecting upon 2009, reflecting upon the 2000s, and imagining things for 2010
+  and the 2010s. It's been really interesting. I want to draw focused attention to
+  a couple of things I've read over the last few days - <a href=\"http://fasterfuture.blogspot.com/2009/12/2020-vision.html\">2020
+  vision</a>, an imagining of the next decade, and also Don Miller's <a href=\"http://donmilleris.com/2010/01/01/living-a-good-story-an-alternative-to-new-years-resolutions/\">Living
+  a Good Story, an Alternative to New Years Resolutions</a>. Both are fantastic, for
+  different reasons. I've written several times about the impact that <a href=\"http://www.amazon.com/gp/product/0785213066?ie=UTF8&amp;tag=jonathanstega-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0785213066\">Don
+  Miller's new book</a> had on me this year, and this post is similar.\r\n\r\nIn addition
+  to these thoughts, I have spent the last couple of days in a suburb of Chicago at
+  <a href=\"http://www.careerbuilder.com/\">our</a> annual company kickoff, which
+  does, and evokes, this kind of reflecting upon the previous year and the new year,
+  in the context of the company. Each year various leaders from different areas of
+  the organization speak, and a couple of outside folks speak as well. This year,
+  we had the fascinating privilege of hearing Bill Clinton speak."
+date: 2010-01-09 23:10:58.000000000 -05:00
+type: post
+categories:
+- politics
+- culture
+- activism
+tags:
+- bill clinton
+- story
+- careerbuilder
+---
+Right. So 2010 is a few days old now. Welcome to it. Lots of folks have been reflecting upon 2009, reflecting upon the 2000s, and imagining things for 2010 and the 2010s. It's been really interesting. I want to draw focused attention to a couple of things I've read over the last few days - <a href="http://fasterfuture.blogspot.com/2009/12/2020-vision.html">2020 vision</a>, an imagining of the next decade, and also Don Miller's <a href="http://donmilleris.com/2010/01/01/living-a-good-story-an-alternative-to-new-years-resolutions/">Living a Good Story, an Alternative to New Years Resolutions</a>. Both are fantastic, for different reasons. I've written several times about the impact that <a href="http://www.amazon.com/gp/product/0785213066?ie=UTF8&amp;tag=jonathanstega-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0785213066">Don Miller's new book</a> had on me this year, and this post is similar.
+
+In addition to these thoughts, I have spent the last couple of days in a suburb of Chicago at <a href="http://www.careerbuilder.com/">our</a> annual company kickoff, which does, and evokes, this kind of reflecting upon the previous year and the new year, in the context of the company. Each year various leaders from different areas of the organization speak, and a couple of outside folks speak as well. This year, we had the fascinating privilege of hearing Bill Clinton speak.
+
+I want to look at that event in particular, after encouraging you to read the links above, as a way to open the year. Happy New Year.
+<h2>Clinton on The 21st Century</h2>
+A big part of Clinton's speech was about the idea that the 21st century will be a "contest between positive and negative interdependence and interconnectedness." It was a brilliant concept, exemplified by the internet, the energy crisis, terrorism and its connections to globalization, and any number of other positive and negative things in our society. He further developed this thought by observing that the world today is:
+<ul>
+	<li>Too unequal<p>Both in the United States and abroad. This is exemplified in the States by the ever-widening gap between the rich and the poor, and the healthcare situation. Most of the examples here do relate to money. In the developing world, his examples varied from water to health to technology, and discussed things that <a href="http://www.clintonfoundation.org/">his foundation</a> is doing in various areas.</p></li>
+	<li>Too insecure and unstable<p>With examples from terrorism, economics and disease, he talked about the state of the world in which all of us live. We cause and are affected by terrorism, we have a demonstrably insecure economic state, and diseases from many causes continue to affect most of the world.</p></li>
+	<li>Too unsustainable<p>Obviously, climate change is one of the most upfront examples of the unsustainability of our environmental systems. Aside from this, though, I've written and spoken about how, regardless of political viewpoints, we should see our current systems as unsustainable, from perspectives of ethics, human rights, and our own disconnectedness from things around us.</p></li></ul>
+Clinton spoke further on issues of economics and human rights with regard to the current recession and whether or not America will retain its global primacy to which it has become so accustomed. He observed that America's primacy is due, in many ways, to the fall of communism as much as it is anything else, and it's okay if we are not the supreme power in the earth, whether we lose it to India, China, or some other situation entirely. He put it this way:
+
+<blockquote><p>It is immoral for us to keep others poor so that we can be number one.</p></blockquote>
+
+For Clinton, the biggest problem in poor countries today is <strong>lack of capacity</strong>, from perspectives of money, health, and resources. The biggest problem in rich countries is <strong>rigidity</strong>. We have large, entrenched systems in which many people have many things invested, and thus have a lot to lose from any kind of evolution in these systems. These are people who should care about changing these systems to deal with the world's problems, but they have become rigid in the interest of self-preservation. This is exemplified by our policies on healthcare, energy, the environment, and any number of other things.
+<h2>Q &amp; A</h2>
+Whenever there are speakers at these company events, there is usually a Q &amp; A period at the end, between our CEO and the speaker. This one had a couple of questions that really stood out to me.
+<h3>What contributed to his success</h3>
+Clinton was asked to give some things that contributed to his success in life and as a leader. He responded with a couple of things that I didn't at all expect that really stood out to me:
+<ul>
+	<li>Growing up in an oral culture of storytellers. This, for him, taught him how to listen- knowing that everyone has an interesting story, as well as how to see things playing out in individual lives.</li>
+	<li>Growing up in the Civil Rights movement. This taught him how to find something bigger than himself that he could fight for.</li>
+</ul>
+<h3>Things to focus on</h3>
+He was also asked what kind of things he would say to folks like us, many of whom are young in our careers. He responded with several important things:
+<ul>
+	<li>The vast majority of humans do not have choices like we do. We have choices, and should not give them away.</li>
+	<li>Know our minds and hearts.</li>
+	<li>Try to do something we like and love. If we can't do the best we can, even if we don't like the job, but only do it until we can get out and do what we love.</li>
+</ul>
+<h2>Overall</h2>
+So in essence, the talk was perceptive and challenging. It intentionally focused on stories and facts, to a large extent avoiding asking folks to take political positions on the stories and facts. I haven't been a huge fan of Clinton as a politician, both in the 2008 primaries and in parts of his presidency, but in the recent times I've seen him talk, both on the <a href="http://www.thedailyshow.com/watch/thu-september-17-2009/exclusive---bill-clinton-extended-interview-pt--1">Daily Show</a> and in this event, he has been fantastic.

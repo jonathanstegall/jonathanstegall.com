@@ -1,0 +1,17 @@
+---
+layout: post
+status: publish
+date: 2009-10-17 04:05:40+00:00
+title: 19.20.21.
+link: http://www.192021.org/
+type: aside
+categories:
+- cities
+- culture
+- design
+- economics
+- globalization
+- visualization
+---
+
+Amazing project on the cities of the 21st century. Includes founder of TED conferences.

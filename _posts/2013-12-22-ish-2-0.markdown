@@ -1,0 +1,15 @@
+---
+layout: post
+status: publish
+title: "ish. 2.0"
+date: 2013-12-22 21:44:05.000000000 -05:00
+type: aside
+link: http://bradfrostweb.com/blog/post/ish-2-0
+categories:
+- design
+- responsive design
+- brad frost
+---
+<blockquote>
+  <p>I&rsquo;m happy to introduce ish. 2.0. For the uninitiated, ish. is yet another viewport resizing tool. It&rsquo;s called &ldquo;ish.&rdquo; because it focuses on general ranges (small-ish. medium-ish. large-ish.), rather than popular device widths. It&rsquo;s our jobs as web designers to make sure our interfaces look and function across all screen sizes, and ish. is here to help.</p>
+</blockquote>

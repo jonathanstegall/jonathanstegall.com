@@ -1,0 +1,16 @@
+---
+layout: post
+status: publish
+date: 2009-05-05 01:45:22+00:00
+title: Enough
+link: http://www.enoughproject.org/
+type: aside
+categories:
+- activism
+- africa
+- organizations
+- peace
+- peace-activism
+---
+
+> Enough is a project of the Center for American Progress to end genocide and crimes against humanity. Founded in 2007, Enough focuses on crises in Sudan, Chad, eastern Congo, northern Uganda, Somalia, and Zimbabwe.

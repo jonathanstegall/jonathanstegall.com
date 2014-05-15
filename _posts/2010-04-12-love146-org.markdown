@@ -1,0 +1,14 @@
+---
+layout: post
+status: publish
+date: 2010-04-12 15:33:35+00:00
+title: Love146.org
+link: http://love146.org/
+type: aside
+categories:
+- abolition
+- activism
+- human-rights
+---
+
+> Love146 works toward the abolition of child sex slavery and exploitation through Prevention and Aftercare solutions, and contributing to a growing abolition movement.

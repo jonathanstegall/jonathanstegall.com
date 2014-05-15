@@ -1,0 +1,14 @@
+---
+date: 2014-01-29 23:06:39.000000000 -05:00
+layout: post
+status: publish
+title: Run Ragged ◆ 24 ways
+link: http://24ways.org/2013/run-ragged/
+type: aside
+categories:
+- design
+- typography
+- mark boulton
+- 24 ways
+---
+> We&rsquo;re told time and time again that as a person who makes websites we have to get comfortable with our lack of control. On the web, this is a feature, not a bug. But that doesn&rsquo;t mean we have to lower our standards, or not strive for the same amount of typographic craft of our print-based cousins. We shouldn&rsquo;t leave good typesetting at the door because we can&rsquo;t control the line length.

@@ -1,0 +1,13 @@
+---
+layout: post
+status: publish
+title: Powerset
+type: aside
+date: 2008-05-12 13:50:48.000000000 -04:00
+link: http://www.powerset.com/
+categories:
+- inspiration
+- search
+- web2.0
+---
+<p>Great way to search Wikipedia for all of its relevant information about a topic. Great way to take advantage of search methodology.</p>

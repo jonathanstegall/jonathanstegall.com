@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+{% for order in (1..10) %}{% for node in site.pages %}{% if node.[node.type].order == order and node.[node.type].order == 1 and node.slug == page.slug %}
+
+	<header class="intro grid cf">
+		{% if page.description != blank and page.description != nil %}
+			<h1>{{page.title}}</h1>
+			<p>{{page.description}}</p>
+		{% else %}
+			{{content}}
+		{% endif %} 
+	</header>
+{% endif %}{% endfor %}{% endfor %}
+
+{% for order in (1..10) %}{% for subnode in site.pages %}{% if subnode.[page.type].order == order and subnode.[page.type].order != 1 or page.slug != 'home' %}
+<div class="grid-wrapper cf">
+	<section class="{{subnode.slug}} grid cf">
+		<h1>{{subnode.title}}</h1>
+		{% if subnode.description %}
+			<p>{{subnode.description}} {% if subnode.[page.type].button != '' %}<a href="{{subnode.url | replace:'/',' ' | truncatewords: 1 | remove:'...' }}/" class="btn btn--positive">{{subnode.[page.type].button}}</a>{% endif %}</p>
+		{% endif %}
+
+		{% if subnode.[page.type].type == 'post' or subnode.[page.type].type == 'aside' %}
+				{% assign counter = '.' %}
+				{% for post in site.posts %}
+					{% if post.type == subnode.[page.type].type and counter.size <= subnode.[page.type].show %}
+						{% capture counter %}{{ counter | append:'.' }}{% endcapture %}
+						<article{% if subnode.[page.type].class != blank and subnode.[page.type].class != nil %} class="{% if subnode.[page.type].slug_in_class == 'true' %}{{ post.slug}} {% endif %}{{ subnode.[page.type].class }}"{% endif %}>
+						{% if subnode.[page.type].omit_title != 'true' %}<h1>{% if subnode.[page.type].unlinked_title != 'true' %}{% if post.type == 'aside' %}<a href="{{post.link}}"> {% else %}<a href="{{post.url}}">{% endif %}{{post.title}}{% if subnode.[page.type].type == 'aside' %} <span class="fa fa-arrow-circle-o-right"></span>{% endif %}</a>{% else %} {{post.title}} {% endif %}</h1>{% endif %}
+						{% if subnode.[page.type].type != 'page' %}<p class="muted">{{ post.date | date: "%B %-d, %Y" }}</p>{% endif %}
+						{% if subnode.[page.type].type == 'aside' %}{% if post.description != '' %}<p>{{post.description}}</p>{% else %}{{post.content}}{% endif %}{% else %}{% if post.excerpt != '' %}<p>{{post.excerpt}}</p>{% else %}{{post.content}}{% endif %}{% endif %}
+					</article>
+					{% endif %}
+				{% endfor %}
+		{% else %}
+			{% for sitecat in site.page-category-list %}
+				{% if sitecat == subnode.section.categories %}
+					{% for post in site.pages %}
+
+						{% assign counter = '.' %}
+						{% for pagecat in post.categories %}
+							{% if pagecat == sitecat and counter.size <= subnode.[page.type].show and post.type == subnode.[page.type].type %}
+							{% capture counter %}{{ counter | append:'.' }}{% endcapture %}
+								<article{% if subnode.[page.type].class != blank and subnode.[page.type].class != nil %} class="{% if subnode.[page.type].slug_in_class == 'true' %}{{ post.slug}} {% endif %}{{ subnode.[page.type].class }}"{% endif %}>
+								{% if subnode.[page.type].omit_title != 'true' %}<h1>{% if subnode.[page.type].unlinked_title != true %}{% if post.type == 'aside' %}<a href="{{post.link}}"> {% else %}<a href="{{post.url}}">{% endif %}{{post.title}}{% if subnode.[page.type].type == 'aside' %} <span class="fa fa-arrow-circle-o-right"></span>{% endif %}</a>{% else %} {{post.title}} {% endif %}</h1>{% endif %}
+								{% if subnode.[page.type].type != 'page' and subnode.[page.type].type != 'section' %}<p class="muted">{{ post.date | date: "%B %-d, %Y" }}</p>{% endif %}
+								{% if subnode.[page.type].type == 'aside' %}{% if post.description != '' %}<p>{{post.description}}</p>{% else %}{{post.content}}{% endif %}{% else %}{% if post.excerpt != '' %}<p>{{post.excerpt}}</p>{% else %}{{post.content}}{% endif %}{% endif %}
+							</article>
+							{% endif %}   <!-- cat-match-p -->
+						{% endfor %}  <!-- page-category -->
+					{% endfor %} <!-- page -->
+				{% endif %}
+			{% endfor %}  <!-- cat -->
+		{% endif %}
+
+	</section>
+</div>
+{% endif %}{% endfor %}{% endfor %}

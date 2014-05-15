@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{% for order in (1..10) %}{% for node in site.pages %}{% if node.section.order == order and node.section.order == 1 and node.slug == page.slug %}
+	<header class="intro grid cf">
+		{% if page.description != blank and page.description != nil %}
+			<h1>{{page.title}}</h1>
+			<p>{{page.description}}</p>
+		{% else %}
+			{{content}}
+		{% endif %} 
+	</header>
+{% endif %}{% endfor %}{% endfor %}
+
+{% for post in site.posts %}
+  {% if page.section.type == post.type %}
+  {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
+  {% if currentyear != year %}
+    {% unless forloop.first %}</section></div>{% endunless %}
+    <div class="grid-wrapper cf"><section class="{{currentyear}} {{page.slug}} year archive grid cf">
+    <h1>{{ currentyear }}</h1>
+    {% capture year %}{{currentyear}}{% endcapture %} 
+  {% endif %}
+    <article{% if page.[page.type].class != blank and page.[page.type].class != nil %} class="{% if page.[page.type].include_slug == 'true' %}{{ post.slug}} {% endif %}{{ page.[page.type].class }}"{% endif %}>
+      {% if page.[page.type].omit_title != 'true' %}<h1>{% if page.[page.type].unlinked_title != 'true' %}{% if post.type == 'aside' %}<a href="{{post.link}}"> {% else %}<a href="{{post.url}}">{% endif %}{{post.title}}{% if post.type == 'aside' %} <span class="fa fa-arrow-circle-o-right"></span>{% endif %}</a>{% else %} {{post.title}} {% endif %}</h1>{% endif %}
+    	{% if page.[page.type].type != 'page' %}<p class="muted">{{ post.date | date: "%B %-d, %Y" }}</p>{% endif %}
+      {% if page.[page.type].type == 'aside' %}{% if post.description != blank and post.description != nil %}<p>{{post.description}}</p>{% else %}{{post.content}}{% endif %}{% endif %}
+    </article>
+  {% endif %}
+{% endfor %}

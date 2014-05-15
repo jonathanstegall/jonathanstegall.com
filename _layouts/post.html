@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<article class="post-type-{{page.type}} grid cf">
+		<h1>{% if page.type == 'aside' %}<a href="{{page.link}}">{{page.title}} <span class="fa fa-arrow-circle-o-right"></span></a>{% else %} {{page.title}} {% endif %}</h1>
+		{% if page.type != 'page' %}
+		<p class="muted">{{ page.date | date: "%B %-d, %Y" }}{% if page.format == 'aside' %} | <a href="{{post.get_path}}">Local Page</a>{% endif %}</p>
+		{% endif %}
+    {{content}}
+</article>

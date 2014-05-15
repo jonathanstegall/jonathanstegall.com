@@ -1,0 +1,13 @@
+---
+layout: post
+status: publish
+date: 2010-02-18 13:54:11+00:00
+title: St. Lydia's
+link: http://www.stlydias.org
+type: aside
+categories:
+- church
+- emergent
+---
+
+St. Lydia’s is a “dinner church” in New York.

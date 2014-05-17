@@ -51,3 +51,5 @@ DirectoryIndex index.html
 ErrorDocument 404 /404.html
 
 ## going to need to add some redirects
+
+## also maybe webfont stuff

@@ -28,6 +28,8 @@ permalink: /:year/:month/:day/:title/
 
 production_url: http://jonathanstegall.com
 
+exclude: ['vendor']
+
 page-category-list: ['writings', 'items-of-interest', 'work', 'contact']
 
 #gems: ['jekyll/itafroma/archive']

@@ -30,10 +30,10 @@ production_url: http://jonathanstegall.com
 
 page-category-list: ['writings', 'items-of-interest', 'work', 'contact']
 
-gems: ['jekyll/itafroma/archive']
+#gems: ['jekyll/itafroma/archive']
 
 #archive:
-    layout: archive
-    path: /
-    title: Archive for :date
-    exclude: ['work', 'contact']
+#    layout: archive
+#    path: /
+#    title: Archive for :date
+#    exclude: ['work', 'contact']

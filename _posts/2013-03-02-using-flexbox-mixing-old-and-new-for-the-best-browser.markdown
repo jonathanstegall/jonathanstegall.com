@@ -9,12 +9,8 @@ categories:
 - browser issues
 - CSS
 - css3
+- flexbox
+- chris coyier
 ---
 
-> 
-  
-> 
 > Flexbox is pretty awesome and is certainly part of the future of layout. The syntax has changed quite a bit over the past few years, hence the ‘Old’ and ‘New’ syntax. But if we weave together the old, new, and in-between syntaxes, we can get decent browser support. Especially for a simple and probably the most common use case: order-controlled grids.
-> 
-> 
-

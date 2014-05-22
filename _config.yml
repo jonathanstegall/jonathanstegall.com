@@ -32,7 +32,7 @@ permalink: /:year/:month/:day/:title/
 
 production_url: http://jonathanstegall.com
 
-exclude: ['vendor']
+exclude: ['vendor', 'Gemfile', 'Rakefile', 'readme']
 
 page-category-list: ['writings', 'items-of-interest', 'work', 'contact']
 
@@ -43,3 +43,4 @@ page-category-list: ['writings', 'items-of-interest', 'work', 'contact']
 #    path: /
 #    title: Archive for :date
 #    exclude: ['work', 'contact']
+url: http://jonathanstegall.com

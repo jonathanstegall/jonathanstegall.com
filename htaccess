@@ -15,6 +15,13 @@ permalink: .htaccess
 #</IfModule>
 # END GZIP
 
+<IfModule pagespeed_module>
+    ModPagespeed on
+    ModPagespeedEnableFilters remove_comments,rewrite_javascript,rewrite_css,rewrite_images
+    ModPagespeedEnableFilters move_css_to_head
+    ModPagespeedJpegRecompressionQuality -1
+</IfModule>
+
 AddType video/ogg .ogv
 AddType video/mp4 .mp4
 AddType video/webm .webm
@@ -26,13 +33,14 @@ SetOutputFilter DEFLATE
 # Redirect /feed/ to Feedburner (if not Feedburner bot)
 <IfModule mod_rewrite.c>
 RewriteEngine on
-RewriteCond %{HTTP_USER_AGENT} !FeedBurner
-RewriteRule ^feed/?$ http://feeds2.feedburner.com/jonathanstegall [R,L]
-#RewriteRule ^comments/feed/?$ http://feeds.feedburner.com/jonathanstegall-comments [R,L]
-RewriteRule ^posts/feed/?$ http://feeds2.feedburner.com/jonathanstegall-posts [R,L]
-RewriteRule ^daily-links/feed/?$ http://feeds2.feedburner.com/jonathanstegall-dailylinks [R,L]
-RewriteRule ^work/feed/?$ http://feeds2.feedburner.com/jonathanstegall-work [R,L]
-RewriteRule ^archives/?$ http://jonathanstegall.com/blog/ [R,L]
+#RewriteCond %{HTTP_USER_AGENT} !FeedBurner
+#RewriteRule ^feed/?$ http://feeds2.feedburner.com/jonathanstegall [R,L]
+#RewriteRule ^posts/feed/?$ http://feeds2.feedburner.com/jonathanstegall-posts [R,L]
+#RewriteRule ^daily-links/feed/?$ http://feeds2.feedburner.com/jonathanstegall-dailylinks [R,L]
+#RewriteRule ^work/feed/?$ http://feeds2.feedburner.com/jonathanstegall-work [R,L]
+RewriteRule ^archives/?$ http://jonathanstegall.com/writings/ [R,L]
+RewriteRule ^blog/?$ http://jonathanstegall.com/writings/ [R,L]
+RewriteRule ^daily-links/?$ http://jonathanstegall.com/items-of-interest/?$ [R,L]
 </IfModule>
 
 # Apache/PHP settings:
@@ -46,7 +54,7 @@ RewriteRule ^archives/?$ http://jonathanstegall.com/blog/ [R,L]
 Options -Indexes
 
 # Set the default handler.
-DirectoryIndex index.html
+DirectoryIndex index.html index.xml index.php
 
 ErrorDocument 404 /404.html
 

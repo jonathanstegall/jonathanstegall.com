@@ -6,28 +6,25 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }} {% if page.title != 'Jonathan Stegall' %} | {{ site.name}} {% endif %}</title>
-    <meta name="description" content="{% if page.description != blank and page.description != nil %} {{page.description}} {% elsif page.excerpt != blank and page.excerpt != nil %} {{page.excerpt}} {% else %} {{site.description}} {% endif %}">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
+    <meta name="description" content="{% if page.description != blank and page.description != nil %}{{page.description}}{% elsif page.excerpt != blank and page.excerpt != nil %}{{page.excerpt | strip_html }}{% else %}{{site.description}}{% endif %}">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="initial-scale=1.0">
     <meta name="apple-mobile-web-app-title" content="j S">
 
     <link rel="shortcut icon" href="/favicon.ico">
-    <link rel="icon" href="/assets/img/favicon-32.png" sizes="32x32">
-    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/img/favicon-152.png">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/img/favicon-144.png">
-    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/img/favicon-120.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/img/favicon-114.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/img/favicon-72.png">
-    <link rel="apple-touch-icon-precomposed" href="/assets/img/favicon-57.png">
-    <meta name="msapplication-TileImage" content="/assets/img/favicon-144.png">
+    <link rel="icon" href="/assets/images/favicon-32.png" sizes="32x32">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/images/favicon-152.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/images/favicon-144.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/images/favicon-120.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/images/favicon-114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/images/favicon-72.png">
+    <link rel="apple-touch-icon-precomposed" href="/assets/images/favicon-57.png">
+    <meta name="msapplication-TileImage" content="/assets/images/favicon-144.png">
     <meta name="msapplication-TileColor" content="#0e2221">
 
-    <link rel="stylesheet" href="/assets/css/main.css" media="screen" />
-    <!--<link rel="stylesheet" href="//jonathanstegall.com/wp-content/themes/jonathanstegall-2013/style.css" media="screen" />-->
+    <link rel="stylesheet" href="/assets/css/main.css" media="screen">
     <script src="//use.typekit.net/eup1xch.js"></script>
     <script>try{Typekit.load();}catch(e){}</script>
   </head>
@@ -38,17 +35,17 @@
         <h1 class="logo"><a href="/" rel="home">{{ site.logo }}</a></h1>
         <nav role="navigation" class="main-navigation">
             <ul>
-                {% for order in (1..10) %}
-                  {% for p in site.pages %}
-                    {% if p.navigation.order == order %}
-                      <li{% if p.url == page.url %} class="active"{% endif %}>
-                        <a href="/{{ p.url | replace:'/',' ' | truncatewords: 1 | remove:'...' }}/">
-                          {{ p.title }}
-                        </a>
-                      </li>
-                    {% endif %}
-                  {% endfor %}
+            {% strip %}{% for order in (1..10) %}
+                {% for p in site.pages %}
+                  {% if p.navigation.order == order %}
+                    <li{% if p.url == page.url %} class="active"{% endif %}>
+                      <a href="/{{ p.url | replace:'/',' ' | truncatewords: 1 | remove:'...' }}/">
+                        {{ p.title }}
+                      </a>
+                    </li>
+                  {% endif %}
                 {% endfor %}
+              {% endfor %}{% endstrip %}
             </ul>
         </nav>
       </div>

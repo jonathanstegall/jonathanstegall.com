@@ -1,5 +1,5 @@
 #Gemfile
-source :rubygems
+source 'https://rubygems.org'
 gem "rake"                # actually not need for heroku but for the provided Rakefile
 gem "activesupport", "4.0.1"
 gem "kramdown"            # if you want to use the Textile Markup Language

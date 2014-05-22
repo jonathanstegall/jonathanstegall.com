@@ -3,6 +3,7 @@ date: 2014-02-07 20:51:03.000000000 -05:00
 layout: post
 status: publish
 title: The designer&rsquo;s job
+link: http://bokardo.com/archives/the-designers-job/
 description: ""
 excerpt:
 type: aside

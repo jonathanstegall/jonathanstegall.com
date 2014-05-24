@@ -49,6 +49,8 @@ namespace :aside do
     FileUtils.touch("_posts/#{@post_date}-#{@slug}.markdown")
     puts "Post url?"
     @url = STDIN.gets.chomp
+    puts "Post body?"
+    @body = STDIN.gets.chomp
     open("_posts/#{@post_date}-#{@slug}.markdown", 'a' ) do |file|
       file.puts "---"
       file.puts "layout: post"
@@ -59,6 +61,7 @@ namespace :aside do
       file.puts "categories:"
       file.puts "- "
       file.puts "---"
+      file.puts "#{@body}"
     end
   end
 end

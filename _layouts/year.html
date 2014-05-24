@@ -28,14 +28,14 @@ layout: default
     <ol class="grid cf">
       {% capture this_year %}{{site.time | date: '%Y'}}{% endcapture %}
       {% capture page_year %}{{page.date | date: '%Y'}}{% endcapture %}
-      {% for year in (2007..this_year) %}
+      {% strip %}{% for year in (2007..this_year) %}
         {% capture my_year %}{{year}}{% endcapture %}
         {% if my_year == this_year %}
         <li><a href="/items-of-interest/"{% if my_year == page_year %} class="active"{% endif %}>{{year}}</a></li>
         {% else %}
         <li><a href="/items-of-interest/{{year}}/"{% if my_year == page_year %} class="active"{% endif %}>{{year}}</a></li>
         {% endif %}
-      {% endfor %}
+      {% endfor %}{% endstrip %}
     </ol>
   </nav>
 

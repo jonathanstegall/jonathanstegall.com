@@ -12,7 +12,6 @@ excerpt: "From time to time, I mention <a href=\"http://www.invisiblechildren.co
   what The Rescue is and what it hopes to accomplish. There is also <a href=\"http://behindthescenes.invisiblechildren.com/post/96932852/it-will-work-it-must\">this
   video</a> that examines whether or not it will work, and this <a href=\"http://www.invisiblechildren.com/lastminute/\">\"last
   minute\"</a> video that details how you can help as April 25 draws near."
-date: 2009-04-17 21:46:50.000000000 -04:00
 type: post
 categories:
 - activism

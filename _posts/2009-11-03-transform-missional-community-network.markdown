@@ -13,7 +13,6 @@ excerpt: "Recently, the <a href=\"http://www.transformnetwork.org/\">TransFORM n
   immediate things that looks to be incredible is the <a href=\"http://www.transformnetwork.org/events/transform-east-coast-gathering\">TransFORM:
   East Coast Gathering</a> taking place from April 30, to May 2, 2010 in Washington,
   DC. <del datetime=\"2009-11-04T15:20:47+00:00\">I believe</del> It is a free event."
-date: 2009-11-03 22:31:46.000000000 -05:00
 categories:
 - church
 - ministry

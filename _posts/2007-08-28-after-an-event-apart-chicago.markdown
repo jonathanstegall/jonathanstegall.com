@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: After An Event Apart Chicago
-date: 2007-08-28 20:38:33.000000000 -04:00
 type: post
 excerpt: "So <a href=\"http://www.aneventapart.com/\">An Event Apart Chicago</a> is finished. Several things were new to me, and several were somewhat familiar, but for me, even the familiar ones were very relevant. In a way, these are the parts of the event that stuck out to me. Many of them were part of my design education, but, of course, things that are not used are easily forgotten."
 categories:

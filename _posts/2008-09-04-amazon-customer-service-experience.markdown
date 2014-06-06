@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Amazon customer service experience
-date: 2008-09-04 18:01:40.000000000 -04:00
 type: post
 categories:
 - business

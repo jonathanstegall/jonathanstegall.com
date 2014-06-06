@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Sharing a cancer cure
-date: 2008-06-19 09:25:44.000000000 -04:00
 type: post
 categories:
 - church

@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2007-03-02 08:06:31.000000000 -05:00
 status: publish
 title: Get Data Back
 description: ""

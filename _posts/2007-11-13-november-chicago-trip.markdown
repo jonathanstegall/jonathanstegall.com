@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: November Chicago Trip
-date: 2007-11-13 16:05:47.000000000 -05:00
 type: post
 categories:
 - travel

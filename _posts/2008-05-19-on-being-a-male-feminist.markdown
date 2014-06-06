@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: On being a male feminist
-date: 2008-05-19 10:05:23.000000000 -04:00
 type: post
 categories:
 - church

@@ -15,7 +15,6 @@ excerpt: "Through the OOZE Viral Bloggers program, I recently got to read <a hre
   World (a global perspective on justice), A Just Church (how the church can seek
   justice), and Conclusion (just what it says). I read the book straight through,
   but it could easily be read out of order."
-date: 2009-11-12 21:55:04.000000000 -05:00
 type: post
 categories:
 - books

@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Design of registration forms
-date: 2008-12-08 09:02:30.000000000 -05:00
 type: post
 categories:
 - design

@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Thoughts on The End of Poverty
-date: 2008-04-27 21:23:25.000000000 -04:00
 type: post
 categories:
 - books

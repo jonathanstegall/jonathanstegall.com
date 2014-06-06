@@ -12,7 +12,6 @@ excerpt: "So I hope you had a good Easter season. I interestingly spent the Lent
   is right for God to have caused it to happen), and deals skillfully with the cultural
   and theological situations in which the people who encountered Jesus lived, and
   is among those best qualified to write this kind of stuff."
-date: 2009-04-13 17:56:45.000000000 -04:00
 type: post
 categories:
 - spirituality

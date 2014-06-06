@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: I missed Blog Action Day
-date: 2008-10-17 09:52:34.000000000 -04:00
 type: post
 categories:
 - politics

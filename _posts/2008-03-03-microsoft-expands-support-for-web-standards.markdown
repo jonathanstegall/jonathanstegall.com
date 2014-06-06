@@ -4,7 +4,6 @@ status: publish
 title: Microsoft Expands Support for Web Standards
 excerpt: 'See <a href="http://www.microsoft.com/presspass/press/2008/mar08/03-03WebStandards.mspx">this
   press release</a>:'
-date: 2008-03-03 19:16:48.000000000 -05:00
 type: post
 categories:
 - design

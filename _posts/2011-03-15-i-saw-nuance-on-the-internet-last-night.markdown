@@ -12,7 +12,6 @@ excerpt: "As you may know, <a href=\"http://robbell.com/\">Rob Bell</a> has <a h
   decided to say. Probably far more than I've ever seen about a book that hadn't even
   been released, and of which the vast majority of commentators had read little or
   nothing. It's really... depressing, if you sit down and think about it."
-date: 2011-03-15 13:22:19.000000000 -04:00
 type: post
 categories:
 - theology

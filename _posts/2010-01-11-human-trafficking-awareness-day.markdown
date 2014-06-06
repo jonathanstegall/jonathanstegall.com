@@ -14,7 +14,6 @@ excerpt: "Today, as of a Senate resolution passed in 2007, is <a href=\"http://w
   href=\"http://www.callandresponse.com/\">all 27 million</a> of them, oppressed by
   the world's most lucrative criminal activity. I want to mourn for my own complicity
   in this system."
-date: 2010-01-11 23:31:18.000000000 -05:00
 type: post
 categories:
 - activism

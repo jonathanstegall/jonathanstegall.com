@@ -5,7 +5,6 @@ title: The danger of bad theodicies
 excerpt: I've had the start of this post lingering in my Drafts folder for months.
   Oddly enough, I started writing it back when certain  politicians were making absurd
   comments on rape, comments ranging from psuedoscientific to theological in nature.
-date: 2013-01-10 22:49:57.000000000 -05:00
 type: post
 categories:
 - theology

@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Tentative Cornerstone schedule
-date: 2008-04-30 11:47:10.000000000 -04:00
 type: post
 categories:
 - music

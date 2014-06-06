@@ -12,7 +12,6 @@ excerpt: "Recently, <a href=\"http://blog.tonyj.net/\">Tony Jones</a> asked his 
   East Coast Gathering</a> (which you can follow <a href=\"http://search.twitter.com/search?q=%23trans4m\">on
   Twitter</a>) I want to reflect upon what I think Emergent has offered, is offering,
   and will offer to the church."
-date: 2010-04-30 21:38:45.000000000 -04:00
 type: post
 categories:
 - church

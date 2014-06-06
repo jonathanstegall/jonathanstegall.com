@@ -3,7 +3,6 @@ layout: post
 status: publish
 title: The Practice of the Presence of God
 type: post
-date: 2007-10-30 09:46:47.000000000 -04:00
 excerpt: "Some time ago, I purchased <a href=\"http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FPractice-Presence-God-Brother-Lawrence%2Fdp%2F1590302508%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1193754990%26sr%3D8-1&amp;tag=jonathanstega-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325\">The Practice of the Presence of God</a>, and haven't yet gotten around to reading it."
 categories:
 - spirituality

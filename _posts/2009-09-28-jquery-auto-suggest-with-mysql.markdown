@@ -11,7 +11,6 @@ excerpt: "Recently, I was building a site at work that benefited from an auto su
   I had. There was one plugin that I thought would work, but I couldn't get it to
   work with a MySQL database, as it was designed to work with plain text lists in
   PHP. It may seem pathetic, but I couldn't translate it."
-date: 2009-09-28 23:29:55.000000000 -04:00
 type: post
 categories:
 - design

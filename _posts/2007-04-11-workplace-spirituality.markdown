@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: workplace spirituality
-date: 2007-04-11 11:47:24.000000000 -04:00
 type: post
 excerpt: The other day, I was part of a conversation, or a series of conversations. Among other things, one of the topics was workplace spirituality. Most of the other voices in this conversation are quite a bit more conservative than I am, which may or may not explain our differences of opinion on several of the issues.
 categories:

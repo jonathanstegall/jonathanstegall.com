@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Pentecostals and revival
-date: 2008-05-15 00:12:25.000000000 -04:00
 type: post
 categories:
 - church

@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Sharing a FileZilla Profile
-date: 2008-05-26 00:35:53.000000000 -04:00
 type: post
 categories:
 - software

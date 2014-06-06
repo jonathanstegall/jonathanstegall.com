@@ -1,5 +1,4 @@
 ---
-date: 2007-02-24 14:54:12.000000000 -05:00
 layout: post
 status: publish
 title: Minimalism to the Extreme

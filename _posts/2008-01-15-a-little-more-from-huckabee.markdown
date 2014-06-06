@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: A little more from Huckabee
-date: 2008-01-15 21:25:05.000000000 -05:00
 type: post
 excerpt: "See <a href=\"http://thinkprogress.org/2008/01/15/huckabee-amend-the-constitution-to-gods-standards/\">this clip</a> for Mike Huckabee's ideas on the Constitution. Apparently, it needs to be amended to fit &ldquot;God's standards.&rdquot;"
 categories:

@@ -11,7 +11,6 @@ excerpt: "We all know that Osama bin Laden was killed by American forces the oth
   to both our actions and our reactions to our actions, but I'm far more interested
   in what all of this (both the event, how it was announced, and how we have responded
   to it) says about us than I am in what it says about anyone else."
-date: 2011-05-05 19:00:06.000000000 -04:00
 type: post
 categories:
 - politics

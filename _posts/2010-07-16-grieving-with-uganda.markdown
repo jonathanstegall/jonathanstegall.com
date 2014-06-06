@@ -12,7 +12,6 @@ excerpt: "One of my deep joys of the last few years has been meeting and getting
   time with the Ugandans who changed his life when the attack occurred. The Invisible
   Children blog has <a href=\"http://blog.invisiblechildren.com/2010/07/in-loving-memory-of-nate-oteka-henn/\">lovely
   words in his honor</a> that I'd encourage you to read."
-date: 2010-07-16 22:04:57.000000000 -04:00
 categories:
 - activism
 tags:

@@ -1,5 +1,4 @@
 ---
-date: 2007-02-21 15:53:46.000000000 -05:00
 layout: post
 status: publish
 title: Compartmentalized church

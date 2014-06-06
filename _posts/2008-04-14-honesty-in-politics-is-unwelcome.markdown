@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Honesty in politics is unwelcome
-date: 2008-04-14 07:10:20.000000000 -04:00
 type: post
 categories:
 - politics

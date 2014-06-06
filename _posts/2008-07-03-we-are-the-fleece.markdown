@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: We are the fleece
-date: 2008-07-03 20:55:36.000000000 -04:00
 categories:
 - church
 - bible

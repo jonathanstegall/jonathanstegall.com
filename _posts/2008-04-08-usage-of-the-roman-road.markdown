@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Usage of the "Roman Road"
-date: 2008-04-08 20:45:34.000000000 -04:00
 type: post
 categories:
 - theology

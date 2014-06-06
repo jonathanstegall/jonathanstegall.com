@@ -12,7 +12,6 @@ excerpt: "Recently, the fine folks at Homebrewed Christianity started asking gue
   alternatives to, and there will also be areas where the web, and its effects on
   us, can improve our theology and spirituality. This will happen in ways at least
   as profound as it did in the aftermath of the printing press."
-date: 2011-07-09 23:24:20.000000000 -04:00
 type: post
 categories:
 - spirituality

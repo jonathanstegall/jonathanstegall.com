@@ -14,7 +14,6 @@ excerpt: "Yesterday, I had the privilege of listening to <a href=\"http://www.co
   questioning</a>, prophetic critique, and question/answer time. All of these things
   related in one way or another to race, but much more broadly applied and dealing
   with humanity, as that \"which is born between urine and feces.\""
-date: 2009-10-29 18:17:04.000000000 -04:00
 type: post
 categories:
 - spirituality

@@ -13,7 +13,6 @@ excerpt: "So today, Google's homepage greeted me with a link to <a href=\"http:/
   us that \"If you bomb Afghanistan you bomb Me\" walking around my college campus,
   and these voices were utterly drowned. I tried to join these voices, asking for
   nonviolence and prayer, from the beginning."
-date: 2009-11-09 21:34:01.000000000 -05:00
 type: post
 categories:
 - activism

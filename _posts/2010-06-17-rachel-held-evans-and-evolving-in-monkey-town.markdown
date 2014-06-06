@@ -17,7 +17,6 @@ excerpt: "If you follow me <a href=\"http://twitter.com/jonathanstegall\">on Twi
   But eventually, her critiques and questions of the views of others are turned on
   her own, and this part is called \"Challenge.\" Finally, she learns that her faith
   can change, and indeed must change. This, of course, is called \"Change.\""
-date: 2010-06-17 22:43:22.000000000 -04:00
 type: post
 categories:
 - spirituality

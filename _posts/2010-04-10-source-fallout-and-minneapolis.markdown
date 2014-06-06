@@ -14,7 +14,6 @@ excerpt: "We recently spent a week in Minneapolis with <a href=\"http://www.sour
   students from two area colleges who were there, we still got to experience praying
   with the Source, the Fallout's art gallery, some great meals, hospitality, and conversations,
   and some of the work they do and have done among the poor and oppressed of the city."
-date: 2010-04-10 23:08:31.000000000 -04:00
 type: post
 categories:
 - life

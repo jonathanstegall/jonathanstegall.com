@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Decomposition of pneumatology
-date: 2008-09-20 15:21:52.000000000 -04:00
 type: post
 categories:
 - spirituality

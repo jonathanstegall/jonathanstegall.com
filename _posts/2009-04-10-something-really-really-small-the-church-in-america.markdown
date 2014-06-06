@@ -17,7 +17,6 @@ excerpt: "Recently, in both <a href=\"http://www.csmonitor.com/2009/0310/p09s01-
   things), pondering the moves of the Spirit in the people of God and in the broader
   culture, and how the Spirit can respond to the moves of the people of God and the
   broader culture. Both of these are equally important to this discussion."
-date: 2009-04-10 22:35:30.000000000 -04:00
 categories:
 - church
 - culture

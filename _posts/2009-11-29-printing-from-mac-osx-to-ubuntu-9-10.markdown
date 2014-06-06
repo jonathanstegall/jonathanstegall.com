@@ -14,7 +14,6 @@ excerpt: "Last month, <a href=\"http://ubuntu.com/\">Ubuntu</a> released the new
   Macs gave the error <code>Processing - \"Unable to get printer status (Bad Request)!</code>.
   I've seen many other folks on forums with this issue, and I was finally able to
   get it working today."
-date: 2009-11-29 22:30:44.000000000 -05:00
 type: post
 categories:
 - apple

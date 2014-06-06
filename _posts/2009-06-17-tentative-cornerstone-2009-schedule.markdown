@@ -11,7 +11,6 @@ excerpt: "<a href=\"http://www.cornerstonefestival.com/\">Cornerstone Festival</
   of course, this doesn't include food, hanging out, looking at things in the various
   merchandise tents, and the spontaneously wonderful meetings that always happen with
   wonderful people at Cornerstone. Without those things, it wouldn't be Cornerstone."
-date: 2009-06-17 17:40:20.000000000 -04:00
 type: post
 categories:
 - music

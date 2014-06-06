@@ -16,7 +16,6 @@ excerpt: "Since I started blogging I have planned to write something for the Mar
   of the issues he raises are worse today than they were then. I couldn't find any
   audio or video to link to, I'd love to encourage all of you to read it here, in
   its fullness."
-date: 2011-01-15 21:52:50.000000000 -05:00
 type: post
 categories:
 - theology

@@ -12,7 +12,6 @@ excerpt: "Most of the sites I work with on a daily basis run on Linux servers, a
   techniques. The most common place that I find well-written articles on these subjects
   that I can actually understand and implement is <a href=\"http://perishablepress.com/\">Perishable
   Press</a>, and I can't recommend it enough if you need such knowledge."
-date: 2009-11-04 19:00:45.000000000 -05:00
 categories:
 - programming
 tags:

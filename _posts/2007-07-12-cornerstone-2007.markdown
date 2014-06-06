@@ -4,7 +4,6 @@ status: publish
 title: Cornerstone 2007
 excerpt: Although I find it difficult to write about <a href="http://www.cornerstonefestival.com/">Cornerstone</a> and cram a week's worth of thoughts into a post or two, I want to try before it
   becomes too far in the past.
-date: 2007-07-12 11:10:31.000000000 -04:00
 type: post
 categories:
 - life

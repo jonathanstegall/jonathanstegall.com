@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Reasons for IE8's Default Behavior
-date: 2008-03-04 19:57:50.000000000 -05:00
 type: post
 categories:
 - design

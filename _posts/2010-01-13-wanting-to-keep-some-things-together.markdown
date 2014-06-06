@@ -10,7 +10,6 @@ excerpt: "I reflected recently on the voices that have been questioning whether 
   give comments on the discussion that range from wonderful and full of grace to insane
   and full of judgment, and especially after reading <a href=\"http://subversiveinfluence.com/2010/01/the-decade-ahead-for-the-emerging-church/\">this
   thought</a> on the next decade of the emerging church."
-date: 2010-01-13 18:00:35.000000000 -05:00
 type: post
 categories:
 - church

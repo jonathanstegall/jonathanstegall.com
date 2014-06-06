@@ -3,7 +3,6 @@ layout: post
 status: publish
 title: Birthday Cake Photos
 excerpt: "<a href=\"http://kierastegall.com/\">My wife</a> likes to make me random birthday cakes. I thought I'd post the cakes from 2007 (the dragon) and 2008 (the bat) as a salute to her randomness."
-date: 2008-06-07 18:31:58.000000000 -04:00
 type: post
 categories:
 - life

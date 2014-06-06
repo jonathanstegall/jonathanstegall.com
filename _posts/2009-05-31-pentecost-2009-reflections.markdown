@@ -12,7 +12,6 @@ excerpt: "Today is Pentecost Sunday (yesterday, now that it is after midnight). 
   and <a href=\"http://www.facebook.com/home.php#/group.php?gid=11141833031&amp;ref=ts\">others
   on Facebook</a> have been discussing what the two movements have to say to each
   other, and I try to bring this up often here, as well."
-date: 2009-05-31 23:50:07.000000000 -04:00
 categories:
 - emergent
 - pentecostal / charismatic

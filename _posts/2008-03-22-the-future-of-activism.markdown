@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: The future of activism
-date: 2008-03-22 22:55:09.000000000 -04:00
 type: post
 categories:
 - politics

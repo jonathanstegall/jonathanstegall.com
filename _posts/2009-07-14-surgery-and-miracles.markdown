@@ -10,7 +10,6 @@ excerpt: "If you follow me on <a href=\"http://www.twitter.com/jonathanstegall/\
   having surgery on Monday, July 20 at the new Emory University Orthopaedics & Spine
   Hospital. The surgery is a bone fusion in her foot, and also involves clearing out
   bone fragments and scar tissue from the past."
-date: 2009-07-14 21:26:50.000000000 -04:00
 categories:
 - life
 - pentecostal / charismatic

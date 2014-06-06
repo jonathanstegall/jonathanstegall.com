@@ -4,7 +4,6 @@ status: publish
 title: Travel Update
 excerpt: In the next few months, there are some travels I'll be taking. I may update
   this post, as I'm sure travels will update as well.
-date: 2008-03-31 07:41:49.000000000 -04:00
 type: post
 categories:
 - life

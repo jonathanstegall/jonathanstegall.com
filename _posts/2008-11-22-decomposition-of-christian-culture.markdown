@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Decomposition of Christian culture
-date: 2008-11-22 16:22:40.000000000 -05:00
 type: post
 categories:
 - church

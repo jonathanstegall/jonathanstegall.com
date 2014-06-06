@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Passion for design on large websites
-date: 2008-06-16 17:00:57.000000000 -04:00
 type: post
 categories:
 - design

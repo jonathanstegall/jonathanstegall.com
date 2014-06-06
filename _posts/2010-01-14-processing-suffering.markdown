@@ -18,7 +18,6 @@ excerpt: "We continue to watch the misery that the Haitian people continue to en
   of processing what we are seeing, since we are not on the inside of it. I want to
   look at these issues, as they are different for us than they have been for any other
   generation in the history of humanity."
-date: 2010-01-14 20:40:46.000000000 -05:00
 type: post
 categories:
 - spirituality

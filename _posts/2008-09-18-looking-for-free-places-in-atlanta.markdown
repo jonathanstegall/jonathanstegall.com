@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Looking for free places in Atlanta
-date: 2008-09-18 19:13:16.000000000 -04:00
 type: post
 categories:
 - life

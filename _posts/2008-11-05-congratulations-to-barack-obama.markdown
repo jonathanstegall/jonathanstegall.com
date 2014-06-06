@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Congratulations to Barack Obama
-date: 2008-11-05 10:23:57.000000000 -05:00
 type: post
 categories:
 - church

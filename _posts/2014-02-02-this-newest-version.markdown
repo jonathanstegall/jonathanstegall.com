@@ -1,5 +1,4 @@
 ---
-date: 2014-02-02 01:08:03.000000000 -05:00
 layout: post
 status: publish
 title: This newest version

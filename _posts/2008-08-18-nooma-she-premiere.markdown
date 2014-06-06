@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Nooma "She" premiere
-date: 2008-08-18 10:28:45.000000000 -04:00
 categories:
 - spirituality
 - theology

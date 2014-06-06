@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Looking at getting a bike
-date: 2008-08-26 21:35:20.000000000 -04:00
 categories:
 - life
 tags: []

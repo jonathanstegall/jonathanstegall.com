@@ -14,7 +14,6 @@ excerpt: "In light of Thanksgiving yesterday, Black Friday today, and the upcomi
   aware of it at all. I'm even more confident that this civil religion is <em>not</em>
   synonymous with Christianity, even though most people, whether they are people of
   faith or not, see the two as the same."
-date: 2010-11-27 01:23:32.000000000 -05:00
 type: post
 categories:
 - theology

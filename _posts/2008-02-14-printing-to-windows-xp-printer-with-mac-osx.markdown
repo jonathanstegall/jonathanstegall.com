@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Printing to Windows XP and Ubuntu Linux Printer with Mac OSX
-date: 2008-02-14 00:24:33.000000000 -05:00
 type: post
 categories:
 - apple

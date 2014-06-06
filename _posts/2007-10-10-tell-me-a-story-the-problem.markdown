@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Tell me a story - the problem
-date: 2007-10-10 07:03:06.000000000 -04:00
 type: post
 excerpt: "In another introduction to the forthcoming series, I want to look at the problem that exists in most conservative and liberal versions of biblical interpretation."
 categories:

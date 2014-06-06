@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Thoughts on New Monasticism
-date: 2008-02-09 13:39:09.000000000 -05:00
 type: post
 categories:
 - spirituality

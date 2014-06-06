@@ -12,7 +12,6 @@ excerpt: "I missed writing for the series from my friend <a href=\"http://rachel
   and the New Testament passage was <a href=\"http://www.biblegateway.com/passage/?search=Luke%206:27%E2%80%9338&amp;version=NIV\"
   class=\"bibleref\">Luke 6:27-38</a>, one of the places in which Jesus tells us to
   love our enemies."
-date: 2011-05-12 19:00:50.000000000 -04:00
 type: post
 categories:
 - bible

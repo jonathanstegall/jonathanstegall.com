@@ -14,7 +14,6 @@ excerpt: "There's no one person I have to thank more for the kind of designer/de
   had mostly forgotten that they exist. It's fascinating, really, that they still
   have any importance at all. Most web folks I know are in the same boat I am, and
   most non-web folks don't know that they exist at all. Like Java applets, maybe."
-date: 2012-07-11 00:15:30.000000000 -04:00
 type: post
 categories:
 - design

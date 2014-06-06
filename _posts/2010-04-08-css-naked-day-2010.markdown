@@ -10,7 +10,6 @@ excerpt: "Today marks the second time (because it took me so long to design my w
   by showing how they serve to organize a site's content before it is visually organized.
   This is an important reminder to those of us concerned with accessibility, search
   engine optimization, and the standards we're promoting."
-date: 2010-04-08 09:48:19.000000000 -04:00
 type: post
 categories:
 - design

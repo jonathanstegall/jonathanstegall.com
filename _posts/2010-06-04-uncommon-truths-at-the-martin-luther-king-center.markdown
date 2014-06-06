@@ -14,7 +14,6 @@ excerpt: "To celebrate our day off this past Monday, Kiera and I spent several h
   a room full of items worn or owned by Martin and Coretta (including academic robes,
   Bibles, suits and dresses, manuscripts, etc.), a rose garden, a small exhibit about
   Ghandi, the church he pastored (currently being restored, apparently) and so on."
-date: 2010-06-04 22:10:17.000000000 -04:00
 type: post
 categories:
 - activism

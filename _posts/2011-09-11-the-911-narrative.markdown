@@ -9,7 +9,6 @@ excerpt: "I didn't plan on writing about 9/11 this year. I <a href=\"http://jona
   that the September 2001 article I reposted from the vocalist of Ballydowse is the
   best response to the event, I think there are words to be said about our national
   response since then, and it is those I decided to give attention to."
-date: 2011-09-11 22:55:15.000000000 -04:00
 type: post
 categories:
 - politics

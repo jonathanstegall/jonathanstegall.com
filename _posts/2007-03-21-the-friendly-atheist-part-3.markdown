@@ -3,7 +3,6 @@ layout: post
 status: publish
 title: The Friendly Atheist, Part 3
 excerpt: So, to come back to this theme for another post (you can see how long this would be if it were one post), here's another thing that has gripped me both before and during my thinking about this issue.
-date: 2007-03-21 12:49:10.000000000 -04:00
 type: post
 categories:
 - church

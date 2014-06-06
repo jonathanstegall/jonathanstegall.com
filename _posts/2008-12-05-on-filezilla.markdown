@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: On FileZilla
-date: 2008-12-05 08:49:36.000000000 -05:00
 categories:
 - software
 tags:

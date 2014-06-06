@@ -13,7 +13,6 @@ excerpt: "For the last month or so, instead of reading the NASB Bible I've had f
   in any of the books I read. I got my copy during Passion Week, so I read the various
   accounts of the days of that week, and then continued through Acts and on to Romans,
   hoping to give myself a strong enough feel for the way the translation works."
-date: 2010-04-21 21:30:21.000000000 -04:00
 categories:
 - books
 - bible

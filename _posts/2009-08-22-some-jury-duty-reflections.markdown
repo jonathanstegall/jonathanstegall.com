@@ -12,7 +12,6 @@ excerpt: "I spent the last several days in jury duty for Dekalb County, Georgia,
   looking back on them I was not as thoughtful in my answers as I would like to have
   been. It is possible that some of my answers, had I had more time to think on them,
   would have disqualified me from serving."
-date: 2009-08-22 14:00:09.000000000 -04:00
 type: post
 categories:
 - life

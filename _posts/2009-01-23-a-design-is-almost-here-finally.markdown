@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: A design is almost here - finally
-date: 2009-01-23 12:38:04.000000000 -05:00
 type: post
 categories:
 - design

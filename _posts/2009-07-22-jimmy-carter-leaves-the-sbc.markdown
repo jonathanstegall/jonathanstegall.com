@@ -14,7 +14,6 @@ excerpt: "I want to bring specific attention here to the recent letter that Jimm
   nature of the arguments of groups like the SBC. But regardless: I greatly applaud
   him for his decision, and for his research into the issue of how the church can
   biblically treat women in ministry."
-date: 2009-07-22 14:30:52.000000000 -04:00
 type: post
 categories:
 - theology

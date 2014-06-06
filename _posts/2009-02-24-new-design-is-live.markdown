@@ -10,7 +10,6 @@ excerpt: "So, I've finally made my new design live, as you can see. I hope you f
   for them. If you'd rather not see the daily links in your feed, you can use <a href=\"http://jonathanstegall.com/posts/feed/\">this
   feed</a> to only see posts. There is also a <a href=\"http://jonathanstegall.com/feed/\">combined
   feed</a>."
-date: 2009-02-24 08:00:50.000000000 -05:00
 type: post
 categories:
 - design

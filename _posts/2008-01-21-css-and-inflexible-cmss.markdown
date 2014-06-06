@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: CSS and inflexible CMS's
-date: 2008-01-21 10:39:17.000000000 -05:00
 type: post
 excerpt: "I don't write about <abbr title=\"Cascading Style Sheets\">CSS</abbr> as much as I'd like to. I spend a lot of time working with them on an advanced level, however, both in my day job and in any side projects."
 categories:

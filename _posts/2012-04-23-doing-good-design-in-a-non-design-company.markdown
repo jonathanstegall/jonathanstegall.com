@@ -12,7 +12,6 @@ excerpt: "There are design companies out there. The Apples, Twitters, Mints, Ins
   Regardless: they are the ones, if they have the fortune of having good designers
   working for them, that have designers working extra hard to sell their ideas to
   folks to whom they don't come naturally."
-date: 2012-04-23 00:49:40.000000000 -04:00
 type: post
 categories:
 - design

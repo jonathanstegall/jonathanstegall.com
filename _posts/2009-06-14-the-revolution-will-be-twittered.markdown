@@ -12,7 +12,6 @@ excerpt: "In case you are not aware, there has been a vast amount of <a href=\"h
   (Sunday), but others have not even done this. It has been Twitter and blogs such
   as <a href=\"http://andrewsullivan.theatlantic.com/the_daily_dish/\">Andrew Sullivan</a>'s
   that have given us information and insight into what is occurring there."
-date: 2009-06-14 22:21:32.000000000 -04:00
 type: post
 categories:
 - politics

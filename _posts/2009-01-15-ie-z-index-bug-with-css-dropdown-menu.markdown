@@ -7,7 +7,7 @@ excerpt: "In the W3C's specs, z-index is designed to affect the stacking order o
   appear above an element with a z-index of 1.\r\n\r\nIn Internet Explorer, this doesn't
   work like it should. Internet Explorer resets the stack when the positioned elements
   are separated from each other."
-date: 2009-01-15 19:12:35.000000000 -05:00
+date: 2009-01-15
 categories:
 - design
 - CSS
@@ -178,4 +178,4 @@ This ensures that the <code>header</code> and the <code>container</code>, whatev
 
 <div class="image-main"><a href="http://design.jonathanstegall.com/css/iedropdownfix.html"><img src="/wp-content/uploads/2009/01/iedropdownfix-218x140.jpg" alt="IE Dropdown Bug Fix Example" class="two-eighteen" /></a><p class="caption"><a href="http://design.jonathanstegall.com/css/iedropdownfix.html">IE7 Example - click to enlarge</a></p></div>
 
-This fix causes the dropdowns to appear above everything that is inside the content areas of the page. It works in IE7 and IE6. My example adds some code to show the <code><select></code> statement, which is another common offender.
+This fix causes the dropdowns to appear above everything that is inside the content areas of the page. It works in IE7 and IE6. My example adds some code to show the <code>select</code> element, which is another common offender.

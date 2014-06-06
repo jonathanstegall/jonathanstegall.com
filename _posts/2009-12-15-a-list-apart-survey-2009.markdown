@@ -8,7 +8,6 @@ excerpt: "Each year since 2007, <a href=\"http://alistapart.com/\">A List Apart<
   field, and its importance only grows with the mass of data collected.\r\n\r\nSo,
   if you make websites, or work in a related field, please do <a href=\"http://www.alistapart.com/articles/survey2009/\">take
   the survey</a>."
-date: 2009-12-15 18:41:09.000000000 -05:00
 type: post
 categories:
 - design

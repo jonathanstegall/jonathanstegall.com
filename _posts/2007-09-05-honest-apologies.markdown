@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Honest Apologies
-date: 2007-09-05 15:09:08.000000000 -04:00
 type: post
 excerpt: I've recently found a site called <a href=\"http://christiansconfess.com/\">Christians Confess</a>. I have to say, this is one of the most beautiful things I've seen on the Internet. While the idea of Christians confessing for the wrongs we've committed, especially toward non-Christians, is <a href=\"http://www.donaldmillerwords.com/\">not</a> <a href=\"http://www.revolutionatlanta.com/\">new</a>, I love seeing it.
 categories:

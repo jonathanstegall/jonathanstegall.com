@@ -10,7 +10,6 @@ excerpt: "I have a close friend, <a href=\"http://crucialencounter.com/\">Andy</
   looks at the excuse that <a href=\"http://crucialencounter.com/2010/08/the-offensive-gospel/\">the
   gospel is offensive</a> and therefore we are allowed, even expected, to be offensive
   also. You should read the whole thing, but I want to look at this part..."
-date: 2010-08-22 20:35:09.000000000 -04:00
 type: post
 categories:
 - church

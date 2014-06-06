@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: On designing my own website
-date: 2008-01-18 21:23:14.000000000 -05:00
 type: post
 excerpt: So, at long last, I have taken a couple of tentative steps in designing my own website. Yes, this website. http://jonathanstegall.com. Typically, I don't blog about projects until they are finished, but I'm thinking I'd like to blog my way through this one. To encourage myself, and document the reasons that I do certain things and do not do certain other things, and so on.
 categories:

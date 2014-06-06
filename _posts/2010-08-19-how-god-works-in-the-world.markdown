@@ -12,7 +12,6 @@ excerpt: "I don't spend a whole lot of time around mainstream evangelicals or Pe
   a difficult situation, or some other thing that we don't like and we comfort ourselves
   by saying that God will limit the extent of it before it becomes something we can't
   handle. The problem, though, is that it isn't true."
-date: 2010-08-19 23:07:32.000000000 -04:00
 type: post
 categories:
 - theology

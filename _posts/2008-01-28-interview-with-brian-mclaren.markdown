@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Interview with Brian McLaren
-date: 2008-01-28 08:52:28.000000000 -05:00
 type: post
 excerpt: "A couple of days ago, the Charlotte Observer had <a href=\"http://www.charlotte.com/449/story/463053.html\">this interview</a> with <a href=\"http://brianmclaren.net/\">Brian McLaren</a>, in preparation for his visit to the city this weekend. It covers a variety of topics that he has discussed, or questioned, or looked at, in his various books."
 categories:

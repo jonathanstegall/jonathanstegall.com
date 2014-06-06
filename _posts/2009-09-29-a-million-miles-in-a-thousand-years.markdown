@@ -11,7 +11,6 @@ excerpt: "Recently, I jumped at the chance to read and review Don Miller's newes
   Like Jazz Movie</a>, and it is fascinating to see how he learns about the power
   of story as he creates the story for the movie, and in the process his own life
   and story are completely revolutionized."
-date: 2009-09-29 06:00:06.000000000 -04:00
 type: post
 categories:
 - spirituality

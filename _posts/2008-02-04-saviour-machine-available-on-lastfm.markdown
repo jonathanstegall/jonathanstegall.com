@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Saviour Machine available on last.fm
-date: 2008-02-04 09:07:45.000000000 -05:00
 type: post
 categories:
 - music

@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: This Beautiful Mess
-date: 2007-09-21 16:17:35.000000000 -04:00
 type: post
 excerpt: Out in Portland, there is a church called <a href=\"http://www.imagodeicommunity.com/\">Imago Dei Community</a>. They have a <a href=\"http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=81910746\">podcast</a>. The pastor there is <a href=\"http://www.rickmckinley.net/\">Rick McKinley</a>, who is best known for being <a href=\"http://www.donaldmillerwords.com/\">Donald Miller</a>'s pastor. Enough links for three sentences?
 categories:

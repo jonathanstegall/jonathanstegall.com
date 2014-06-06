@@ -11,7 +11,6 @@ excerpt: "I'm a big fan of community, especially lately. I'm also very afraid of
   all for these reasons. But it's a powerful idea, and I'm really interested in seeing
   where it goes in the next few months."
 type: post
-date: 2009-01-14 16:28:39.000000000 -05:00
 categories:
 - church
 - culture

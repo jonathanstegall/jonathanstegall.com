@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: on fundamentalism
-date: 2007-05-25 12:23:08.000000000 -04:00
 excerpt: I have tried to stay somewhat quiet about the recent passing of Jerry Falwell. Initial reactions and thoughts aside, I think I have some comments on surrounding issues at this point.
 type: post
 categories:

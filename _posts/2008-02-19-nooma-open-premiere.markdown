@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: 'Nooma: "Open" premiere'
-date: 2008-02-19 10:06:43.000000000 -05:00
 type: post
 categories:
 - spirituality

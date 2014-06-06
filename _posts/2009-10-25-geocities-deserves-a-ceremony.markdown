@@ -10,7 +10,6 @@ excerpt: "There is <a href=\"http://mashable.com/2009/10/25/geocities-closes-2/\
   tool instead, and this led to writing HTML by hand, and countless hours of frustration
   and <code><font></code> tags, <code><blink></code> tags, and <code><frame></code>
   tags."
-date: 2009-10-25 22:26:33.000000000 -04:00
 type: post
 categories:
 - design

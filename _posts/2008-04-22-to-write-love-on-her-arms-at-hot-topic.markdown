@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: To Write Love On Her Arms At Hot Topic
-date: 2008-04-22 18:01:57.000000000 -04:00
 type: post
 categories:
 - ministry

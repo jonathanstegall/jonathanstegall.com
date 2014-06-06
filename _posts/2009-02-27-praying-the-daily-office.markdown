@@ -10,7 +10,6 @@ excerpt: "There is a practice of prayer called the Daily Office that dates back 
   church. Many in the emerging church are influenced by Celtic spirituality, ecclesiology,
   and ways of relaying the life of God into the world. This is especially the case
   within new monasticism, and those influenced by new monasticism."
-date: 2009-02-27 20:36:18.000000000 -05:00
 type: post
 categories:
 - spirituality

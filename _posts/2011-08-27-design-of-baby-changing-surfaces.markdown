@@ -11,7 +11,6 @@ excerpt: "As I expected, I've been learning a lot about baby products the past s
   I've learned better than anything else, and I wanted to share it, both as a tip
   for parents of babies and as a tip for designers of anything that people are expected
   to really use."
-date: 2011-08-27 16:44:08.000000000 -04:00
 type: post
 categories:
 - design

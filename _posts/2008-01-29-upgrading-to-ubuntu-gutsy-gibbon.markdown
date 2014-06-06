@@ -4,7 +4,6 @@ status: publish
 title: Upgrading to Ubuntu Gutsy Gibbon
 type: post
 excerpt: "The other day, I had to buy a new monitor. The one I had been using for three years finally croaked, and so I turned to eBay to get another one. When it came in, I hooked it up (after complaining that my desk hutch was too small for the larger monitor) and started up the computer. I received the message: \"Out of Range,\" on a black screen."
-date: 2008-01-29 08:08:21.000000000 -05:00
 categories:
 - linux
 tags:

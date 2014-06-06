@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Upgrading to Ubuntu Hardy Heron
-date: 2008-05-01 21:58:29.000000000 -04:00
 type: post
 categories:
 - linux

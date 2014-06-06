@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: an anniversary...
-date: 2007-04-27 22:37:54.000000000 -04:00
 type: post
 excerpt: At the risk of being cheesy and sounding overly spiritual, it was today in 1998 that I met Jesus, and I want to reflect on this milestone for a bit. In a story in the Old Testament, the Israelites,  in the book of Joshua, have crossed over the Jordan river on dry land. So they could remember this event, God had them place twelve stones in the middle of the river. This is one of my stones.
 categories:

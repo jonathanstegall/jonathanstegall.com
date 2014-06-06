@@ -13,7 +13,6 @@ excerpt: "As you may know, yesterday a <a href=\"http://thehaitianblogger.blogsp
   Days Wages</a>, who is partnering with <a href=\"http://www.worldconcern.org/haiti-earthquake/\">World
   Concern</a>. World Concern has been in Haiti since 1978, and has an incredibly high
   rating."
-date: 2010-01-13 19:32:12.000000000 -05:00
 type: post
 categories:
 - activism

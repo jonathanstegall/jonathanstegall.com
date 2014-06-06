@@ -11,7 +11,6 @@ excerpt: "Recently, my team at work spent a few months building a thing with <a 
   exist, or could be standardized, subtly improved upon, and so on. So there was quite
   a lot of design work that we did, especially for smaller devices and on the micro
   level as opposed to the macro, but that wasn't the primary purpose."
-date: 2012-12-17 19:35:14.000000000 -05:00
 type: post
 categories:
 - design

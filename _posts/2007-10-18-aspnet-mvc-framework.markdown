@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: ASP.NET MVC Framework
-date: 2007-10-18 07:04:49.000000000 -04:00
 type: post
 excerpt: "In light of the project mentioned <a href=\"http://jonathanstegall.com/2007/10/10/observations-from-a-rushed-ruby-on-rails-project/\">here</a>, I have been spending a lot of time in the past few weeks thinking about <a href=\"http://en.wikipedia.org/wiki/Model-view-controller\">MVC</a> and MVC frameworks. <a href=\"http://weblogs.asp.net/scottgu/archive/2007/10/14/asp-net-mvc-framework.aspx\">This post</a> indicates that Microsoft will be releasing a new ASP.NET MVC Framework later this year."
 categories:

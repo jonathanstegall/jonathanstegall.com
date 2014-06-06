@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Welcome to 2008
-date: 2008-01-02 13:57:01.000000000 -05:00
 type: post
 exerpt: "Woo hoo. Happy New Year, and all that."
 categories:

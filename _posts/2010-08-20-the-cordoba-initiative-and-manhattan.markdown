@@ -15,7 +15,6 @@ excerpt: "I hadn't planned on writing anything here about the <a href=\"http://w
   not affected at all by its presence or its location, and I have to admit at this
   point that anything that can add or restate intelligent words to this conversation
   deserves to be there."
-date: 2010-08-20 19:57:49.000000000 -04:00
 type: post
 categories:
 - politics

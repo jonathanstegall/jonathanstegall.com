@@ -9,7 +9,6 @@ excerpt: 'Over the New Year holiday, my wife and daughter and I took a trip to v
   good North Carolina coast seafood, we will watch lots of cartoons (not having cable
   at home makes Spongebob a nice treat for me), we''ll drink <a href="http://www.cheerwine.com/">Cheerwine</a>,
   and we''ll visit <a href="http://muddyscoffee.com/">Muddy Waters Coffeehouse</a>.'
-date: 2013-01-31 00:26:21.000000000 -05:00
 type: post
 categories:
 - culture

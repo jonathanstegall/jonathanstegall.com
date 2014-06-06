@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: The church and the military
-date: 2008-02-03 22:39:07.000000000 -05:00
 type: post
 categories:
 - church

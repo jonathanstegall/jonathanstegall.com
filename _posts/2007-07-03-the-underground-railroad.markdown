@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: The Underground Railroad
-date: 2007-07-03 12:40:50.000000000 -04:00
 type: post
 excerpt: I haven't had a chance to post on this yet, but the new version of <a href="http://www.theundergroundrailroad.org/">the Underground Railroad</a> went live last week, just before my wife and I left for <a href="http://www.cornerstonefestival.com/">Cornerstone</a> (which, I hope to write a couple of posts about).
 categories:

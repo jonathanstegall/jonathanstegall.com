@@ -14,7 +14,6 @@ excerpt: "In July of 2010, I decided to buy a smartphone. I didn't want to leave
   isn't to say that those who use Android temporarily (John Gruber, for example, or
   many of the folks he quotes) and then go back to iOS are not helpful, but it's at
   least something of a different thing when you do it for so long."
-date: 2011-12-22 22:39:11.000000000 -05:00
 type: post
 categories:
 - design

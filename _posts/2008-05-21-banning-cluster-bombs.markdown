@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Banning cluster bombs
-date: 2008-05-21 21:00:35.000000000 -04:00
 type: post
 categories:
 - politics

@@ -4,7 +4,6 @@ status: publish
 title: Blog Comment Day 2008
 excerpt: 'From <a href="http://www.johnsmulo.com/Blogging/blog-comment-day-2008.html">John Smulo</a>:'
 type: post
-date: 2008-12-01 13:30:04.000000000 -05:00
 categories:
 - blogging
 tags:

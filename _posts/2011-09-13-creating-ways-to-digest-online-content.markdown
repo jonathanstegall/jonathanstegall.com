@@ -15,7 +15,6 @@ excerpt: "One of the defining things about the experience of reading online is t
   These attempts are trying to wrestle with the vast amounts of interesting information
   available to us, as well as innovations in product design, interface design, and
   technology around the ways we read content."
-date: 2011-09-13 13:00:49.000000000 -04:00
 type: post
 categories:
 - design

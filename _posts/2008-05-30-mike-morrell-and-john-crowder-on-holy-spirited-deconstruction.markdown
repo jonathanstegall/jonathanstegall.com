@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Mike Morrell and John Crowder on Holy Spirited Deconstruction
-date: 2008-05-30 23:55:52.000000000 -04:00
 type: post
 categories:
 - spirituality

@@ -6,7 +6,6 @@ excerpt: There is a <a href="http://blog.sojo.net/2009/03/27/pentecostalisms-for
   post</a> at the <a href="http://blog.sojo.net/">Sojourners blog</a> about the nonviolent
   roots of Pentecostalism. This is one of the things I've tried to consistently write
   about, and it is one of the things that consistently runs through my mind.
-date: 2009-03-27 17:00:56.000000000 -04:00
 categories:
 - pentecostal / charismatic
 tags:

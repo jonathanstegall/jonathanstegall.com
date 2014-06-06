@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: On marriage and the State
-date: 2008-12-14 22:28:10.000000000 -05:00
 type: post
 categories:
 - church

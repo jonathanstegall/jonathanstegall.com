@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: unChristian Christianity
-date: 2008-04-10 20:58:56.000000000 -04:00
 type: post
 categories:
 - church

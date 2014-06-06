@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Ruthless Trust
-date: 2008-01-09 23:03:27.000000000 -05:00
 type: post
 excerpt: "<a href=\"http://www.brennanmanning.com/\">Brennan Manning</a> is one of my favorite authors. When I was in high school, I read <a href=\"http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FRagamuffin-Gospel-Bedraggled-Beat-Up-Burnt%2Fdp%2F1576737160%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1199762955%26sr%3D1-2&amp;tag=jonathanstega-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325\">Ragamuffin Gospel</a> for the first time. It changed my life. I re-read it every once in a while, teach from it, recommend it, and occasionally give it to people. It's an amazing book. Since then, I have been amazed by this man's words and thoughts."
 categories:

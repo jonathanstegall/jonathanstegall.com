@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Gathered Thoughts on Huckabee
-date: 2007-12-20 10:13:01.000000000 -05:00
 type: post
 excerpt: "I spent the last week recovering from surgery, so I had a lot of time to read various things around the Internet. I'm sure we've all seen a good amount of coverage about Mike Huckabee, and I want to put together the various thoughts I've had."
 categories:

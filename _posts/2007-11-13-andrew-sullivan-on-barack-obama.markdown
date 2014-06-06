@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Andrew Sullivan on Barack Obama
-date: 2007-11-13 22:34:37.000000000 -05:00
 type: post
 excerpt: "The article is about the candidacy of Barack Obama, and the significance that it offers the nation, and the world. It goes beyond the literal ideas that he espouses, and goes into what his life means, what his experiences mean, and so on. It avoids being partisan on either side, and shows how this presidency could benefit both sides."
 categories:

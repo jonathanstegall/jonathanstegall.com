@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Adobe AIR comes out of beta
-date: 2008-02-25 08:33:38.000000000 -05:00
 type: post
 categories:
 - design

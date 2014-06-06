@@ -12,7 +12,6 @@ excerpt: "In the last couple of weeks, it has been officially revealed beyond do
   a rare occurrence, but was used (as far as we know) more than 180 times in one month
   on one person. This was an official policy, not just in Abu Ghraib or Guantanamo
   Bay, but in numerous other black sites."
-date: 2009-04-20 20:42:10.000000000 -04:00
 type: post
 categories:
 - politics

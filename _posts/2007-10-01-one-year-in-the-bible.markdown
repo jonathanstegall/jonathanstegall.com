@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: One year in the Bible
-date: 2007-10-01 22:23:21.000000000 -04:00
 type: post
 excerpt: "There are lots of devotional Bibles that take the reader through the Bible in one year. Usually, they'll assign a daily reading that contains something from the Old Testament, something from a Psalm or Proverb, and something from the New Testament. The faithful reader will have read all sixty-six books after 365 days. Typically, the selections are not particularly related to each other, or in context with each other, so they are not a good way to learn to study the Bible."
 categories:

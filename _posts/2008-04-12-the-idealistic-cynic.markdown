@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: The idealistic cynic
-date: 2008-04-12 21:00:06.000000000 -04:00
 type: post
 categories:
 - life

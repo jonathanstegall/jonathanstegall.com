@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Torture is a Moral Issue
-date: 2008-04-28 12:44:18.000000000 -04:00
 type: post
 categories:
 - church

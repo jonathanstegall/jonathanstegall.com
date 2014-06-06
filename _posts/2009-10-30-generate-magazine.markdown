@@ -15,7 +15,6 @@ excerpt: "We got our copy of the first issue of <a href=\"http://generatemagazin
   know of several others, including <a href=\"http://soupiset.com/\">Paul Soupiset</a>,
   Carla Barnhill, and <a href=\"http://homebrewedchristianity.com/author/chad/\">Chad
   Crawford</a>. They all do wonderful things, and make the magazine a fantastic experience."
-date: 2009-10-30 17:00:25.000000000 -04:00
 categories:
 - art
 - emergent

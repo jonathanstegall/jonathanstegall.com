@@ -11,7 +11,6 @@ excerpt: "Lastnight, we had the opportunity to see Jim Wallis of <a href=\"http:
   We listened to his talk, and then we almost accidentally bumped into him when everyone
   was heading into the lobby. We bought his new book, and got to shake his hand and
   thank him for coming, and he asked us a couple of questions, and then we left."
-date: 2010-02-06 16:51:22.000000000 -05:00
 type: post
 categories:
 - spirituality

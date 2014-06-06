@@ -3,7 +3,6 @@ layout: post
 status: publish
 title: A brief update
 excerpt: "Currently, I'm attending <a href=\"http://www.uxweek.com/\">UX Week 2008</a> in San Francisco. Should you happen to be there, feel free to post a comment."
-date: 2008-08-12 22:44:23.000000000 -04:00
 type: post
 categories:
 - politics

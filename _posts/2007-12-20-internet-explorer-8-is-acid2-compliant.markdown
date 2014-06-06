@@ -4,7 +4,6 @@ status: publish
 title: Internet Explorer 8 is Acid2 Compliant
 excerpt: 'From the <a href="http://blogs.msdn.com/ie/archive/2007/12/19/internet-explorer-8-and-acid2-a-milestone.aspx">Internet Explorer team blog</a>:'
 type: post
-date: 2007-12-20 13:18:08.000000000 -05:00
 categories:
 - design
 - microsoft

@@ -11,7 +11,6 @@ excerpt: "On April 25, <a href=\"http://www.invisiblechildren.com/\">Invisible C
   that the world will take action to rescue them. We wrote letters, made art projects,
   reached out to news outlets, and (in Atlanta's case) marched from Turner Field to
   Grant Park, holding onto ropes and signs."
-date: 2009-04-29 00:01:21.000000000 -04:00
 type: post
 categories:
 - life

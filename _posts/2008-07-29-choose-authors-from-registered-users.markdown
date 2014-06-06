@@ -3,7 +3,6 @@ layout: post
 status: publish
 title: Choose Authors From Registered Users
 excerpt: "I've made my first, hopefully useful for public consumption, plugin for <a href=\"http://wordpress.org/\">WordPress</a>. I've made a few other plugins, but none of them seemed to be really useful or customizable to benefit others."
-date: 2008-07-29 15:41:02.000000000 -04:00
 type: post
 categories:
 - blogging

@@ -11,7 +11,6 @@ excerpt: "Each year, I try to reflect on the music and the seminars that I see a
   year seems to have its own character between the music, the seminars, and the random
   folks we meet or reconnect with. It adds a nice bit of unpredictability, though
   there are always constants for us and it mixes together really well."
-date: 2010-07-25 23:50:00.000000000 -04:00
 type: post
 categories:
 - culture

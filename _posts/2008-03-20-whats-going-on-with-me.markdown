@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: What's going on with me?
-date: 2008-03-20 19:25:21.000000000 -04:00
 type: post
 categories:
 - spirituality

@@ -4,7 +4,6 @@ status: publish
 title: This Beautiful Mess - Chapter Five
 excerpt: 'Chapter five of <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fdp%2F1590525019%3Fpf%5Frd%5Fm%3DATVPDKIKX0DER%26pf%5Frd%5Fs%3Dcenter-2%26pf%5Frd%5Fr%3D0Q39Y87SX6KEHQGDPCBR%26pf%5Frd%5Ft%3D101%26pf%5Frd%5Fp%3D278240301%26pf%5Frd%5Fi%3D507846&amp;tag=jonathanstega-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325">This Beautiful Mess</a> gets me right here:'
 type: post
-date: 2007-12-15 13:19:39.000000000 -05:00
 categories:
 - spirituality
 - books

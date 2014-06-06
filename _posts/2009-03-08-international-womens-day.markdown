@@ -14,7 +14,6 @@ excerpt: "So today is <a href=\"http://en.wikipedia.org/wiki/International_Women
   do this, sometimes when women are present, and I try to be aware of it and instead
   find out why the women present are silent, and what I can do to allow them to speak
   instead of having to listen to me."
-date: 2009-03-08 23:45:05.000000000 -04:00
 categories:
 - church
 - culture

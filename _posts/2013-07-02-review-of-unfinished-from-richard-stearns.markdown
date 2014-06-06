@@ -6,7 +6,6 @@ excerpt: 'Recently, I had the opportunity to read <a href="http://www.amazon.com
   Believing Is Only the Beginning</em></a>, the new book from <a href="http://richstearns.org/">Richard
   Stearns</a>, through Thomas Nelson''s <a href="http://booksneeze.com/">BookSneeze</a>
   program for bloggers. Stearns, of course, is the President of World Vision US.'
-date: 2013-07-02 23:52:55.000000000 -04:00
 type: post
 categories:
 - theology

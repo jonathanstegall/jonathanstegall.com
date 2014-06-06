@@ -13,7 +13,6 @@ excerpt: "I became a father the other day. It's all quite surreal, still, so I'm
   sleep, time, spontaneity, and other things that generally increase my sense of fear),
   and I do fear that my hopes will come to nothing. But if I don't remember the hopes,
   I feel like I'm more likely to be paralyzed by the fears."
-date: 2011-05-25 21:56:52.000000000 -04:00
 type: post
 categories:
 - life

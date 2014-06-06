@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: More CSS for large websites
-date: 2008-03-29 18:37:53.000000000 -04:00
 type: post
 categories:
 - design

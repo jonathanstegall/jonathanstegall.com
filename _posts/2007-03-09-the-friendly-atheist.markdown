@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: The Friendly Atheist, Part 1
-date: 2007-03-09 07:23:46.000000000 -05:00
 excerpt: Recently, a <a href="http://www.friendlyatheist.com">friendly atheist</a> has been appearing in various media outlets. Hemant Mehta, who is the friendly atheist, became the eBay atheist when he took bids to attend church. Bids increased the amount of hours he would spend. The auction money was donated to the Secular Student Alliance, who works for things like taking God out of the Pledge of Allegiance.
 type: post
 categories:

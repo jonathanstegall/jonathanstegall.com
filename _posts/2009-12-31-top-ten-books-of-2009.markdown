@@ -9,7 +9,6 @@ excerpt: "Starting with <a href=\"http://jonathanstegall.com/2009/01/01/books-of
   picking a few lets me look back on the thoughts that have impacted me the most,
   and hopefully try to figure out how my life is different because of them, and how
   it should be if it isn't. This year I tried to narrow it down to ten."
-date: 2009-12-31 09:43:55.000000000 -05:00
 type: post
 categories:
 - books

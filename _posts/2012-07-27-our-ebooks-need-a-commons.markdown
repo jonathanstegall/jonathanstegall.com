@@ -14,7 +14,6 @@ excerpt: "Like most folks on the web, I've been watching the ebook shift with gr
   it indicates just how far we still have to go in creating the experiences that enable
   people to read digitally, as they surely will, and do it well, as they may or may
   not."
-date: 2012-07-27 00:49:25.000000000 -04:00
 type: post
 categories:
 - design

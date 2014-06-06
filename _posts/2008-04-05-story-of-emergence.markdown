@@ -5,7 +5,6 @@ title: Story of emergence
 excerpt: 'From <a href="http://agmergent.wordpress.com/">Emerging Pentecostals</a>:
 <blockquote><p>...a conversation about emergence within a pentecostal framework would be helped greatly if we took some time to share our stories of emergence.</p></blockquote>
 This is a wonderful idea, and I want to be a part of it. Thus, consider this my story of emergence, or of how I came to be involved with both the pentecostal church and what is commonly called the emerging church.'
-date: 2008-04-05 00:50:43.000000000 -04:00
 type: post
 categories:
 - spirituality

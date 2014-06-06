@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Atlanta happenings for Thanksgiving week
-date: 2008-11-20 21:44:47.000000000 -05:00
 type: post
 categories:
 - church

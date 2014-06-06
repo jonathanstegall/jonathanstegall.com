@@ -4,7 +4,6 @@ status: publish
 title: One place to find Christian music
 excerpt: 'I got an email recently that was advertising a Christian version of iTunes. It described itself like this:'
 type: post
-date: 2008-08-01 20:00:48.000000000 -04:00
 categories:
 - music
 tags: []

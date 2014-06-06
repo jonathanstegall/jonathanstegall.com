@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: This Beautiful Mess - Chapter Six
-date: 2007-12-16 13:45:38.000000000 -05:00
 type: post
 excerpt: "Chapter six of <a href=\"http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fdp%2F1590525019%3Fpf%5Frd%5Fm%3DATVPDKIKX0DER%26pf%5Frd%5Fs%3Dcenter-2%26pf%5Frd%5Fr%3D0Q39Y87SX6KEHQGDPCBR%26pf%5Frd%5Ft%3D101%26pf%5Frd%5Fp%3D278240301%26pf%5Frd%5Fi%3D507846&amp;tag=jonathanstega-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325\">This Beautiful Mess</a> is a reminder that, although the kingdom is here, it's around for us to join and live in, it's also not here. There is a tension. There is a \"not yet.\""
 categories:

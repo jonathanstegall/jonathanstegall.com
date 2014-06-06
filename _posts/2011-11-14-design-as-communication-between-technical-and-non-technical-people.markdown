@@ -10,7 +10,6 @@ excerpt: "One of the interesting things about web design is the number of fields
   really interesting thing to me about this is the unique opportunity it gives us,
   as web designers or UX designers or whatever, to be the connection between people
   and fields that typically don't understand each other at all. Let me elaborate."
-date: 2011-11-14 19:26:11.000000000 -05:00
 type: post
 categories:
 - design

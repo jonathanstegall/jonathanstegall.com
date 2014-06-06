@@ -13,7 +13,6 @@ excerpt: "Through the <a href=\"http://brb.thomasnelson.com/\">Thomas Nelson Boo
   does a really good job. It tells fascinating stories of the social good that the
   wealth of the company accomplished for its own employees, the city of Dublin, and
   the British Isles, especially in the 19th and early 20th centuries."
-date: 2009-10-11 21:23:33.000000000 -04:00
 type: post
 categories:
 - books

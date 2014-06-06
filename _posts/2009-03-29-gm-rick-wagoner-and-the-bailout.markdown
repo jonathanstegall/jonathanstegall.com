@@ -10,7 +10,6 @@ excerpt: "There is a bit of discussion about the fact that the White House <a hr
   again, just because it is \"too big to fail\"? Do people recognize that GM has utterly
   failed, and that usually when a business fails its CEO is replaced by its owners?
   Those owners, in GM's case, would be the government, at this point."
-date: 2009-03-29 22:40:03.000000000 -04:00
 categories:
 - politics
 - business

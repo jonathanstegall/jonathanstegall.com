@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Poignant guide to Ruby, and other news
-date: 2007-06-06 13:31:37.000000000 -04:00
 excerpt: So, I've just recently finished a nice freelance project...
 type: post
 categories:

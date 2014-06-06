@@ -13,7 +13,6 @@ excerpt: "Last week, we were at <a href=\"http://cornerstonefestival.com/\">Corn
   it due to its creators, and it keeps things a bit more tempered than you might expect.
   In any case, one morning we were walking down a path and I saw a sticker on someone's
   ATV that read: \"Liberal Logic: Terrorists have rights, Christians don't.\""
-date: 2010-07-08 19:00:39.000000000 -04:00
 type: post
 categories:
 - church

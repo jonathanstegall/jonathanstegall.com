@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Accountability of information
-date: 2008-03-11 19:19:36.000000000 -04:00
 type: post
 categories:
 - culture

@@ -6,7 +6,6 @@ excerpt: To take a small break from my current series, like most of us I've been
   a lot about the <del datetime="2008-09-29T15:37:48+00:00">screwed</del> <del datetime="2008-09-29T15:37:48+00:00">toilet
   scum</del> really awful status of the American economy and what caused it and what
   is being done about it.
-date: 2008-09-29 17:00:42.000000000 -04:00
 type: post
 categories:
 - culture

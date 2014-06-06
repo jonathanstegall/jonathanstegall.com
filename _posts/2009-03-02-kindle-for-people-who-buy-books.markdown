@@ -3,7 +3,6 @@ layout: post
 status: publish
 title: Kindle for people who buy books
 excerpt: "When Amazon's Kindle first came out, I wasn't impressed. I thought it would certainly be annoying to read normal length books on screens. I saw one a few months ago at a conference, and was much more impressed. Amazon really managed to create a device for reading books that doesn't look like it would be annoying (granted, I only saw it for a few minutes).\r\n\r\nRecently, of course, they released the redesigned <a href=\"http://www.amazon.com/Kindle-Amazons-Wireless-Reading-Generation/dp/B00154JDAI/ref=amb_link_83624371_1?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=center-1&amp;pf_rd_r=1E6GRPFHTJDSR4VY0FAA&amp;pf_rd_t=101&amp;pf_rd_p=469942651&amp;pf_rd_i=507846\">Kindle 2</a>, which looks much better. That said, I think it still needs something to work for people who already buy lots of books."
-date: 2009-03-02 09:08:27.000000000 -05:00
 type: post
 categories:
 - books

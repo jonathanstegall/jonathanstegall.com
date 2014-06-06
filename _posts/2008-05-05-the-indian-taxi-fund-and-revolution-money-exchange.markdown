@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: The Indian Taxi Fund and Revolution Money Exchange
-date: 2008-05-05 08:45:57.000000000 -04:00
 type: post
 categories:
 - blogging

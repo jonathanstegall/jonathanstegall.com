@@ -15,7 +15,6 @@ excerpt: "Recently, I read <a href=\"http://julieclawson.com/\">Julie Clawson</a
   to an entirely different level. But <em>Everyday Justice</em> covers our role in
   very specific issues - slavery, sweatshop and child labor, and so on. It also has
   vital importance to our conversations around justice."
-date: 2009-11-27 13:57:23.000000000 -05:00
 type: post
 categories:
 - books

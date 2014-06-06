@@ -11,7 +11,6 @@ excerpt: "The last couple of days, there has been a lot of talk about <a href=\"
   America</a> was gathering to discuss the issue of ordaining people in committed
   same-sex relationships. John Piper interprets the tornado in the following series
   of thoughts:"
-date: 2009-08-21 21:27:17.000000000 -04:00
 categories:
 - theology
 - bible

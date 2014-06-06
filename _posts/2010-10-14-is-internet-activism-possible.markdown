@@ -18,7 +18,6 @@ excerpt: "Malcolm Gladwell had <a href=\"http://www.newyorker.com/reporting/2010
   reaction</a> to his article was that he is simultaneously right and wrong. Again,
   to an extent I agree with him and think his point is essential for many people to
   see. But I'm of the opinion that he's also wrong."
-date: 2010-10-14 21:23:28.000000000 -04:00
 type: post
 categories:
 - activism

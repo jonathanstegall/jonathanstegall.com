@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Dad things
-date: 2008-06-24 22:45:43.000000000 -04:00
 categories:
 - blogging
 - life

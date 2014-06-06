@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Thoughts on Everything Must Change
-date: 2008-05-30 22:56:15.000000000 -04:00
 type: post
 categories:
 - church

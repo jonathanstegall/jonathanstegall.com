@@ -13,7 +13,6 @@ excerpt: "There is an <a href=\"http://www.tampabay.com/news/education/college/a
   the colleges, and the workers in the factories. Russell's response is the typical
   doublespeak that is common from companies in the apparel industry, though it is
   even less convincing than many."
-date: 2009-04-05 21:54:13.000000000 -04:00
 type: post
 categories:
 - activism

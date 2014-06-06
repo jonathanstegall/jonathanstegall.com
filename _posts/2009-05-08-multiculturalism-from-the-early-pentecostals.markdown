@@ -11,7 +11,6 @@ excerpt: "I talk fairly often about the early characteristics of the Pentecostal
   more of these things. This is partly in response to a seminar on <a href=\"http://www.amazon.com/gp/product/0830833609?ie=UTF8&amp;tag=jonathanstega-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0830833609\">The
   Next Evangelicalism: Freeing the Church from Western Cultural Captivity</a> that
   I attended the other day."
-date: 2009-05-08 16:52:40.000000000 -04:00
 type: post
 categories:
 - emergent

@@ -4,7 +4,6 @@ status: publish
 title: Jesus for President tour
 excerpt: "At <a href=\"http://www.cornerstonefestival.com/\"> Cornerstone Festival</a> this year, the <a href=\"http://www.jesusforpresident.org/\">Jesus for President</a> tour made a stop on July 4. As Shane Claiborne's <a href=\"http://blog.beliefnet.com/godspolitics/2008/07/by-shane-claiborne.html\">recent article</a> says, we then had an alternative celebration."
 type: post
-date: 2008-07-11 19:00:00.000000000 -04:00
 categories:
 - politics
 - theology

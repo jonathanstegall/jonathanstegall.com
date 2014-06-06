@@ -17,7 +17,6 @@ excerpt: "I feel like it's a good thing for me to offer a bit of a response to a
   relationships within the movement. Because the video is so geared toward being viral
   rather than comprehensive and intellectual, people's responses are understandably
   not all that comprehensive either."
-date: 2012-03-10 22:29:33.000000000 -05:00
 type: post
 categories:
 - activism

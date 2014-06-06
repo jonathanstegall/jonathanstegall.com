@@ -15,7 +15,6 @@ excerpt: "If you follow such developments, you may have seen the Christianity To
   of the church. For more on this, read Andrew Marin's <a href=\"http://www.loveisanorientation.com/\">blog</a>
   and <a href=\"http://www.amazon.com/gp/product/0830836268?ie=UTF8&amp;tag=jonathanstega-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0830836268\">his
   book</a>."
-date: 2010-04-14 19:00:55.000000000 -04:00
 type: post
 categories:
 - church

@@ -4,7 +4,6 @@ status: publish
 title: Things I've Done
 excerpt: 'Inspired by <a href="http://julieclawson.com/2008/12/08/things-ive-done/">Julie</a>
   and <a href="http://emergingpensees.blogspot.com/2008/12/things-ive-done.html">Mike</a>:'
-date: 2008-12-09 13:50:20.000000000 -05:00
 type: post
 categories:
 - blogging

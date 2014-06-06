@@ -13,7 +13,6 @@ excerpt: "Like many others, I've been following Egypt's revolution the past seve
   Israel, concerns that Islamists will win the day, and criticisms of the Obama administration
   from both sides have abounded. I don't have any interest in these U.S.-centric questions.
   This is not about us, and we do Egyptians an injustice by pretending that it is."
-date: 2011-02-01 23:43:16.000000000 -05:00
 type: post
 categories:
 - politics

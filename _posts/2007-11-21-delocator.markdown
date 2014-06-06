@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Delocator - Non-Corporate Cafes, etc.
-date: 2007-11-21 12:29:13.000000000 -05:00
 type: post
 excerpt: Today, I found <a href="http://www.delocator.net/">Delocator</a>, a site that locates non-corporate cafes, bookstores, and movie theaters based on one's zip code.
 categories:

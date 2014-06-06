@@ -16,7 +16,6 @@ excerpt: "Recently, <a href=\"http://jonathanstegall.com/2010/03/16/beta-faith-a
   and in a theological and spiritual sense as I care about the ways in which we think
   and talk about God, the kingdom of God, and the church and its mission in the world;
   so I want to start some thinking about this."
-date: 2010-03-23 18:30:52.000000000 -04:00
 type: post
 categories:
 - design

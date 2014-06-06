@@ -12,7 +12,6 @@ excerpt: "I've made no secret that I love <a href=\"http://donmilleris.com/\">Do
   to various things that may not actually require us to change the ways we live, but
   we still want to feel like humanitarians and activists. He compares this directly
   with the cost of, for example, being a positive role model for folks without fathers."
-date: 2010-05-10 18:51:47.000000000 -04:00
 type: post
 categories:
 - culture

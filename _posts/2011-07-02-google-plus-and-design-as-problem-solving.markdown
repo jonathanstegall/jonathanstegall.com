@@ -12,7 +12,6 @@ excerpt: "As you may know, Google has opened up limited access to its new social
   has a flawed design at its very core, and I'm skeptical that it will succeed. I'd
   be fine if I were proven wrong, as I'm not a huge fan of Facebook's design, but
   I'll be surprised if that happens."
-date: 2011-07-02 21:00:07.000000000 -04:00
 type: post
 categories:
 - design

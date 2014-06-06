@@ -12,7 +12,6 @@ excerpt: "Recently, I had the opportunity to read <a href=\"http://www.amazon.co
   brings, and partly an expression of that call to justice and the ways in which the
   American church has, for the most part, completely missed it and thus presented
   the world with a gospel that is not complete."
-date: 2010-05-31 17:21:09.000000000 -04:00
 type: post
 categories:
 - books

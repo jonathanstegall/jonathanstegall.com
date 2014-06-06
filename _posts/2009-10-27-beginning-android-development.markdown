@@ -18,7 +18,6 @@ excerpt: "Recently, I have started to work with <a href=\"http://www.android.com
   more control over it than Verizon, I think it can potentially provide the best competition
   to the iPhone that anyone has provided thus far, and this would be a good thing
   for everyone."
-date: 2009-10-27 17:00:12.000000000 -04:00
 type: post
 categories:
 - programming

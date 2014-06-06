@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Efficient CSS for large websites
-date: 2008-03-28 09:00:19.000000000 -04:00
 type: post
 categories:
 - design

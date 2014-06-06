@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: My presidential endorsement
-date: 2008-02-05 09:08:26.000000000 -05:00
 type: post
 categories:
 - politics

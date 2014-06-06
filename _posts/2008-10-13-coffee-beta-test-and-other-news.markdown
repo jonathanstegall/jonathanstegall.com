@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Coffee beta test and other news
-date: 2008-10-13 11:19:14.000000000 -04:00
 type: post
 categories:
 - life

@@ -10,7 +10,6 @@ excerpt: "<a href=\"http://www.invisiblechildren.com/\">Invisible Children</a> i
   side projects as well.\r\n\r\nBut at the moment, I want to draw attention to Invisible
   Children's <a href=\"http://www.invisiblechildren.com/blog/2009/03/09/tri-2009/\">TRI
   2009</a> campaign."
-date: 2009-03-10 07:22:53.000000000 -04:00
 categories:
 - activism
 type: post

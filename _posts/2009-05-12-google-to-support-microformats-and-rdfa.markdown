@@ -18,7 +18,6 @@ excerpt: "Today, we have been informed that <a href=\"http://radar.oreilly.com/2
   data that it contains, and make intelligent connections and decisions about that
   data. This has implications, of course, for any number of ways of connecting people
   with the things that are important to them."
-date: 2009-05-12 16:00:51.000000000 -04:00
 categories:
 - design
 tags:

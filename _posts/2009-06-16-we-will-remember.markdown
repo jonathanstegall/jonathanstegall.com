@@ -6,7 +6,6 @@ excerpt: I believe this will be an image that we will look back on and remember 
   way many remember Tiananmen, twenty years later. I encourage you to look through
   the Picasa gallery where this photo appears, as well as <a href="http://www.boston.com/bigpicture/2009/06/irans_disputed_election.html">these
   larger versions</a> at boston.com. Some of these images are graphic.
-date: 2009-06-16 17:37:38.000000000 -04:00
 type: post
 categories:
 - politics

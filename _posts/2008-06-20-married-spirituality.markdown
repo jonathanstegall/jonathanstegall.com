@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Married spirituality
-date: 2008-06-20 21:00:22.000000000 -04:00
 type: post
 categories:
 - spirituality

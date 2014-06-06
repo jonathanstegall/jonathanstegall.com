@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Small government or big government
-date: 2008-08-26 20:00:38.000000000 -04:00
 type: post
 categories:
 - politics

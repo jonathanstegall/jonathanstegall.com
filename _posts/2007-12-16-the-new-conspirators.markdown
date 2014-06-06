@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: The New Conspirators
-date: 2007-12-16 14:55:32.000000000 -05:00
 type: post
 excerpt: In March, Tom Sine of <a href="http://www.msainfo.org/">Mustard Seed Associates</a> is releasing a book called <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0830833846%3Fie%3DUTF8%26coliid%3DIIEBZYV9R6QQY%26colid%3D1W735RDWX7WS4&amp;tag=jonathanstega-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325">The New Conspirators</a>. The book has a blog <a href="http://mustardseedjourney.wordpress.com/">here</a>.
 categories:

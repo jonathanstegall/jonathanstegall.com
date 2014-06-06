@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Pleasing people or pleasing God
-date: 2008-04-04 23:56:42.000000000 -04:00
 type: post
 categories:
 - spirituality

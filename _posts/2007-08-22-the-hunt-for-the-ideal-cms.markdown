@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: The hunt for the ideal CMS
-date: 2007-08-22 08:32:07.000000000 -04:00
 type: post
 excerpt: "Currently, I'm in the midst of a hunt for a Content Management System (CMS) to use for a client project. Basically, this hunt is occurring in the hopes that I can save time on the project by using something that is already in existence."
 categories:

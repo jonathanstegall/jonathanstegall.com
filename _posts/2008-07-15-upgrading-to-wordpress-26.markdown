@@ -3,7 +3,6 @@ layout: post
 status: publish
 title: Upgrading to Wordpress 2.6
 excerpt: "<a href=\"http://www.wordpress.org/\">WordPress</a> has officially released version 2.6, with <a href=\"http://wordpress.org/development/2008/07/wordpress-26-tyner/\">some nice changes</a>."
-date: 2008-07-15 12:45:03.000000000 -04:00
 type: post
 categories:
 - blogging

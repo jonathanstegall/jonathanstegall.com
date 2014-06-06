@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Comments on Barack Obama and Jeremiah Wright
-date: 2008-03-19 21:52:36.000000000 -04:00
 type: post
 categories:
 - politics

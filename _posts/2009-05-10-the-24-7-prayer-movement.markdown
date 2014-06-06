@@ -12,7 +12,6 @@ excerpt: "Several years ago, a <a href=\"http://www.bluboxrevolution.com/\">grea
   church, and have much to say to it.\r\n\r\nRecently, I finally got around to reading
   <a href=\"http://www.amazon.com/gp/product/0972927662?ie=UTF8&amp;tag=jonathanstega-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0972927662\">Red
   Moon Rising</a>, which is the story of the first few years of the movement."
-date: 2009-05-10 23:13:10.000000000 -04:00
 categories:
 - books
 - ministry

@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: August Burns Red Christmas song
-date: 2007-12-10 08:56:37.000000000 -05:00
 type: post
 excerpt: "I have to admit: I'm not a fan of Christmas music. I can pick out a very small number of Christmas songs that I like. But, today I can add another one."
 categories:

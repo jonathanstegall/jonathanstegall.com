@@ -6,7 +6,6 @@ excerpt: |-
   As I've said here before, when I look at church history I see strong, real links between the nonviolent, prophetic, anti-Imperial life that Jesus advocated for his followers, and the charismatic, Spirit-filled life that he advocated for those same followers. Often, over the centuries, the two emerged together (the very early church, some elements of the Desert Fathers, various mystics, the Anabaptists, and then the Pentecostals). Often, they faded together (most of these examples lost one element, both elements, or faded into obscurity).
 
   The coinciding emergence of these two sides happened most recently in the beginnings of the Pentecostal movement, as I've said, though the pacifism and, indeed, political independence of any kind, of the early Pentecostals has all but faded into allegiance to conservatism as it now exists in America.
-date: 2009-08-16 14:53:58.000000000 -04:00
 categories:
 - politics
 - theology

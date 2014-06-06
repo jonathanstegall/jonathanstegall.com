@@ -8,7 +8,6 @@ excerpt: "At lunch recently, <a href=\"http://kierastegall.com/\">Kiera</a> aske
   I could experience and learn about God and walk with others toward that experience
   and learning, ways that I could express truth and beauty through design, and ways
   that I could walk in and love justice, peace, and mercy."
-date: 2009-05-09 18:00:59.000000000 -04:00
 categories:
 - life
 tags: []

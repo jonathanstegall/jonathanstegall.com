@@ -3,7 +3,6 @@ layout: post
 status: publish
 title: Decomposition of Christian politics
 type: post
-date: 2008-10-25 17:38:35.000000000 -04:00
 categories:
 - church
 - politics

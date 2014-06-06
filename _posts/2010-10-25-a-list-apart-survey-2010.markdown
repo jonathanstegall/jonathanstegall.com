@@ -7,7 +7,6 @@ excerpt: 'It''s that time again: <a href="http://alistapart.com/">A List Apart</
   you should <a href="http://www.alistapart.com/articles/survey2010/">take the survey</a>.
   There is literally nothing else that does this for our field, and it''s importance
   is, I think, very high and has grown higher each year since it started in 2007.'
-date: 2010-10-25 23:16:56.000000000 -04:00
 type: post
 categories:
 - design

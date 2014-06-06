@@ -3,7 +3,6 @@ layout: post
 status: publish
 title: The Friendly Atheist, Part 2
 excerpt: <blockquote>Clearly, most churches have aligned themselves against non-religious people. By adopting this stance, Christians have turned off the people I would think they want to connect with.</blockquote>
-date: 2007-03-13 12:08:13.000000000 -04:00
 type: post
 categories:
 - church

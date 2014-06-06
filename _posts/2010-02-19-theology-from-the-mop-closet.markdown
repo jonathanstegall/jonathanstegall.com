@@ -15,7 +15,6 @@ excerpt: "I got married, as I've said, on December 6, 2003. A couple of weeks af
   college where my friend pursued his undergraduate education is solidly situated
   in classic liberal Christianity, and has connections with the <a href=\"http://www.umc.org/\">United
   Methodist Church</a>."
-date: 2010-02-19 19:00:04.000000000 -05:00
 type: post
 categories:
 - theology

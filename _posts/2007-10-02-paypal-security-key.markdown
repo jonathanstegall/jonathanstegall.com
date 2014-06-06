@@ -4,7 +4,6 @@ status: publish
 title: PayPal Security Key
 excerpt: 'For everyone who uses PayPal and/or eBay: the <a href="https://www.paypal.com/securitykey">PayPal
   Security Key</a>.'
-date: 2007-10-02 12:33:32.000000000 -04:00
 type: post
 categories:
 - business

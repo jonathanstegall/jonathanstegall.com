@@ -16,7 +16,6 @@ excerpt: "I recently read <a href=\"http://www.amazon.com/gp/product/0830751203?
   lead and follow folks into something bigger than an individual, through crisis and
   pain, rejecting the power of violence and oppression in favor of the power of the
   Cross, toward freedom and real community; patiently waiting for the dreams of God."
-date: 2010-03-02 22:45:44.000000000 -05:00
 type: post
 categories:
 - books

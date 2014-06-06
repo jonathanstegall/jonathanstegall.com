@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: 2008 election initial thoughts
-date: 2007-07-19 21:23:38.000000000 -04:00
 type: post
 excerpt: As election anticipation continues to grow around the country, for more reasons than one, I want to post the initial thoughts I've been developing for the last few months. I don't want to give the impression that this blog is going to become political. There are plenty of those. But politics is part of life. It's part of culture. It's part of my life.
 categories:

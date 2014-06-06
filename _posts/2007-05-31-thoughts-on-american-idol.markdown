@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Thoughts on American Idol
-date: 2007-05-31 12:24:10.000000000 -04:00
 type: post
 excerpt: I've been thinking, recently, about why I dislike American Idol so much. I've wondered, "Is it just me being cynical?" "Is it me being afraid of user-generated content?" (what a geekish question to even ask) "Is it just because I don't like the style of all the stuff they perform?" And so on. Today, though, it finally hit me.
 categories:

@@ -14,7 +14,6 @@ excerpt: "As you probably know, there is a group of really vocal, largely ridicu
   the rapture in the circles where I ran. I read books and Study Bibles about it,
   knew dispensationalist theology fairly well, and in general lived under the assumption
   that the rapture could happen at any time."
-date: 2011-05-20 18:00:00.000000000 -04:00
 type: post
 categories:
 - theology

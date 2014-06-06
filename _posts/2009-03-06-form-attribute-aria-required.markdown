@@ -4,7 +4,6 @@ status: publish
 title: Form attribute aria-required
 excerpt: 'Recently, I noticed that the default <a href="http://www.wordpress.org/">WordPress</a>
   theme includes the following code in its comment form:'
-date: 2009-03-06 20:00:35.000000000 -05:00
 type: post
 categories:
 - design

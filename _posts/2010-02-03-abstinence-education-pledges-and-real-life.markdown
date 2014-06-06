@@ -13,7 +13,6 @@ excerpt: "Recently, for various reasons, there has been a good deal of talk abou
   I've seen a few other people mention that they'd like a third way too, but it usually
   ends up fitting within either the conservative or liberal framework within which
   they find themselves. Maybe mine will too. Either way, it's worth a try."
-date: 2010-02-03 23:25:31.000000000 -05:00
 type: post
 categories:
 - church

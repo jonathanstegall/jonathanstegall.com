@@ -3,7 +3,6 @@ layout: post
 status: publish
 title: Practicality of church and politics
 type: post
-date: 2008-06-03 09:19:16.000000000 -04:00
 categories:
 - church
 - politics

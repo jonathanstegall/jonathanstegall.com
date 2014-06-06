@@ -17,7 +17,6 @@ excerpt: "One of the things I love most about theology is ecclesiology, the stud
   to me. UX Week, as well as other conferences, books, in-person conversations, and
   countless bloggers and Twitter folks have given me ways to think about that and
   practice it in what I hope are significant ways. I'm deeply grateful."
-date: 2011-04-18 18:48:01.000000000 -04:00
 type: post
 categories:
 - church

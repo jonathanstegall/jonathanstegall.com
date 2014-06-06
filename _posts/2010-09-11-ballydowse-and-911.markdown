@@ -12,7 +12,6 @@ excerpt: "Since I started this blog in 2007, I haven't written a specific 9/11-o
   so many folks have to separate fundamentalists who fly into buildings from folks
   who want to build a community center, and the ridiculous desire to burn the Koran
   in response to that community center."
-date: 2010-09-11 17:29:22.000000000 -04:00
 type: post
 categories:
 - theology

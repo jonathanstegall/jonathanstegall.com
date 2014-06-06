@@ -13,7 +13,6 @@ excerpt: "Recently, I saw <a href=\"http://blog.precipice.org/why-wesabe-lost-to
   reasons that the author sees as different from the myths that really do indicate
   why Mint succeeded. One of these myths, and the reasons that the author does recognize,
   are the reasons I'm writing this post."
-date: 2010-10-02 19:00:23.000000000 -04:00
 type: post
 categories:
 - design

@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Mix 07
-date: 2007-04-30 18:05:07.000000000 -04:00
 type: post
 excerpt: For the next couple of days, at <a href="http://visitmix.com/">Visit Mix07</a>, Microsoft is broadcasting the Mix conference from Vegas. They're spending a lot of time demonstrating and talking about things in Silverlight, Expression Studio, Visual Studio Orcas, etc. I've been watching the news about these things for quite a while with a mixture of skepticism and excitement. After watching some of this stuff, most of my skepticism has gone away. That's a big deal, for me.
 categories:

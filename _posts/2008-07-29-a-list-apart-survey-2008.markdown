@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: A List Apart Survey, 2008
-date: 2008-07-29 07:22:48.000000000 -04:00
 type: post
 categories:
 - design

@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Flash Requiem
-date: 2009-02-25 12:30:25.000000000 -05:00
 type: post
 categories:
 - spirituality

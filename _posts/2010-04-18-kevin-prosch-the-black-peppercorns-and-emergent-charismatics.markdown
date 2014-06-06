@@ -16,7 +16,6 @@ excerpt: "So the <a href=\"http://homebrewedchristianity.com/2010/04/14/the-fasc
   him and others before him throughout the history of spiritual music. Sadly, though,
   there doesn't seem to be anywhere to find this music as it wasn't accepted by the
   Pentecostal and charismatic scenes from which he came."
-date: 2010-04-18 23:30:36.000000000 -04:00
 type: post
 categories:
 - music

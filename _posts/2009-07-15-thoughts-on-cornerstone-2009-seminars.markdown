@@ -9,7 +9,6 @@ excerpt: "As I said earlier, this year's <a href=\"http://www.cornerstonefestiva
   us. We have <a href=\"http://blog.beliefnet.com/tonyjones/\">met</a> and come to
   be in relationship with <a href=\"http://sourcemn.org/\">wonderful</a> <a href=\"http://livingwaterfromanancientwell.blogspot.com/\">people</a>
   through them, and this happens each year for us."
-date: 2009-07-15 21:39:58.000000000 -04:00
 categories:
 - ministry
 - emergent

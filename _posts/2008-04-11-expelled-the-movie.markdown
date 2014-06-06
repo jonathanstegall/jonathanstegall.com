@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: 'Expelled: The Movie'
-date: 2008-04-11 21:00:56.000000000 -04:00
 type: post
 categories:
 - theology

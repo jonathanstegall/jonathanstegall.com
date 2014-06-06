@@ -4,7 +4,6 @@ status: publish
 title: Post-charismatic synchro-blog
 excerpt: 'From <a href="http://www.robbymac.org/2008/09/getting-here-from-there-synchro-blog.html">RobbyMac</a>:'
 type: post
-date: 2008-09-04 19:05:53.000000000 -04:00
 categories:
 - spirituality
 - life

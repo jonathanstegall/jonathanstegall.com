@@ -3,7 +3,6 @@ layout: post
 status: publish
 title: Fiscal Conservative vs Tax & Spend Liberal
 excerpt: Great cartoon about some presidential economic trends. 
-date: 2008-08-06 20:36:02.000000000 -04:00
 type: post
 categories:
 - politics

@@ -14,7 +14,6 @@ excerpt: "One of the weirdest things about my life over the last four years or s
   the Buckhead area of Atlanta, which is a place we where we wouldn't otherwise spend
   much time. It's an interesting situation, but it allows me to speak to and learn
   from folks I otherwise wouldn't ever encounter."
-date: 2009-12-17 12:25:38.000000000 -05:00
 type: post
 categories:
 - theology

@@ -3,7 +3,6 @@ layout: post
 status: publish
 title: Seeking a higher way to look at things
 excerpt: '<a href="http://www.shermankuek.net/">Sherman on the Mount</a> says this:'
-date: 2007-06-22 14:13:49.000000000 -04:00
 type: post
 categories:
 - church

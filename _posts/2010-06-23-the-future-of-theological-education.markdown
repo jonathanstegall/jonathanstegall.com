@@ -15,7 +15,6 @@ excerpt: "Last month, <a href=\"http://kierastegall.com/\">my wife</a> graduated
   can affirm folks that want to do new things. She has unique and deep skills and
   passions that will flow into the changes that need to happen in the broad higher
   educational system."
-date: 2010-06-23 18:00:54.000000000 -04:00
 type: post
 categories:
 - church

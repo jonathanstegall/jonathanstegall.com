@@ -13,7 +13,6 @@ excerpt: "I'm a somewhat regular listener to <a href=\"http://www.npr.org/\">NPR
   embrace change in unprecedented ways. But in listening to this story, I was reminded
   that aside from the reshaping potential, there are churches that are taking the
   opportunity to really serve the poor in creative ways."
-date: 2009-03-16 21:51:45.000000000 -04:00
 type: post
 categories:
 - church

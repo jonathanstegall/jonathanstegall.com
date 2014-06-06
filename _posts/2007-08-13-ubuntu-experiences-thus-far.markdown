@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Ubuntu experiences thus far
-date: 2007-08-13 12:07:03.000000000 -04:00
 type: post
 excerpt: "So I've been successfully using Ubuntu for two weeks now. I have several initial reactions, and other thoughts. I'll talk about what I don't like first, and then about what I do like."
 categories:

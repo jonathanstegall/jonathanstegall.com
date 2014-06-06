@@ -9,7 +9,6 @@ excerpt: "Some friends of mine are involved in a tour called <a href=\"http://ww
   homeless for 13 years, and any donations or merchandise proceeds will go to him.
   There is <a href=\"http://vimeo.com/2555107\">a video</a> with more information
   about the event."
-date: 2009-03-23 12:03:34.000000000 -04:00
 type: post
 categories:
 - activism

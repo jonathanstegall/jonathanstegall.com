@@ -16,7 +16,6 @@ excerpt: "<a href=\"http://www.amazon.com/gp/product/0830836225?ie=UTF8&amp;tag=
   common for one to be missing among people who emphasize the other, but this one
   does stand on its own because it seeks to show how spirituality and activism can,
   and must, go together."
-date: 2009-09-04 20:57:16.000000000 -04:00
 type: post
 categories:
 - spirituality

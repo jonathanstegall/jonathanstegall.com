@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: America, Europe, and the kings of Israel
-date: 2007-12-05 08:34:29.000000000 -05:00
 type: post
 excerpt: "<a href=\"http://www.jesuscreed.org/\">Scot McKnight</a> runs one of my favorite blogs. There is <a href=\"http://www.jesuscreed.org/?p=3129\">a post</a> that looks at a chapter of John Goldingay's <em>Israel's Gospel (OT Theology)</em>. I haven't read this book, but after reading this post I want to. Anyway, Scot's post mentions a sentence that closes this chapter, and gives us a way in which we might understand a bit of our history."
 categories:

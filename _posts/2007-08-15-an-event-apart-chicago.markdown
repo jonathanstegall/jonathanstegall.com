@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: An Event Apart Chicago
-date: 2007-08-15 07:16:53.000000000 -04:00
 type: post
 categories:
 - design

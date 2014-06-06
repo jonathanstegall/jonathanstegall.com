@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: N. T. Wright on the Colbert Report
-date: 2008-06-18 17:17:36.000000000 -04:00
 type: post
 categories:
 - humor

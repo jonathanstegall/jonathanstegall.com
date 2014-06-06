@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: unChristian and George Barna
-date: 2008-01-13 22:31:42.000000000 -05:00
 type: post
 excerpt: For many years, <a href="http://www.barna.org/">George Barna</a> has been one of the favorite authors quoted by evangelicals. His surveys and studies are generally regarded very highly.
 categories:

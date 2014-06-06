@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Ubuntu dual boot woes
-date: 2007-07-30 23:48:46.000000000 -04:00
 type: post
 excerpt: I had hoped to delay this post until I encountered some degree of victory, but that doesn't look like it's coming anytime soon. Plus, of course, we should always have the courage to speak in the midst of difficulties, and all that mess.
 categories:

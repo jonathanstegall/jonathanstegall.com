@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: bandwagon commentary part 1
-date: 2007-03-20 12:02:53.000000000 -04:00
 type: post
 excerpt: "As much as I can, I like to keep up with things that interest me. I read books, look at lots of websites, read blogs, occasionally blog myself, and any number of other things simply so that I can stay current, and find out what the cutting edge is. I don't believe it's possible for a person to be at the cutting edge of too many different things, but certainly some things are a possibility, and it's important to me to attempt to do that."
 categories:

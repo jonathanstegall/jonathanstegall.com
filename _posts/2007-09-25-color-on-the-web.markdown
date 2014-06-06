@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Color on the web
-date: 2007-09-25 09:47:16.000000000 -04:00
 type: post
 excerpt: "This post is largely for me to consolidate some of the resources I've gathered over the years, and will exist in the hopes that it might prove beneficial to others looking for color resources."
 categories:

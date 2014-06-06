@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Chorus of Angels
-date: 2007-08-23 13:45:23.000000000 -04:00
 type: post
 excerpt: "I'm a big fan of the <a href=\"http://www.last.fm/user/flamingsole/\">Last.fm</a> music site. I listen to it all day at work. Lately, I've really gotten into one of the songs that it plays from the new <a href=\"http://www.purevolume.com/hastetheday\">Haste the Day</a> album, Pressure the Hinges. I'm not a big fan of most of the album, as they've moved too far in an emo direction for me to like it, but the song <em>Chorus of Angels</em> blows me away."
 categories:

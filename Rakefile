@@ -64,6 +64,21 @@ namespace :aside do
       file.puts "#{@body}"
     end
   end
+  desc "copy draft to production aside"
+  task :ready do
+    puts "Posts in _drafts/feedly:"
+    Dir.foreach("_drafts/feedly") do |fname|
+      next if fname == '.' or fname == '..' or fname == '.keep'
+      puts fname
+    end
+    puts "what's the name of the draft aside to post?"
+    @post_name = STDIN.gets.chomp
+    @new_post_name = @post_name.downcase.strip.gsub('.txt', '.markdown')
+    @post_date = Time.now.strftime("%F")
+    FileUtils.mv("_drafts/feedly/#{@post_name}", "_posts/#{@new_post_name}")
+    FileUtils.mv("_posts/#{@new_post_name}", "_posts/#{@post_date}-#{@new_post_name}")
+    puts "Post copied and ready to deploy!"
+  end
 end
 
 task :default => :preview

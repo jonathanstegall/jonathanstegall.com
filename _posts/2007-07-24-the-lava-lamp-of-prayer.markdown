@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: The lava lamp of prayer
-date: 2007-07-24 07:51:31.000000000 -04:00
 type: post
 excerpt: This is a nice Flash application that lets users type in prayers, and watch them float around as blobs inside the lava lamp. They're not stored anywhere, so they remain private. The application, then, is a visual aid to private prayer.
 categories:

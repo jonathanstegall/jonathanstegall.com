@@ -15,7 +15,6 @@ excerpt: "Like most designers on the web, I mourned at the news of the death of 
   just as Apple has revolutionized the industries it engaged. The extent to which
   the world would be a less beautiful place without Steve Jobs and the Apple he created
   is impossible to measure, and that needs to be celebrated and continued."
-date: 2011-10-11 19:00:47.000000000 -04:00
 type: post
 categories:
 - apple

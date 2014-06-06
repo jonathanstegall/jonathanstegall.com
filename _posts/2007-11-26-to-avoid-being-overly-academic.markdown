@@ -3,7 +3,6 @@ layout: post
 status: publish
 title: To avoid being overly academic
 excerpt: "I''ve been ranting about academics and theology and all those things the last few days. I have often had the fear of becoming overly academic and forgetting to actually do anything. In light of this, I want to quote <a href=\"http://www.shermankuek.net/\">Sherman on the Mount</a>, who <a href=\"http://www.shermankuek.net/2007/11/bedtime_story.php\">says it</a> much better than I do:"
-date: 2007-11-26 14:18:51.000000000 -05:00
 type: post
 categories:
 - spirituality

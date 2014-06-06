@@ -4,7 +4,6 @@ status: publish
 title: The problem with house churches
 excerpt: Before I moved to Atlanta, I spent the last period of my residence in Lakeland, Florida as part of a house church. I feel blessed and privileged to have been a part of that community.
 type: post
-date: 2008-07-17 19:30:12.000000000 -04:00
 categories:
 - church
 - theology

@@ -5,7 +5,6 @@ title: Fake Steve on Al Gore's Nobel Prize
 excerpt: "<a href=\"http://fakesteve.blogspot.com/2007/10/dear-al-now-you-must-run.html\">From Fake Steve:</a>
 <blockquote><p>Now it is time. You must run. Not because you want to run, but precisely because you don't want to run. That, Al, is your strongest point. You don't want it. You don't need it. You dare now to be yourself. No artificiality, no stiffness, no falseness. You are who you are. And we need you.</p></blockquote>"
 type: post
-date: 2007-10-16 09:11:52.000000000 -04:00
 categories:
 - politics
 tags:

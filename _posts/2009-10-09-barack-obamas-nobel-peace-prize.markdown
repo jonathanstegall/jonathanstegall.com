@@ -13,7 +13,6 @@ excerpt: "As you may have already seen, Barack Obama has won the Nobel Peace Pri
   <a href=\"http://www.invisiblechildren.com/\">Invisible Children</a> organization,
   or any number of similar organizations that are able (willing?) to really focus
   on peace."
-date: 2009-10-09 17:55:22.000000000 -04:00
 type: post
 categories:
 - politics

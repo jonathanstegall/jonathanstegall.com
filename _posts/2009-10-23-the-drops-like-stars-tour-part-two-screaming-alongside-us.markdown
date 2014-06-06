@@ -13,7 +13,6 @@ excerpt: "As I've said, <a href=\"http://www.robbell.com/\">Rob Bell</a> is on t
   overemphasize how meaningful it was for me. So far it has stuck out more, possibly
   because I keep retelling it. But much of the rest of the evening was about what
   to do about our own suffering."
-date: 2009-10-23 15:06:23.000000000 -04:00
 type: post
 categories:
 - spirituality

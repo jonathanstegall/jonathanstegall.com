@@ -13,7 +13,6 @@ excerpt: "On a different note from my <a href=\"http://jonathanstegall.com/2009/
   \"in one accord,\" and what that meant and why it was the case. I didn't think of
   it at the time, but I think the reason for this is that <em>these were the people
   who had witnessed the Resurrection</em>."
-date: 2009-06-01 17:02:13.000000000 -04:00
 type: post
 categories:
 - spirituality

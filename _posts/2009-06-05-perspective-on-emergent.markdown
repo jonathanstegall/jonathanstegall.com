@@ -11,7 +11,6 @@ excerpt: "To give a small introduction to this, for a decade Emergent Village ha
   Great Emergence</a>, which speaks of the emerging church movement as an historical
   change movement similar to the Reformation. It has gotten a good deal of recognition
   in mainline denominations."
-date: 2009-06-05 11:29:50.000000000 -04:00
 type: post
 categories:
 - emergent

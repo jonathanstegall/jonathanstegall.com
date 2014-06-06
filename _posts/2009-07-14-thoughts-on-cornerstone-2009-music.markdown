@@ -9,7 +9,6 @@ excerpt: "I want to spend a little bit of time looking back at <a href=\"http://
   attend a lot of seminars, but this year seemed to have a little more seminars than
   normal, and fewer random generator stage shows than normal. But in spite of this,
   there was still a good deal of fantastic music, and I want to honor that."
-date: 2009-07-14 20:51:00.000000000 -04:00
 categories:
 - music
 - travel

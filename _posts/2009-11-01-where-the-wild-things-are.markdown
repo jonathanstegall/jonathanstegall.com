@@ -14,7 +14,6 @@ excerpt: "Recently, <a href=\"http://kierastegall.com/\">Kiera</a> and I went to
   due to various thoughts of how annoying I was as a child, and partly because of
   a fear that children will cause me to live a mundane, powerless story (though I
   do understand that I am more than capable of doing this on my own)."
-date: 2009-11-01 15:00:16.000000000 -05:00
 categories:
 - culture
 - art

@@ -3,7 +3,6 @@ layout: post
 status: publish
 title: personal blogging as a web professional
 type: post
-date: 2007-04-17 08:08:00.000000000 -04:00
 excerpt: As I've said before, I read a lot of blogs. At this time, I use Google Reader to aggregate my feeds, and thoroughly enjoy it. I typically mark the blogs I actually like to visit from an aesthetic perspective with a different tag, so that I can go and look at the site itself when time allows. In any case, the blogs I read are typically about faith/spirituality, art, business, or the web (anything from design to development to cool stuff and beyond). And I like that. But some of these blogs mix some or more of these categories.
 categories:
 - blogging

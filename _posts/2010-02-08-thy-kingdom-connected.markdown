@@ -15,7 +15,6 @@ excerpt: "Thanks to TheOOZE <a href=\"http://viralbloggers.com/\">Viral Bloggers
   the incredible interconnectedness in which we can live, and how that affects the
   way we think about leadership, theology, ministry, and the mission of God and the
   church in the world."
-date: 2010-02-08 23:40:13.000000000 -05:00
 type: post
 categories:
 - church

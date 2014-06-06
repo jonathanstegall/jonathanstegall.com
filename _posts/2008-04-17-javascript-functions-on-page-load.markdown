@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: JavaScript functions on page load
-date: 2008-04-17 11:30:15.000000000 -04:00
 type: post
 categories:
 - programming

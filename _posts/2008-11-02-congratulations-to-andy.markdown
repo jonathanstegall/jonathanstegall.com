@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Congratulations to Andy
-date: 2008-11-02 21:33:01.000000000 -05:00
 type: post
 categories:
 - life

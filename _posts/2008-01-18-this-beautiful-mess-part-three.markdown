@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: This Beautiful Mess - Part Three
-date: 2008-01-18 18:03:46.000000000 -05:00
 type: post
 excerpt: "With part three of <a href=\"http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fdp%2F1590525019%3Fpf%5Frd%5Fm%3DATVPDKIKX0DER%26pf%5Frd%5Fs%3Dcenter-2%26pf%5Frd%5Fr%3D0Q39Y87SX6KEHQGDPCBR%26pf%5Frd%5Ft%3D101%26pf%5Frd%5Fp%3D278240301%26pf%5Frd%5Fi%3D507846&amp;tag=jonathanstega-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325\">This Beautiful Mess</a>, I decided to write a post about the rest of the book by section, rather than by chapter. This is mainly because of lack of time to read while not sitting in doctor's offices, or in front of monitors that don't work. I mean come on, I don't even have time to design this website."
 categories:

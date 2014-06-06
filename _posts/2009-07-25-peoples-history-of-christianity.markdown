@@ -9,7 +9,6 @@ excerpt: "There is a great program for bloggers through <a href=\"http://www.the
   People’s History of Christianity</a> by Diana Butler Bass. I'm reading this right
   now, and will blog about it shortly. In the meantime, though, feel free to <a href=\"http://theooze.tv/thinkfwd/diana-butler-bass-a-peoples-history-of-christianity\">watch
   this OOZE.tv interview</a> with Diana, where she discusses the book."
-date: 2009-07-25 10:11:32.000000000 -04:00
 type: post
 categories:
 - church

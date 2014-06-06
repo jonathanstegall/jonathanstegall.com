@@ -12,7 +12,6 @@ excerpt: "I want to draw attention here to the fact that <a href=\"http://markva
   on Facebook</a>) with Mark at <a href=\"http://www.tiltroom.com/\">Tilt Coffee Shop</a>,
   starting at 7pm on Thursday, August 27. We will hear from his passions and experiences
   and voice, and discuss these kind of things with him."
-date: 2009-08-26 22:22:56.000000000 -04:00
 categories:
 - emergent
 - emerging church

@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Ron Paul debate petition
-date: 2007-11-09 15:00:04.000000000 -05:00
 type: post
 categories:
 - politics

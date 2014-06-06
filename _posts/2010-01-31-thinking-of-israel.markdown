@@ -15,7 +15,6 @@ excerpt: "I've never been a person who wanted to go to Israel. I've known lots o
   McLaren</a>, <a href=\"http://miketodd.typepad.com/waving_or_drowning/\">Mike Todd</a>,
   and other folks are on a trip \"to see the places where the Spirit of God is working
   now - for reconciliation, justice, and peace in the midst of turmoil.\""
-date: 2010-01-31 21:05:42.000000000 -05:00
 type: post
 categories:
 - church

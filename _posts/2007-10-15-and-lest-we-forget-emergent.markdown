@@ -4,7 +4,6 @@ status: publish
 title: And lest we forget emergent...
 excerpt: I've been doing a good amount of ranting about false dichotomies and wanting a third choice, and so on, lately. I want to draw attention to <a href="http://www.jesusmanifesto.com/2007/10/8-loving-challenges-for-emergent/">this post</a> by <a href="http://www.jesusmanifesto.com/">Mark Van Steenwyk</a> that reminds us Emergent types that we have our own tendencies that it is wise to keep in our minds.
 type: post
-date: 2007-10-15 11:15:33.000000000 -04:00
 categories:
 - spirituality
 - theology

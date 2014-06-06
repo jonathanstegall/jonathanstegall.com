@@ -1,5 +1,4 @@
 ---
-date: 2014-02-24 21:07:38.000000000 -05:00
 layout: post
 status: publish
 title: More on my Bootstrap as "new Dreamweaver" hypothesis

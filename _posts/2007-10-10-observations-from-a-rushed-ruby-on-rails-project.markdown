@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Observations from a rushed Ruby on Rails project
-date: 2007-10-10 22:20:29.000000000 -04:00
 type: post
 excerpt: "Over the last month or so, I've been hurriedly attempting to learn Ruby on Rails for a client project. Essentially, this project has involved too many requirements with too little time. So basically, I've been a desperate designer seeking a way to program a site with very specific requirements in as little time as possible, with as low a learning curve as possible."
 categories:

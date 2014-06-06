@@ -8,7 +8,6 @@ excerpt: "There is an interesting discussion happening at <a href=\"http://blog.
   apparently believes that Jesus' direct statement to turn the other cheek is an ideology
   that fosters martyrs and victims. He then quotes another statement of Jesus by taking
   it out of its context."
-date: 2009-03-06 09:28:07.000000000 -05:00
 type: post
 categories:
 - theology

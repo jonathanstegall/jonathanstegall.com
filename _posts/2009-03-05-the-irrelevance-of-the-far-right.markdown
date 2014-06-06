@@ -9,7 +9,6 @@ excerpt: "There is a growing irrelevance that the far right is experiencing in t
   at the same pace as, or actually faster than, the rest of culture: as the lords
   of the political Right flail for the remnants of their influence, the lords of the
   Religious Right do so as well."
-date: 2009-03-05 09:39:26.000000000 -05:00
 type: post
 categories:
 - politics

@@ -13,7 +13,6 @@ excerpt: "In the near future, I'll be working on getting materials together to a
   have time to take the <a href=\"http://www.ets.org/gre/\">GRE</a>, get my portfolio
   together and as strong as possible, and get references and anything else that can
   help me be admitted to and afford this degree. Exciting stuff."
-date: 2008-02-07 13:24:14.000000000 -05:00
 categories:
 - life
 tags:

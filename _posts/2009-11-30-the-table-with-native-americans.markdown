@@ -15,7 +15,6 @@ excerpt: "In <a href=\"http://www.amazon.com/gp/product/0801013283?ie=UTF8&amp;t
   and will be, at times, painful and offensive for us. Not to come with the desire
   to do justice <em>for</em> them until we are willing and able to do justice <em>with</em>
   them."
-date: 2009-11-30 19:00:00.000000000 -05:00
 type: post
 categories:
 - church

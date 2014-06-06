@@ -8,7 +8,6 @@ excerpt: Each year, there is an event participated in by many standards-aware we
   all the time zones) in which participating sites deactivate their <abbr title="Cascading
   Style Sheets">CSS</abbr>, which removes all styling and leaves only the underlying
   markup.
-date: 2009-04-04 23:40:55.000000000 -04:00
 categories:
 - design
 - CSS

@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Nice Atlanta Metal
-date: 2007-05-11 13:33:14.000000000 -04:00
 type: post
 excerpt: In the last month or so, I've been able to see a few great shows. <a href="http://www.thechariot.com">The Chariot</a> and <a href="http://www.becomingthearchetype.com">Becoming the Archetype</a> had <strong>great</strong>> CD release shows. <a href="http://www.normajeannoise.com">Norma Jean</a> and <a href="http://www.myspace.com/withbloodcomescleansing">With Blood Comes Cleansing</a> played awesome shows.
 categories:

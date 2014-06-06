@@ -13,7 +13,6 @@ excerpt: "Currently, <a href=\"http://www.robbell.com/\">Rob Bell</a> is on the 
   the two. Mentally and emotionally, at least, I have been shaken by what is being
   said through them, and my hope is that this will flow through and shake the rest
   of my life."
-date: 2009-10-16 17:00:06.000000000 -04:00
 type: post
 categories:
 - spirituality

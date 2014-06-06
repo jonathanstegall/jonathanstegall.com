@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Looking for computer friendly contact lenses
-date: 2008-07-22 09:54:05.000000000 -04:00
 type: post
 categories:
 - life

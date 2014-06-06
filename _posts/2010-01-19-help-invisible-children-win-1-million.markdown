@@ -13,7 +13,6 @@ excerpt: "I talk fairly often here about my passion for <a href=\"http://www.inv
   Challenge on Facebook. You do need to have a Facebook account to vote, and will
   need to add the Chase Community Giving application (it does not send you anything),
   but please take the 30 seconds and <a href=\"http://apps.facebook.com/chasecommunitygiving/charities/598099\"><strong>vote</strong></a>."
-date: 2010-01-19 15:20:15.000000000 -05:00
 type: post
 categories:
 - activism

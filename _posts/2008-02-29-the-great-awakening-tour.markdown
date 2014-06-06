@@ -7,7 +7,6 @@ excerpt: "Jim Walls, who wrote <a href=\"http://www.amazon.com/gp/redirect.html?
   Great Awakening</a>. Along with the book's release, he is traveling around the country
   on <a href=\"http://www.sojo.net/index.cfm?action=special.TGA&amp;item=TGA_main\">The
   Great Awakening Tour</a>.\r\nThe event is described like this:"
-date: 2008-02-29 18:43:53.000000000 -05:00
 type: post
 categories:
 - politics

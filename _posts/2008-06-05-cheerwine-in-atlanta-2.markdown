@@ -3,7 +3,6 @@ layout: post
 status: publish
 title: Cheerwine In Atlanta
 excerpt: "I've mentioned before that I grew up in the town of Salisbury, North Carolina. It is roughly 45 minutes north of Charlotte. One of the great, enduring things about Salisbury is a soda called <a href=\"http://www.cheerwine.com/\">Cheerwine</a>."
-date: 2008-06-05 22:34:18.000000000 -04:00
 type: post
 categories:
 - life

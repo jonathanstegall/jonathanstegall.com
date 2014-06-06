@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Indian Taxi Fund Update
-date: 2008-05-20 22:14:06.000000000 -04:00
 type: post
 categories:
 - blogging

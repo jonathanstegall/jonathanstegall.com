@@ -11,7 +11,6 @@ excerpt: "Recently, I wrote some things about <a href=\"http://jonathanstegall.c
   and <a href=\"http://www.facebook.com/photo.php?pid=2669813&amp;l=20f3187115&amp;id=725425355\">Facebook</a>,
   and received lots of great messages on both. Please feel free to leave one yourself
   on one of the sites, if you like."
-date: 2009-07-20 21:43:19.000000000 -04:00
 categories:
 - life
 - pentecostal / charismatic

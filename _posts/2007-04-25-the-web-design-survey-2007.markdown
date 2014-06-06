@@ -4,7 +4,6 @@ status: publish
 title: The Web Design Survey, 2007
 excerpt: 'From <a href="http://alistapart.com/article/webdesignsurvey">A
   List Apart</a>:'
-date: 2007-04-25 09:16:43.000000000 -04:00
 type: post
 categories:
 - design

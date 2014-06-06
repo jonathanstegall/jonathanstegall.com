@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Design and social change
-date: 2008-01-14 21:13:01.000000000 -05:00
 type: post
 excerpt: To give a little perspective on this post, I began creating websites in August of 1997. I was 14 years old. Back then, knowing how to make a site with frames made you look really cool. Yahoo! didn't own Geocities. Google didn't exist. AltaVista was a big deal. Netscape was fighting hard against Internet Explorer.
 categories:

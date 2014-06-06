@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Tell Me a Story
-date: 2007-09-14 10:26:47.000000000 -04:00
 type: post
 excerpt: "I'm planning to begin a series of posts. I've never done a long series of posts (longer than two or three), but I think this one might be a wise thing to do. I've written and talked often on the idea that there is often a higher way of looking at things than the typical conservative vs liberal divide, or the typical whatever vs whatever divide. We see this in the writings of N.T. Wright, we see it in writings of Brian McLaren, and many others; but why not discuss some stories?"
 categories:

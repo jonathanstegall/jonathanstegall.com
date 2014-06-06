@@ -13,7 +13,6 @@ excerpt: "I have recently finished A People's History of Christianity, and want 
   as well. It is very important, both because of the cliche that we will repeat the
   past if we don't remember it, and also because we have gone away from much of the
   better parts of the past."
-date: 2009-08-05 23:42:14.000000000 -04:00
 categories:
 - church
 - books

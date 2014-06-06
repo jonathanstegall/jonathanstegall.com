@@ -14,7 +14,6 @@ excerpt: "As you may know, Haiti has a rainy season that is in its beginning sta
   to these things, <a href=\"http://www.ahomeinhaiti.org/\">calling for and providing
   tents</a> from the beginning. The need, though, continues to be dire. Please <a
   href=\"http://www.ahomeinhaiti.org/\">send a tent</a> if you can."
-date: 2010-02-22 08:28:05.000000000 -05:00
 type: post
 categories:
 - activism

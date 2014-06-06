@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Decomposition of Christian power
-date: 2008-12-07 22:54:07.000000000 -05:00
 type: post
 categories:
 - church

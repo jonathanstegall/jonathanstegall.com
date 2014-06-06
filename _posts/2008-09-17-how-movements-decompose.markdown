@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: How movements decompose
-date: 2008-09-17 17:25:05.000000000 -04:00
 type: post
 categories:
 - spirituality

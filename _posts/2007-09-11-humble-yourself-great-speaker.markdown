@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Humble Yourself, Great Speaker
-date: 2007-09-11 17:35:53.000000000 -04:00
 type: post
 excerpt: "I'm not a natural public speaker. Anyone who's encountered an event where I've spoken knows this. Over the years since I've been a Christian and interested in and involved in ministry, and also as a web professional, I've been able to speak to a variety of different groups in different situations about different topics. These include a couple of churches, several youth ministries, many college classes, business meetings, and Sunday, my friends at Revolution Atlanta."
 categories:

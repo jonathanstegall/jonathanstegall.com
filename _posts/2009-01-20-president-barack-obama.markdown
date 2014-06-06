@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: President Barack Obama
-date: 2009-01-20 15:51:33.000000000 -05:00
 type: post
 categories:
 - politics

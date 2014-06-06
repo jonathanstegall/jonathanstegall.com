@@ -3,7 +3,6 @@ layout: post
 status: publish
 title: Not For Sale Giving Challenge 2008
 excerpt: 'If you are a member of Facebook, or if you aren''t, please consider the following:'
-date: 2008-02-01 00:14:40.000000000 -05:00
 type: post
 categories:
 - activism

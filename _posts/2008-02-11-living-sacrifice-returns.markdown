@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Living Sacrifice returns
-date: 2008-02-11 12:52:34.000000000 -05:00
 type: post
 categories:
 - music

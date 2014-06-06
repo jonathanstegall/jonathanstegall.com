@@ -13,7 +13,6 @@ excerpt: "As you may know, my wife and I recently had our first child, a daughte
   the oddities of the medical system around us, and (in my case) wandering around
   to get ice or juice or fruit, or go home, eat, and feed the cat. While I did all
   this, I couldn't help but reflect on how much our experience lacked design."
-date: 2011-06-08 20:49:01.000000000 -04:00
 type: post
 categories:
 - design

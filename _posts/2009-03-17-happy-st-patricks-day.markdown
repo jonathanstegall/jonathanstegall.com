@@ -15,7 +15,6 @@ excerpt: "I hope you've had a wonderful St. Patrick's Day. In the last couple of
   the similarities between our postmodern Western culture and the \"barbarian\" pre-Christian
   culture of the Celtic British Isles. There are many, and there is much for us to
   learn."
-date: 2009-03-17 21:51:12.000000000 -04:00
 type: post
 categories:
 - church

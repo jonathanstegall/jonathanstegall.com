@@ -5,7 +5,6 @@ title: Washing Osama's Feet
 excerpt: "From <a href=\"http://gregboyd.blogspot.com/2007/11/washing-osamas-feet.html\">Greg Boyd</a>:
 <blockquote><p>This is the kind of power the omnipotent God of the universe uses against his enemies. And this is the kind of power we're to use against our 'enemies.' It's the power of Calvary-like love.</p></blockquote>"
 type: post
-date: 2007-11-04 10:29:20.000000000 -05:00
 categories:
 - politics
 - theology

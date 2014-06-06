@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: On Rick Warren's presidential faith forum
-date: 2008-08-22 18:00:11.000000000 -04:00
 type: post
 categories:
 - church

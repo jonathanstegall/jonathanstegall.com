@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: The future of seminaries
-date: 2007-11-26 08:03:31.000000000 -05:00
 type: post
 excerpt: In light of <a href="http://jonathanstegall.com/2007/11/20/the-gods-arent-angry/">this post</a>, and the past few years of wondering whether it's idealistic of me to think that followers of Jesus should be biblically intelligent, I want to add a thought. Typically, Christians believe that to be biblically and theologically intelligent one has to go to seminary. For the most part, one has to have either a large amount of money, or the possibility of a career that can use a seminary degree, to make such a thing practical.
 categories:

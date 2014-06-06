@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Primary woes
-date: 2007-10-12 11:45:38.000000000 -04:00
 type: post
 excerpt: "I wish I could vote in both primaries. In politics, I'm a both/and person. Really, I'm a neither person, but we do have two parties. I don't care what a person's affiliation is. I don't buy into the conservative/liberal divide, because most of the issues that divide the two sides are smokescreens that allow politicians to look like they stand for something."
 categories:

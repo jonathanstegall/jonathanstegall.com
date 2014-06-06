@@ -11,7 +11,6 @@ excerpt: "It's been a week now since our dear Neighbors Abbey \"officially\" end
   personal issues, or a combination of those things. We have been hurt, or we've seen
   people that we loved be hurt, or we've felt we couldn't continue in the directions
   that things were going."
-date: 2011-10-23 23:09:11.000000000 -04:00
 categories:
 - church
 - life

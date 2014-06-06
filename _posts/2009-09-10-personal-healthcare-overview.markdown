@@ -14,7 +14,6 @@ excerpt: "Thus far, this blog has been relatively quiet on the issue of healthca
   that it also does not rest upon personal need. I have great healthcare, provided
   by my employer. It has paid for several surgeries, for both my wife and myself,
   and in general is very satisfactory."
-date: 2009-09-10 10:30:06.000000000 -04:00
 type: post
 categories:
 - church

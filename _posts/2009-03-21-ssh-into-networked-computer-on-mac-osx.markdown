@@ -8,7 +8,6 @@ excerpt: "I've written occasionally about <a href=\"/category/linux/\">my experi
   I program in <abbr title=\"PHP Hypertext Processor\">PHP</abbr> and Ruby on Rails,
   depending on the project. For these, with the ways that I use them, Ubuntu has proven
   itself infinitely superior to any other development environment I've used."
-date: 2009-03-21 22:45:33.000000000 -04:00
 type: post
 categories:
 - apple

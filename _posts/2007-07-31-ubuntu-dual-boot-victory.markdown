@@ -4,7 +4,6 @@ status: publish
 title: Ubuntu dual boot victory
 type: post
 excerpt: So, following the <a href="http://jonathanstegall.com/2007/07/30/ubuntu-dual-boot-woes/">previous post</a> about my Ubuntu dual boot woes, today I have successfully set up a dual boot of XP and Ubuntu.
-date: 2007-07-31 23:17:17.000000000 -04:00
 categories:
 - life
 - linux

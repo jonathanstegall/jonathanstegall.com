@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Entering Advent 2008
-date: 2008-11-29 00:56:48.000000000 -05:00
 type: post
 categories:
 - spirituality

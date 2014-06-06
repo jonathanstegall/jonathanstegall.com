@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Sustaining a diverse (theological) conversation
-date: 2008-02-13 12:48:12.000000000 -05:00
 type: post
 categories:
 - life

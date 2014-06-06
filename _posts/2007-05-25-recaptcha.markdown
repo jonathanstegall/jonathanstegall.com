@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: reCAPTCHA
-date: 2007-05-25 12:12:59.000000000 -04:00
 type: post
 excerpt: <a href="http://www.cmu.edu">Carnegie Mellon University</a> has created a new version of the ever-present CAPTCHA that many of us use to sign up for accounts all over the web. We all hate it, but most of us understand that spammers would be worse than they are without it.
 categories:

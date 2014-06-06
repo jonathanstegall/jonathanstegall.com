@@ -14,7 +14,6 @@ excerpt: "A few years ago, during the process of earning a PhD, <a href=\"http:/
   I have found it incredibly difficult to narrow down the things I'd like to say.
   This is easily one of the two or three most impactful books I've read on the church
   and its future in the mission of God."
-date: 2009-06-23 21:39:56.000000000 -04:00
 type: post
 categories:
 - church

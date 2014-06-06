@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Safety
-date: 2008-12-21 21:00:53.000000000 -05:00
 categories:
 - church
 - life

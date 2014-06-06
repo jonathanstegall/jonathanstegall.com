@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Decomposition of a movement
-date: 2008-09-12 20:00:48.000000000 -04:00
 type: post
 categories:
 - church

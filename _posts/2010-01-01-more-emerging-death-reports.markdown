@@ -14,7 +14,6 @@ excerpt: "Every few months for the last year or so, various conversations come a
   the longest, as a pioneer in both the <a href=\"http://www.theundergroundrailroad.org/\">underground/alternative
   church</a>, and in the broader emerging church. His voice, and his life, is powerful
   and essential."
-date: 2010-01-01 01:06:31.000000000 -05:00
 type: post
 categories:
 - emergent

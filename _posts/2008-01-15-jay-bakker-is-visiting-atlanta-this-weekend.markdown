@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Jay Bakker is visiting Atlanta this weekend
-date: 2008-01-15 21:32:51.000000000 -05:00
 type: post
 categories:
 - life

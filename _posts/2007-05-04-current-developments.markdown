@@ -3,7 +3,6 @@ layout: post
 status: publish
 title: current developments
 excerpt: In the event that visitors would like to know what is happening in my current web endeavors, I thought I would summarize current projects that are happening outside of work.
-date: 2007-05-04 10:10:05.000000000 -04:00
 type: post
 categories:
 - projects

@@ -4,7 +4,6 @@ status: publish
 title: Four years ago...
 excerpt: I married <a href="http://kierastegall.com/">my best friend</a> at a church in Lakeland, Florida, in a building that had previously been a Scotty's hardware store. Right now, at 2pm EST as WordPress makes this post live, our ceremony was starting.
 type: post
-date: 2007-12-06 14:00:06.000000000 -05:00
 categories:
 - life
 - marriage

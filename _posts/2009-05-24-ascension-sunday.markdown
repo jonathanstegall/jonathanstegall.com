@@ -10,7 +10,6 @@ excerpt: "Today, in liturgical churches at least, was Ascension Sunday, the day 
   our heads that biblical eschatology, from the resurrection to heaven, is not what
   most of us have been taught. In light of that, I think it is worth using the topic
   of the ascension, as Wright does, to cast a little more light on the subject."
-date: 2009-05-24 22:46:33.000000000 -04:00
 type: post
 categories:
 - theology

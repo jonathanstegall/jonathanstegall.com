@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: The Gutter
-date: 2008-01-21 21:19:05.000000000 -05:00
 type: post
 excerpt: "Craig Gross of <a href=\"http://xxxchurch.com/\">xxxchurch.com</a> writes <a href=\"http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FGutter-Where-Life-Meant-Lived%2Fdp%2F0976035707%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1200721422%26sr%3D8-1&amp;tag=jonathanstega-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325\">The Gutter</a>. I've followed his ministry for some time, and admire the places he goes and the things that are accomplished through him."
 categories:

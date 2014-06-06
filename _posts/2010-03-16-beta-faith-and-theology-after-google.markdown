@@ -14,7 +14,6 @@ excerpt: "I'm a big fan of the <a href=\"http://www.homebrewedchristianity.com/\
   I've enjoyed reading about it before and after it occurred, but instead am reflecting
   upon the concept, especially as it was discussed in the podcast episode I mentioned
   above."
-date: 2010-03-16 23:44:21.000000000 -04:00
 type: post
 categories:
 - design

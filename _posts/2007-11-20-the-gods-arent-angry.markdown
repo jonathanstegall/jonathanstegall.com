@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: The gods aren't angry
-date: 2007-11-20 08:41:42.000000000 -05:00
 type: post
 excerpt: Last night, I went to see Rob Bell's <a href=\"http://www.thegodsarentangry.com/\"><em>the gods aren't angry</em></a> tour. If it comes to your city, go. It's worth the $20 many times over. I may write a post or two about the things that stuck out to me, but at the moment I want to address one particular thing. It comes up in Rob Bell's books, and it comes up in his talks.
 categories:

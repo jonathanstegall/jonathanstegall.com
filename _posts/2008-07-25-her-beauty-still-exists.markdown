@@ -2,7 +2,6 @@
 layout: post
 status: publish
 title: Her beauty still exists
-date: 2008-07-25 07:34:45.000000000 -04:00
 type: post
 categories:
 - church

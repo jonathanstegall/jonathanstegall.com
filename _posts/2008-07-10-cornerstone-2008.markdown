@@ -3,7 +3,6 @@ layout: post
 status: publish
 title: Cornerstone 2008
 excerpt: "Once again, I'd like to present some initial thoughts stemming from our trip to <a href=\"http://www.cornerstonefestival.com/\">Cornerstone Festival</a>. I think this time there will be more than one post, as there are lots of things to think about."
-date: 2008-07-10 10:00:47.000000000 -04:00
 type: post
 categories:
 - life

@@ -8,7 +8,6 @@ excerpt: "Once again, the lovely folks at <a href=\"http://alistapart.com/\">A L
   and am happy to have done so again this year.\r\n\r\nIf you make stuff for websites,
   <a href=\"http://surveyapart.polldaddy.com/s/ala2011\">take the survey</a>. It's
   an important part of what you do."
-date: 2011-11-17 21:11:08.000000000 -05:00
 type: post
 categories:
 - design

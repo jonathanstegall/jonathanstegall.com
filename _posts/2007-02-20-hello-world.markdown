@@ -1,5 +1,4 @@
 ---
-date: 2007-02-20 22:02:01.000000000 -05:00
 layout: post
 status: publish
 title: Hello world!

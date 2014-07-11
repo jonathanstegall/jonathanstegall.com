@@ -26,6 +26,13 @@
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed/">
 
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="jonathanstegall">
+    <meta name="twitter:title" content="{{ page.title }} {% if page.title != 'Jonathan Stegall' %} | {{ site.name}} {% endif %}">
+    <meta name="twitter:description" content="{% if page.description != blank and page.description != nil %}{{page.description}}{% elsif page.excerpt != blank and page.excerpt != nil %}{{page.excerpt | strip_html }}{% else %}{{site.description}}{% endif %}">
+    <meta name="twitter:creator" content="jonathanstegall">
+    <meta name="twitter:domain" content="jonathanstegall.com">
+
     <link rel="stylesheet" href="/assets/css/main.css" media="screen">
     <script src="//use.typekit.net/eup1xch.js"></script>
     <script>try{Typekit.load();}catch(e){}</script>

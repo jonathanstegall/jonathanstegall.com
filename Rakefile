@@ -6,7 +6,7 @@ namespace :draft do
     puts "What's the name for your next post?"
     @name = STDIN.gets.chomp
     @slug = "#{@name}"
-    @slug = @slug.tr('ÁáÉéÍíÓóÚú', 'AaEeIiOoUu')
+    #@slug = @slug.tr('ÁáÉéÍíÓóÚú', 'AaEeIiOoUu')
     @slug = @slug.downcase.strip.gsub(' ', '-')
     FileUtils.touch("_drafts/#{@slug}.markdown")
     open("_drafts/#{@slug}.markdown", 'a' ) do |file|
@@ -43,7 +43,7 @@ namespace :aside do
     puts "Post title?"
     @name = STDIN.gets.chomp
     @slug = "#{@name}"
-    @slug = @slug.tr('ÁáÉéÍíÓóÚú', 'AaEeIiOoUu')
+    #@slug = @slug.tr('ÁáÉéÍíÓóÚú', 'AaEeIiOoUu')
     @slug = @slug.downcase.strip.gsub(' ', '-')
     @post_date = Time.now.strftime("%F")
     FileUtils.touch("_posts/#{@post_date}-#{@slug}.markdown")

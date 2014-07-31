@@ -1,0 +1,11 @@
+---
+layout: post
+status: publish
+title: Iconic
+link: https://useiconic.com/
+type: aside
+categories:
+- design
+- icons
+---
+> The first and only icon system designed for the modern web with all the tools to make them your own.

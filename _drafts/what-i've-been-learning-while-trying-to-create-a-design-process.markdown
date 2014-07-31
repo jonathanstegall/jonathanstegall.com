@@ -22,3 +22,4 @@ When this happens, the process tends to go like this:
 3. Define some exercises that would let us answer our research questions, and achieve our research goals.
 4. Plan and conduct those exercises.
 5. Look at the results, and see what we need to create.
+6. 

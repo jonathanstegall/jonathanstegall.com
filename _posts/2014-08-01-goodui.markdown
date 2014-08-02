@@ -1,0 +1,11 @@
+---
+layout: post
+status: publish
+title: "GoodUI"
+link: http://www.goodui.org/index_v6.html
+type: aside
+categories:
+- design
+- user experience
+--- 
+> A Good User Interface has **high conversion rates** and is **easy to use**. In other words, it's nice to both the business side as well as the people using it.

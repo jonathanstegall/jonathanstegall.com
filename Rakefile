@@ -55,7 +55,7 @@ namespace :aside do
       file.puts "---"
       file.puts "layout: post"
       file.puts "status: publish"
-      file.puts "title: #{@name}"
+      file.puts "title: \"#{@name}\""
       file.puts "link: #{@url}"
       file.puts "type: aside"
       file.puts "categories:"

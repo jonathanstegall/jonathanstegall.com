@@ -2,7 +2,7 @@ input[type="submit"], button[type="submit"], button[type="button"], a.a-button {
 	padding: 0.25em;
 	font-size: $base-line-height-em;
 	font-weight: normal;
-	background: $color__minnpost-red;
+	background: $color__link;
 	color: $color__white;
 	font-family: $font__headings;
 	font-feature-settings: "calt" off,"dlig" off,"ss01" off,"liga" off;
@@ -14,7 +14,7 @@ input[type="submit"], button[type="submit"], button[type="button"], a.a-button {
 	cursor: pointer;
 	line-height: 23px;
 	&:link, &:visited {
-		background: $color__minnpost-red;
+		background: $color__link;
 		color: $color__white;
 		text-decoration: none;
 	}
@@ -27,13 +27,7 @@ input[type="submit"], button[type="submit"], button[type="button"], a.a-button {
 		cursor: not-allowed;
 		opacity: 0.5;
 	}
-	&.a-button-flip {
-		background: $color__minnpost-blue;
-		&:hover, &:focus, &:active {
-			background: palette(blue, dark);
-		}
-	}
-	&.a-button-secondary {
+	/*&.a-button-secondary {
 		color: $color__gray-meta;
 		border-color: $color__border-button;
 		background: $color__background-screen;
@@ -44,19 +38,19 @@ input[type="submit"], button[type="submit"], button[type="button"], a.a-button {
 			background: darken($color__background-screen, 10);
 			text-decoration: none;
 		}
-	}
+	}*/
 }
 .a-button-sentence {
 	a.a-button:link, a.a-button:visited, button[type="submit"], button[type="button"] {
 		margin-right: 0;
 	}
-	.a-between-buttons {
+	/*.a-between-buttons {
 		display: inline-block;
 		margin: 0 0.5em;
 		color: $color__gray-meta;
 		text-transform: uppercase;
 		font-family: $font__sans;
-	}
+	}*/
 }
 .a-input-with-button {
 	width: 100%;
@@ -65,14 +59,4 @@ input[type="submit"], button[type="submit"], button[type="button"], a.a-button {
 	input[type="submit"], button[type="submit"], button[type="button"], a.a-button {
 		margin: 0;
 	}
-}
-
-.m-form-standalone .m-form-item .a-input-with-button input:not([type=checkbox]):not([type=radio]), .m-form-standalone .m-form-item .a-input-with-button select, .m-form-standalone .m-form-item .a-input-with-button textarea {
-	margin-bottom: 0;
-}
-
-// overwrite gravityforms button style
-.gform_wrapper .gform_footer input.button, .gform_wrapper .gform_page_footer input.button, .gform_wrapper .gform_footer input[type=submit], .gform_wrapper .gform_page_footer input[type=submit] {
-	font-size: $base-line-height-em;
-	margin-bottom: 0;
 }

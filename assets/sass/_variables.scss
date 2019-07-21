@@ -30,9 +30,9 @@ $rgba-secondary-lighter: rgba_color( $color-secondary-lighter, 1 );
 
 
 // other colors
-$color-black: #000;
-$color-white: #fff;
-$color-dark-gray: #333;
+$color__black: #000;
+$color__white: #fff;
+$color__dark-gray: #333;
 
 // some less tinted grays
 $color__gray-lightest: #cdcdd0;
@@ -42,11 +42,11 @@ $color__gray-dark: #404040;
 $color__gray-darkest: #282828;
 
 // text colors
-$color__text-body: rgba_color( $color-dark-gray, 1 );
+$color__text-body: rgba_color( $color__dark-gray, 1 );
 $color__text-heading: $rgba-primary-medium;
 
 // background colors
-$color__background-body: rgba_color( $color-white, 1 );
+$color__background-body: rgba_color( $color__white, 1 );
 $color__background-edges: $rgba-primary-darker;
 
 //$color__background-button: $color__minnpost-white;

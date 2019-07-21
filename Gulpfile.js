@@ -24,7 +24,6 @@ const wpPot = require('gulp-wp-pot');
 const config = {
   styles: {
     front_end: 'assets/sass/*.scss',
-    srcDir: 'assets/sass',
     front_end_dest: 'assets/css',
   },
   scripts: {
@@ -183,7 +182,7 @@ function browserSyncReload(done) {
 
 // Watch directories, and run specific tasks on file changes
 function watch() {
-  gulp.watch(config.styles.srcDir, styles);
+  gulp.watch(config.styles.front_end, frontendstyles);
   gulp.watch(config.scripts.admin, adminscripts);
   
   // Reload browsersync when PHP files change, if active

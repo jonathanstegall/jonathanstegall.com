@@ -69,6 +69,7 @@ function frontendstyles() {
   return gulp.src(config.styles.front_end)
     .pipe(sourcemaps.init()) // Sourcemaps need to init before compilation
     .pipe(sassGlob()) // Allow for globbed @import statements in SCSS
+    .pipe(sass()) // Compile
     .on('error', sass.logError) // Error reporting
     .pipe(postcss([
       mqpacker( {
@@ -205,7 +206,7 @@ exports.watch          = watch;
 // What happens when we run gulp?
 gulp.task('default',
   gulp.series(
-    gulp.parallel(frontendstyles, mainscripts, uglifyscripts, images, translate) // run these tasks asynchronously
+    gulp.parallel(frontendstyles, mainscripts, uglifyscripts, images) // run these tasks asynchronously
   )
 );
 

@@ -1,23 +1,20 @@
-// Palette function,
-@function palette($palette, $tone: 'base') {
-    @return map-get(map-get($palettes, $palette), $tone);
-}
+// Palette function - not currently in use
+//@function palette($palette, $tone: 'base') {
+//    @return map-get(map-get($palettes, $palette), $tone);
+//}
 
 // used this way
-/*a {
-    color: palette(purple);
-    &:hover {
-        color: palette(purple, light);
-    }
-}*/
+//a {
+    //color: palette(purple);
+    //&:hover {
+        //color: palette(purple, light);
+    //}
+//}
 
 // rgba function
 @function rgba_color($base, $alpha) {
 	@return rgba($base, $alpha);
 }
-
-// used this way
-/*rgba_color( #333, 1 );*/
 
 /**
  * Ratios
@@ -28,6 +25,6 @@
 }
 
 // used this way
-/*iframe {
-	padding-bottom: ratio(728,90);
-}*/
+//iframe {
+	//padding-bottom: ratio(728,90);
+//}

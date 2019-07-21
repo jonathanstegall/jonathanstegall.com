@@ -1,0 +1,33 @@
+/*!
+Theme Name: Jonathan Stegall 2019
+Theme URI: https://jonathanstegall.com;
+Author: jonathanstegall
+Description: Largo child theme for MinnPost
+Version: 4.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: jonathanstegall-2019
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# we should fill this out
+--------------------------------------------------------------*/
+
+@import "functions"; // put functions first because they get used in color variable calculations
+@import "variables";
+@import "mixins";
+
+/*--------------------------------------------------------------
+# Pattern Lab patterns
+--------------------------------------------------------------*/
+
+@import "00_base/*";
+@import "01_atom/*";
+@import "02_molecule/*";
+@import "03_organism/*";
+@import "04_template/*";
+@import "05_page/*";
+
+//@import "ie-11-under" // overrides for ie 11 and under. if there is anything necesary for ms edge, it should not go here.

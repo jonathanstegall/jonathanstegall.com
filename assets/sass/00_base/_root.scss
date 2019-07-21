@@ -1,0 +1,59 @@
+html {
+	box-sizing: border-box;
+	background: $color__background-body;
+	margin: 0;
+	padding: 0;
+}
+
+*,
+*:before,
+*:after { /* Inherit box-sizing to make it easier to change the property for components that leverage other behavior; see http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ */
+	box-sizing: inherit;
+}
+
+body {
+	margin: 0 auto;
+	padding: 0;
+	color: $color__text-body;
+	font-family: $font__body;
+	font-size: $base-font-size;
+	line-height: $base-line-height;
+	background: $color__background-body;
+}
+
+blockquote, q {
+	quotes: "" "";
+
+	&:before,
+	&:after {
+		content: "";
+	}
+}
+
+hr {
+	background-color: $color__hr;
+	border: 0;
+	height: 1px;
+	margin-bottom: $base-line-height-em;
+}
+
+img {
+	height: auto; /* Make sure images are scaled correctly. */
+	max-width: 100%; /* Adhere to container width. */
+}
+
+figure {
+	margin: 1em 0; /* Extra wide images within figure tags don't overflow the content area. */
+}
+
+label {
+	line-height: $base-line-height-em;
+	display: inline-block;
+}
+
+input, select, textarea {
+	max-width: 100%; // sometimes there'll be more specific sizes, but we should never go over 100% here
+	font-family: $font__form;
+	font-size: 99%;
+	line-height: normal;
+}

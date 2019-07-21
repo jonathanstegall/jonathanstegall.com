@@ -1,0 +1,51 @@
+// hide text
+@mixin hide-text {
+	text-indent: 110%;
+	white-space: nowrap;
+	overflow: hidden;
+}
+// @include hide-text;
+
+
+@mixin gi-nums($n, $max) {
+	%num-#{$n} {
+	    @content;
+	}
+	$i: $n;
+	@while $i <= $max {
+	    .gi-#{$i} {
+	        grid-column: col-start / span $i;
+	    }
+	    $i: $i+$n;
+	}
+}
+
+// used like this
+// @include gi-nums(1, 12);
+
+
+@mixin outer-container($local-max-width: $max-width) {
+  @include clearfix;
+  max-width: $local-max-width;
+  margin: {
+    left: auto;
+    right: auto;
+  }
+}
+
+.clearfix {
+	@include clearfix;
+}
+
+// responsive iframes by ratio
+@mixin generateRatios($width, $height, $prefix: "ratio-") {
+  $class-name: $prefix + $width + "x" + $height;
+ 
+  .#{$class-name} {
+    padding-bottom: ratio($width, $height);
+  }
+  // Output example: .ratio-16x9 {}
+}
+// used like this
+//@include generateRatios(16,9); // 16x9
+//@include generateRatios(4,3);  // 4x3

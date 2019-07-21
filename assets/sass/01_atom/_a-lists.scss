@@ -1,0 +1,37 @@
+ul, ol {
+	margin: 0 0 $base-line-height-em 3em;
+}
+
+ul {
+	list-style: disc;
+}
+
+ol {
+	list-style: decimal;
+}
+
+li > ul,
+li > ol {
+	margin-bottom: 0;
+	margin-left: $base-line-height-em;
+}
+
+dt {
+	font-weight: bold;
+}
+
+dd {
+	margin: 0 $base-line-height-em 1.5em;
+}
+
+.m-entry-content ul, .m-entry-content ol, .m-entry-content dl {
+	margin: 0.5em;
+}
+
+.m-entry-content ul, .m-entry-content ol {
+	padding-left: $base-line-height-em;
+	margin-left: 0;
+	li {
+		list-style-position: outside;
+	}
+}

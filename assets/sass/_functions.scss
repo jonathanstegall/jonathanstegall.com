@@ -1,0 +1,33 @@
+// Palette function,
+@function palette($palette, $tone: 'base') {
+    @return map-get(map-get($palettes, $palette), $tone);
+}
+
+// used this way
+/*a {
+    color: palette(purple);
+    &:hover {
+        color: palette(purple, light);
+    }
+}*/
+
+// rgba function
+@function rgba_color($base, $alpha) {
+	@return rgba($base, $alpha);
+}
+
+// used this way
+/*rgba_color( #333, 1 );*/
+
+/**
+ * Ratios
+ * Returns the ratio for specified dimensions.
+ */
+@function ratio($width, $height) {
+  @return percentage( $height / $width);
+}
+
+// used this way
+/*iframe {
+	padding-bottom: ratio(728,90);
+}*/

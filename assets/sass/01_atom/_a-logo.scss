@@ -1,6 +1,15 @@
 .a-logo {
 	font-family: $font__serif;
+	font-weight: $heading__weight;
 	font-size: 1.8rem;
 	line-height: normal;
 	margin: 0;
+	grid-column: 2 / span 1;
+	a {
+		color: $color-tertiary-darker;
+		text-decoration: none;
+		&:hover, &:active, &.active {
+			color: $color__white;
+		}
+	}
 }

@@ -1,3 +1,12 @@
+html {
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+}
+
+body {
+    font-family: $font__body;
+}
+
 .o-wrapper {
     line-height: 1.3em;
 }

@@ -1,0 +1,8 @@
+header[role="banner"] {
+	grid-template-columns: [edge-start] minmax(1rem, 1fr) [content-start] repeat(16, minmax(1rem, 72px)) [content-end] minmax(1rem, 1fr) [edge-end];
+	grid-auto-rows: minmax(min-content, max-content);
+	display: grid;
+	margin-bottom: $base-margin-unit;
+	background: $rgba-primary-darker;
+	padding: $base-padding-unit 0;
+}

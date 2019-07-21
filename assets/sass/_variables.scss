@@ -15,6 +15,12 @@ $color-secondary-medium: #9EC7C5;
 $color-secondary-light: #CEE3E2;
 $color-secondary-lighter: #ECF4F4;
 
+$color-tertiary-darker: #2B6A67; // main tertiary color
+$color-tertiary-dark: #60908D;
+$color-tertiary-medium: #96B5B4;
+$color-tertiary-light: #CADAD9;
+$color-tertiary-lighter: #EAF1F0;
+
 // rgba codes
 $rgba-primary-darker: rgba_color( $color-primary-darker, 1 ); // main primary color
 $rgba-primary-dark: rgba_color( $color-primary-dark, 1 );
@@ -27,6 +33,12 @@ $rgba-secondary-dark: rgba_color( $color-secondary-dark, 1 );
 $rgba-secondary-medium: rgba_color( $color-secondary-medium, 1 );
 $rgba-secondary-light: rgba_color( $color-secondary-light, 1 );
 $rgba-secondary-lighter: rgba_color( $color-secondary-lighter, 1 );
+
+$rgba-tertiary-darker: rgba_color( $color-tertiary-darker, 1 ); // main tertiary color
+$rgba-tertiary-dark: rgba_color( $color-tertiary-dark, 1 );
+$rgba-tertiary-medium: rgba_color( $color-tertiary-medium, 1 );
+$rgba-tertiary-light: rgba_color( $color-tertiary-light, 1 );
+$rgba-tertiary-lighter: rgba_color( $color-tertiary-lighter, 1 );
 
 
 // other colors
@@ -85,10 +97,19 @@ $font__form: $font__serif;
 $font__line-height-body: 1.5;
 $font__line-height-pre: 1.6;
 
+$heading__weight: 200;
+
 // font sizing/spacing
-$base-font-size: 20px;
+$base-font-size: 24px;
 $base-line-height: 1.5;
 $base-line-height-em: $base-line-height + em;
+
+// margins/padding
+$base-margin-unit: 1.5em;
+$base-padding-unit: 0.5rem;
+
+// transition
+$color__transition: color 0.3s ease-in-out 0s;
 
 
 

@@ -9,7 +9,13 @@
 
 ?>
 
-<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+<article id="post-<?php the_ID(); ?>" <?php post_class(); ?> style="position: relative;">
+
+	<aside class="date" style="position: absolute; transform: rotate(90deg);
+	transform-origin: 10px 20px; background: #f00; width: 200px; height: 100%;">
+		2018 March
+	</aside>
+
 	<header class="entry-header">
 		<?php
 		if ( is_singular() ) :
@@ -23,7 +29,6 @@
 			<div class="entry-meta">
 				<?php
 				jonathanstegall_2018_posted_on();
-				jonathanstegall_2018_posted_by();
 				?>
 			</div><!-- .entry-meta -->
 		<?php endif; ?>
@@ -45,15 +50,7 @@
 			),
 			get_the_title()
 		) );
-
-		wp_link_pages( array(
-			'before' => '<div class="page-links">' . esc_html__( 'Pages:', 'jonathanstegall-2018' ),
-			'after'  => '</div>',
-		) );
 		?>
 	</div><!-- .entry-content -->
 
-	<footer class="entry-footer">
-		<?php jonathanstegall_2018_entry_footer(); ?>
-	</footer><!-- .entry-footer -->
 </article><!-- #post-<?php the_ID(); ?> -->

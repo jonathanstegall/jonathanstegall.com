@@ -15,6 +15,8 @@ if ( ! function_exists( 'jonathanstegall_2018_add_remove_styles' ) ) :
 	add_action( 'wp_print_styles', 'jonathanstegall_2018_add_remove_styles', 10 );
 	function jonathanstegall_2018_add_remove_styles() {
 		// add
+		wp_register_style( 'typekit', 'https://use.typekit.net/eup1xch.css' );
+		wp_enqueue_style( 'typekit' );
 		$suffix = ( defined( 'SCRIPT_DEBUG' ) && 'true' === WP_DEBUG ) ? '' : '.min';
 		wp_enqueue_style( 'jonathanstegall-2018-style', get_theme_file_uri() . '/style' . $suffix . '.css', array(), filemtime( get_theme_file_path() . '/style' . $suffix . '.css' ), 'all' );
 		// remove

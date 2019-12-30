@@ -68,7 +68,7 @@ const beep = require( 'beepbeep' );
  * @param Mixed err
  */
 const errorHandler = r => {
-	notify.onError( '\n\n❌  ===> ERROR: <%= error.message %>\n' )( r );
+	//notify.onError( '\n\n❌  ===> ERROR: <%= error.message %>\n' )( r );
 	beep();
 
 	// this.emit('end');
@@ -140,7 +140,7 @@ gulp.task( 'styles', () => {
 		.pipe( gulp.dest( config.styleDestination ) )
 		.pipe( filter( '**/*.css' ) ) // Filtering stream to only css files.
 		.pipe( browserSync.stream() ) // Reloads style.min.css if that is enqueued.
-		.pipe( notify({ message: '\n\n✅  ===> STYLES — completed!\n', onLast: true }) );
+		//.pipe( notify({ message: '\n\n✅  ===> STYLES — completed!\n', onLast: true }) );
 });
 
 /**
@@ -188,7 +188,7 @@ gulp.task( 'stylesRTL', () => {
 		.pipe( gulp.dest( config.styleDestination ) )
 		.pipe( filter( '**/*.css' ) ) // Filtering stream to only css files.
 		.pipe( browserSync.stream() ) // Reloads style.css or style-rtl.css, if that is enqueued.
-		.pipe( notify({ message: '\n\n✅  ===> STYLES RTL — completed!\n', onLast: true }) );
+		//.pipe( notify({ message: '\n\n✅  ===> STYLES RTL — completed!\n', onLast: true }) );
 });
 
 /**
@@ -231,7 +231,7 @@ gulp.task( 'vendorsJS', () => {
 		.pipe( uglify() )
 		.pipe( lineec() ) // Consistent Line Endings for non UNIX systems.
 		.pipe( gulp.dest( config.jsVendorDestination ) )
-		.pipe( notify({ message: '\n\n✅  ===> VENDOR JS — completed!\n', onLast: true }) );
+		//.pipe( notify({ message: '\n\n✅  ===> VENDOR JS — completed!\n', onLast: true }) );
 });
 
 /**
@@ -274,7 +274,7 @@ gulp.task( 'customJS', () => {
 		.pipe( uglify() )
 		.pipe( lineec() ) // Consistent Line Endings for non UNIX systems.
 		.pipe( gulp.dest( config.jsCustomDestination ) )
-		.pipe( notify({ message: '\n\n✅  ===> CUSTOM JS — completed!\n', onLast: true }) );
+		//.pipe( notify({ message: '\n\n✅  ===> CUSTOM JS — completed!\n', onLast: true }) );
 });
 
 /**
@@ -309,7 +309,7 @@ gulp.task( 'images', () => {
 			)
 		)
 		.pipe( gulp.dest( config.imgDST ) )
-		.pipe( notify({ message: '\n\n✅  ===> IMAGES — completed!\n', onLast: true }) );
+		//.pipe( notify({ message: '\n\n✅  ===> IMAGES — completed!\n', onLast: true }) );
 });
 
 /**
@@ -345,7 +345,7 @@ gulp.task( 'translate', () => {
 			})
 		)
 		.pipe( gulp.dest( config.translationDestination + '/' + config.translationFile ) )
-		.pipe( notify({ message: '\n\n✅  ===> TRANSLATE — completed!\n', onLast: true }) );
+		//.pipe( notify({ message: '\n\n✅  ===> TRANSLATE — completed!\n', onLast: true }) );
 });
 
 /**

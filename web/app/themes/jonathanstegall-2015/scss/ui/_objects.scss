@@ -1,0 +1,517 @@
+/* nav */
+header[role="banner"] {
+	background: $logo-primary-color;
+	padding: 0.5em 0;
+	margin-bottom: 1em;
+}
+header[role="banner"] .grid {
+	padding-top: 0;
+	padding-bottom: 0;
+	position: relative;
+}
+header[role="banner"] h1 {
+	font-family: $base-font-family;
+	margin: 0;
+	line-height: normal;
+	padding: 0;
+	width: auto;
+	float: left;
+	@include font-size($base-font-size * 1.4, false);
+}
+header[role="banner"] h1 a {
+	color: $brand-color;
+}
+header[role="banner"] h1 a:hover, header[role="banner"] h1 a:focus, header[role="banner"] h1 a:active {
+	color: #fff;
+}
+
+nav[role="navigation"] {
+	font-family: $header-font-family;
+	font-weight: 200;
+	@include font-size($base-font-size * 0.8, false);
+	line-height: 2.3;
+	padding: 0;
+	padding: 3.5em 0 0 0;
+	width: 100%;
+}
+.js nav[role="navigation"] {
+  clip: rect(0 0 0 0);
+  max-height: 0;
+  position: absolute;
+  display: block;
+  overflow: hidden;
+  zoom: 1;
+}
+nav[role="navigation"].opened {
+  max-height: 9999px;
+}
+nav[role="navigation"].disable-pointer-events {
+  pointer-events: none !important;
+}
+nav[role="navigation"] ul {
+	display: block;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;  
+	line-height: 2;
+}
+nav[role="navigation"] li {
+  width: 48%;
+  display: block;
+  float: left;
+  margin-bottom: 1em;
+  text-align: center;
+}
+nav[role="navigation"] li:nth-child(2n) {
+	float: right;
+}
+nav[role="navigation"] li a {
+	display: block;
+	background-color: lighten($logo-primary-color, 5%);
+	padding: 0.5em 0;
+	color: #fff;
+}
+nav[role="navigation"] li a:hover, nav[role="navigation"] li a:focus, nav[role="navigation"] li a:active, nav[role="navigation"] li.current-menu-item a, nav[role="navigation"] li.active a, .category nav[role="navigation"] li.writings a, .single-format-standard nav[role="navigation"] li.writings a, .term-post-format-aside nav[role="navigation"] li.items-of-interest a, .single-format-aside nav[role="navigation"] li.items-of-interest a {
+	color: $logo-secondary-color;
+}
+.nav-toggle {
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  float: right;
+}
+.nav-toggle strong {
+	visibility: hidden;
+}
+
+/* end nav */
+
+/* intro */
+.intro h1 {
+	margin: 0.5em 0 0.25em 0;
+	@include font-size($base-font-size * 1.8, true);
+	//line-height: 0.71428571428571; 
+}
+.intro p, section.grid > p {
+	margin-bottom: 0.75em;
+	@include font-size($base-font-size);
+	padding: 0;
+}
+/* end intro */
+
+/* home sections */
+.grid > p .btn {
+	@include font-size(18px, true);
+	margin: 0.5em 0 1.5em 0;
+	padding: 0.75em 1.25em;
+	display: block;
+	width: 9.05em;
+	vertical-align: middle;
+}
+	/* end home sections */
+
+/* post listing */
+.grid-wrapper {
+	margin: 1.5em 0;
+	border-top: 1px solid $border-color;
+	position: relative;
+	padding: 1.5em 0 0 0;
+}
+.grid-wrapper:hover {
+	opacity: 1.0;
+}
+.grid article {
+	margin-bottom: 1.5em;
+}
+.posts h1 a:hover, .posts h1 a:focus, .posts h1 a:active {
+	//color: $header-link-hover-color;
+}
+.grid > h2 {
+	//padding-bottom: 0.5em;
+}
+.grid article h1, .post h1 {
+	@include font-size($base-font-size * 1.4, false);
+	line-height: 1.25;
+	margin-bottom: 0.25em;
+}
+.post h1 {
+	@include font-size($base-font-size * 1.6, false);
+	line-height: 1.25;
+	margin-bottom: 0.5em;
+}
+article.post-type-post h1 {
+	margin-bottom: 0.25em;
+}
+.grid article h1 .fa {
+	margin-left: 0.5rem;
+}
+.grid-wrapper .grid > h1 {
+	//@include font-size($base-font-size * 1.4, true);
+}
+.grid article h2 {
+	margin-bottom: 0.25em;
+}
+.grid .muted {
+	@include font-size($base-font-size * 0.9, false);
+	font-family: $header-font-family;
+}
+.grid .muted {
+	margin-bottom: 0.25em;
+}
+.items-of-interest article h1 {
+	@include font-size($base-font-size * 1.2, false);
+}
+.items-of-interest article {
+	@include font-size($base-font-size * 0.8, false);
+	position: relative;
+	padding-right: 3rem;
+}
+.items-of-interest article p, .items-of-interest article blockquote {
+	margin-bottom: 1em;
+}
+.items-of-interest article p.muted {
+	margin-bottom: 0.5em;
+}
+.items-of-interest .fa-arrow-circle-o-right {
+	color: $border-color;
+	/*font-size: 2.5rem;
+	position: absolute;
+	right: 2.5rem;
+	top: 0;*/
+	@include transition (color 0.3s ease-in-out 0s);
+}
+.items-of-interest a:hover .fa-arrow-circle-o-right {
+	color: darken($border-color, 15%);
+}
+/* end post listing */
+
+/* archive */
+.archive ol {
+	margin-left: 0;
+	list-style: none;
+}
+.archive ol li , .archive article {
+	margin-bottom: 1em;
+	width: 100%;
+	float: left;
+}
+.archive article:after {
+	clear: both;
+}
+
+/* end archive */
+
+/* post */
+article.post-type-post > p:first-of-type, article.post-type-page > p:first-of-type {
+	//@include font-size($base-font-size * 1.2, false);
+	//line-height: 1.6;
+}
+.footnotes ol, .footnotes {
+	margin-left: 0;
+	border-top: 1px solid $border-color;
+	list-style-position: inside;
+	@include font-size($base-font-size * 0.9, false);
+	padding-top: 0.5em;
+}
+.footnotes ol p, .footnotes p {
+	display: inline;
+}
+/* end post */
+
+/* testing work stuff */
+.work article {
+
+}
+
+.work .skills {
+	list-style: none;
+	margin: 0;
+}
+.work .skills li {
+	display: inline-block;
+	background: #ddd;
+	//color: #fff;
+	border: 1px solid #333;
+	border-radius: 50%;
+	margin-right: 2em;
+	width: 8rem;
+	height: 8rem;
+	text-align: center;
+	vertical-align: middle;
+	padding: 1.5em 1em;
+}
+.work .skills li:nth-child(2n) {
+	background: $footer-background-color;
+	color: #fff;
+}
+
+.slider {
+	margin: 0;
+	list-style: none;
+}
+.who-i-work-with .customer {
+	margin: 1em 0 2em 0;
+}
+.who-i-work-with .customer .screenshot {
+	display: block;
+	border: 1px solid $border-color;
+	margin-bottom: 2em;
+}
+.who-i-work-with .customer .info {
+	padding-left: 1rem;
+}
+
+.who-i-work-with article div {
+	//margin-right: 2%;
+	//padding: 0.25rem;
+	
+}
+.who-i-work-with article:last-child div {
+	margin-right: 0;
+}
+.who-i-work-with article figure {
+	display: block;
+	border: 1px solid $border-color;
+	padding: 0.25em 0.25rem;
+	margin-bottom: 0.75em;
+}
+.who-i-work-with article h1 {
+	@include font-size($base-font-size * 1.2, true);
+	margin-bottom: 0.5em;
+}
+.who-i-work-with article p {
+	@include font-size($base-font-size * 0.8, true);
+	line-height: 1.5;
+}
+/* end testing work stuff */
+
+/* sub nav */
+.section-nav {
+	width: 100%;
+	background: $border-color;
+	padding: 0;
+	margin: -2em 0 3.5em 0;
+}
+main .section-nav:nth-child(2) {
+	margin-top: 0;
+}
+.section-nav.fixed {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	//margin: 0;
+}
+.section-nav ol, .section-nav ul {
+	padding-top: 0;
+	padding-bottom: 0;
+	margin: 0 auto;
+}
+.section-nav ol li, .section-nav ul li {
+	/*display: inline-block;
+	margin: 0 0.5rem;
+	line-height: normal;*/
+	width: 50%;
+	float: left;
+}
+.section-nav ol li.newer, .section-nav ul li.newer {
+	text-align: right;
+}
+.section-nav li a {
+	color: #999;
+	@include transition (color 0.3s ease-in-out 0s);
+	line-height: normal;
+	padding: 0.5em 0.5rem;
+	display: block;
+}
+.section-nav li a:hover, .section-nav li a:focus, .section-nav li a:active, .section-nav li a.active {
+	color: #666;
+}
+/* end year nav */
+
+/* contact */
+.grid.contact {
+	padding-bottom: 0;
+}
+.contact fieldset {
+	border: 0;
+	padding: 0;
+}
+.contact ul {
+	list-style: none;
+	margin: 0;
+}
+.contact article {
+	margin-bottom: 0;
+}
+.contact article:first-of-type {
+	margin-bottom: 0;
+}
+.contact article.email {
+	padding: 0;
+}
+.contact article .social {
+	padding-top: 0.5em;
+	@include font-size($base-font-size * 1.33333333333333, false);
+}
+.contact article .social li {
+	margin-right: 1.5rem;
+	position: relative;
+	width: 1em;
+}
+.contact article .social li a {
+	display: block;
+}
+.js .contact article .social li strong {
+	opacity: 0;
+	position: absolute;
+	top: 0;
+	margin-top: -2em;
+	left: -0.5rem;
+	@include transition (all 0.6s linear 0s);
+	@include font-size($base-font-size * 0.8, false);
+	font-weight: normal;
+	font-family: $header-font-family;
+}
+.js .contact article .social li:hover strong {
+	opacity: 1.0;
+	top: 2em;
+	margin-top: 0;
+}
+/* end contact */
+
+.copyright {
+	background: $footer-background-color;
+	color: $footer-color;
+	padding: 0.5em 0;
+	margin: 0;
+}
+.copyright p {
+	@include font-size($base-font-size * 0.7, true);
+	line-height: 1.75;
+	margin-bottom: 0;
+}
+
+@media screen and (min-width: 510px) {
+
+	/* nav */
+	header[role="banner"] h1 {
+		@include font-size($base-font-size * 1.6, false);
+	}
+	nav[role="navigation"] {
+		float: right;
+		width: auto;
+		padding: 0;
+		line-height: 2;
+	}
+	.js nav[role="navigation"] {
+    position: relative;
+  }
+  .js nav[role="navigation"].closed {
+    max-height: none;
+  }
+  .nav-toggle {
+    display: none;
+  }
+  nav[role="navigation"] li, nav[role="navigation"] li:nth-child(2n) {
+		display: inline-block;
+		float: none;
+		width: auto;
+		margin-bottom: 0.5em;
+	}
+	nav[role="navigation"] li a {
+		padding: 0 1rem;
+		background: none;
+	}
+	/* end nav */
+
+	/* intro */
+
+	/* end intro */
+
+	/* footer */
+	/* end footer */
+
+}
+
+
+@media screen and (min-width: 510px) and (max-width: 1023px) {
+	/* post listing */
+	/*.writings article:nth-of-type(2n+1) {
+		clear: both;
+	}*/
+	/* end post listing */
+}
+
+@media screen and (min-width: 768px) {
+
+	/* nav */
+	header[role="banner"] h1 {
+		@include font-size($base-font-size * 1.8, false);
+	}
+	nav[role="navigation"] {
+		//@include font-size(20px);
+		//line-height: 36px;
+		line-height: 2.25;
+	}
+	/* end nav */
+
+	/* intro */
+	.intro h1 {
+		@include font-size($base-font-size * 2.4, false);
+	}
+	.intro p, section.grid > p {
+		@include font-size($base-font-size * 1.4);
+		padding: 0;
+		line-height: 1.5;
+	}
+	/* end intro */
+
+	/* home sections */
+	.grid > p .btn {
+		/*@include font-size(18px, true);
+		margin-left: 12px;
+		margin-top: -8px;
+		display: inline-block;*/
+		display: inline-block;
+		width: auto;
+	}
+	/* end home sections */
+
+}
+
+@media screen and (min-width: 980px) {
+	.grid-wrapper .grid > h1 {
+		position: absolute;
+		padding: 0 0.5rem;
+		margin-left: -0.5rem;
+		top: -0.5em;
+		background: #fff;
+		color: #bbb;
+		line-height: 0.75; // fix this
+	}
+}
+
+@media screen and (min-width: 1024px) {
+	/* post listing */ 
+	.contact article ul {
+		padding-top: 0.5rem;
+	}
+	.contact article .social {
+		padding-top: 0;
+		padding-left: 1rem;
+	}
+	.contact article {
+		border-right: 1px solid $border-color;
+	}
+	.contact article:last-child {
+		border-right: none;
+	}
+	/* end post listing */
+}
+
+/* end larger screen nav */

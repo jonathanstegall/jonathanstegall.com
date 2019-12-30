@@ -12,45 +12,33 @@
 ?>
 <!doctype html>
 <html class="no-js" <?php language_attributes(); ?>>
-<head <?php do_action( 'add_head_attributes' ); ?>>
-	<meta charset="<?php bloginfo( 'charset' ); ?>">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<?php wp_head(); ?>
-</head>
+	<head <?php do_action( 'add_head_attributes' ); ?>>
+		<meta charset="<?php bloginfo( 'charset' ); ?>">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<?php wp_head(); ?>
+	</head>
 
-<body <?php body_class(); ?>>
-<div id="page" class="site">
-	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'jonathanstegall-2018' ); ?></a>
+	<body <?php body_class(); ?>>
+		<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'jonathanstegall-2018' ); ?></a>
 
-	<header id="masthead" class="site-header">
-		<div class="site-branding">
-			<?php
-			the_custom_logo();
-			if ( is_front_page() && is_home() ) :
-				?>
-				<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
-				<?php
-			else :
-				?>
-				<p class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></p>
-				<?php
-			endif;
-			$jonathanstegall_2018_description = get_bloginfo( 'description', 'display' );
-			if ( $jonathanstegall_2018_description || is_customize_preview() ) :
-				?>
-				<p class="site-description"><?php echo $jonathanstegall_2018_description; /* WPCS: xss ok. */ ?></p>
-			<?php endif; ?>
-		</div><!-- .site-branding -->
+		<header id="masthead" class="o-header" role="banner">
+			<div class="o-wrapper o-wrapper-site-header">
+				<a rel="home" href="<?php echo esc_url( home_url( '/' ) ); ?>" class="a-logo">
+					<?php bloginfo( 'description' ); ?>
+				</a>
+				<nav id="navigation-primary" class="m-navigation">
+					<?php
+					wp_nav_menu(
+						array(
+							'theme_location' => 'primary_links',
+							'menu_id'        => 'primary-menu',
+							'items_wrap' => '<ul>%3$s</ul>',
+							'container' => false
+						)
+					);
+					?>
+				</nav>
+			</div>
+		</header><!-- #masthead -->
 
-		<nav id="site-navigation" class="main-navigation">
-			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'jonathanstegall-2018' ); ?></button>
-			<?php
-			wp_nav_menu( array(
-				'theme_location' => 'primary_links',
-				'menu_id'        => 'primary-menu',
-			) );
-			?>
-		</nav><!-- #site-navigation -->
-	</header><!-- #masthead -->
-
-	<div id="content" class="site-content">
+		<div id="content" class="o-wrapper o-wrapper-content">

@@ -1,30 +1,28 @@
-.a-home-section {
+.m-home-section {
 	display: grid;
 	grid-template-columns: [edge-start] minmax(1rem, 1fr) [content-start] repeat(12, minmax(1rem, 96px)) [content-end] minmax(1rem, 1fr) [edge-end];
   	grid-auto-rows: minmax(min-content, max-content);
-  	&.a-home-section-jonathan {
-  		figure {
+  	background: $color__white;
+  	padding: 0 0 $base-margin-unit 0;
+  	
+  	&:first-of-type {
+  		padding: $base-margin-unit 0;
+  	}
+  	
+  	&.m-home-section-jonathan {
+  	
+  		h1 {
+			color: inherit;
+			font-size: 2.5rem;
+			margin: 0;
+			font-weight: 700;
 			grid-column: 2 / span 5;
 			position: relative;
-			figcaption {
-				position: absolute;
-				top: 0;
-				width: 100%;
-				height: 100%;
-				text-align: center;
-				background: rgba(187,187,187,0.3);
-				display: flex;
-				flex-direction: column;
-			}
-			h1 {
-				color: #333;
-				font-size: 2.5rem;
-			}
 		}
+
 		article {
 			margin-top: 0.5em;
 			grid-column: 8 / span 6;
-			/*font-size: 1.4rem;*/
 			font-size: 1.2rem;
 		}
 	}

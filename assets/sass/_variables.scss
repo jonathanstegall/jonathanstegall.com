@@ -97,7 +97,7 @@ $font__form: $font__serif;
 $font__line-height-body: 1.5;
 $font__line-height-pre: 1.6;
 
-$heading__weight: 200;
+$heading__weight: 700;
 
 // font sizing/spacing
 $base-font-size: 24px;
@@ -106,7 +106,8 @@ $base-line-height-em: $base-line-height + em;
 
 // margins/padding
 $base-margin-unit: 1.5em;
-$base-padding-unit: 0.5rem;
+$base-padding-unit: 0.5em;
+$base-heading-padding-unit: 0.25em;
 
 // transition
 $color__transition: color 0.3s ease-in-out 0s;

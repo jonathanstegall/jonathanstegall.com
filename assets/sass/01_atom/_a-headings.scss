@@ -1,44 +1,48 @@
-h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
 	font-family: $font__headings;
 	font-weight: $heading__weight;
-	//font-size: 100%;
-	//margin: 0;
-	//padding: 0;
-	/*a {
-		color: inherit;
-		&:visited,
-		&:active,
-		&:focus,
-		&:hover,
-		&.active {
-			color: inherit;
-		}
-	}*/
 	margin: 0;
+	padding: 0;
 }
 
-/*h1, .h1, h2, .h2, h3, .h3 {
-	margin-top: 0;
-}*/
-
-h1, .h1 {
+h1,
+.h1 {
 
 }
-h2, .h2 {
-	//font-size: 123.1%;
+
+h2,
+.h2 {
 	font-size: 1.5em;
 	padding: 0 0 $base-heading-padding-unit 0;
+}
 
-}
-h3, .h3 {
+h3,
+.h3 {
 	
 }
-h4, .h4 {
+
+h4,
+.h4 {
 	
 }
-h5, .h5 {
+
+h5,
+.h5 {
 	
 }
-h6, .h6 {
+
+h6,
+.h6 {
 	
 }

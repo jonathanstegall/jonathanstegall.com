@@ -48,7 +48,9 @@ label {
 	display: inline-block;
 }
 
-input, select, textarea {
+input,
+select,
+textarea {
 	max-width: 100%; // sometimes there'll be more specific sizes, but we should never go over 100% here
 	font-family: $font__form;
 	font-size: 99%;

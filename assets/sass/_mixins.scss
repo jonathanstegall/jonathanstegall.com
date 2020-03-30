@@ -6,37 +6,6 @@
 }
 // @include hide-text;
 
-
-@mixin gi-nums($n, $max) {
-	%num-#{$n} {
-	    @content;
-	}
-	$i: $n;
-	@while $i <= $max {
-	    .gi-#{$i} {
-	        grid-column: col-start / span $i;
-	    }
-	    $i: $i+$n;
-	}
-}
-
-// used like this
-// @include gi-nums(1, 12);
-
-// commented out because i don't currently have a clearfix function to include, maybe don't need one
-/*@mixin outer-container($local-max-width: $max-width) {
-  @include clearfix;
-  max-width: $local-max-width;
-  margin: {
-    left: auto;
-    right: auto;
-  }
-}
-
-.clearfix {
-	@include clearfix;
-}*/
-
 // responsive iframes by ratio
 @mixin generateRatios($width, $height, $prefix: "ratio-") {
   $class-name: $prefix + $width + "x" + $height;

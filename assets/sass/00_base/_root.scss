@@ -43,6 +43,20 @@ figure {
 	margin: 1em 0; /* Extra wide images within figure tags don't overflow the content area. */
 }
 
+form {
+	margin-bottom: 1em;
+
+	&:last-child {
+		margin-bottom: 0;
+	}
+}
+
+fieldset {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
 label {
 	line-height: $base-line-height-em;
 	display: inline-block;
@@ -53,6 +67,22 @@ select,
 textarea {
 	max-width: 100%; // sometimes there'll be more specific sizes, but we should never go over 100% here
 	font-family: $font__form;
-	font-size: 99%;
 	line-height: normal;
+	outline: none;
+	-webkit-appearance: none;
+	border: 0;
+	padding: $base-padding-unit $base-padding-unit / 2;
+}
+
+input[type="submit"] {
+	font-weight: 700;
+	cursor: pointer;
+	padding: $base-padding-unit $base-padding-unit * 2;
+	background: $color__link;
+	color: $color__white;
+
+	&:hover,
+	&:focus {
+		background: $color__link-hover;
+	}
 }

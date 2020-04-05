@@ -1,5 +1,13 @@
 .a-home-standalone {
-	grid-column: 2 / span 9;
+	grid-column: 2 / span 8;
 	position: relative;
 	font-size: 1.2rem;
+}
+
+.m-home-section:nth-child(2n) .a-home-standalone {
+	grid-column: 6 / span 8;
+}
+
+.m-home-section:nth-child(2n + 1) .a-home-standalone {
+	grid-column: 4 / span 8;
 }

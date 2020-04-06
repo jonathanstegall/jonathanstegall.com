@@ -1,11 +1,11 @@
 .m-home-section {
-  	padding: 0 0 $base-margin-unit * 2 0;
+  	padding: 0 0 var(--space4) 0;
   	grid-column: 2 / span 8;
 	position: relative;
 	font-size: 1.2rem;
   	
   	&:first-of-type {
-  		padding: $base-margin-unit 0 $base-margin-unit * 2 0;
+  		padding: var(--space2) 0 var(--space4) 0;
   	}
 
   	&:nth-child(2n) {
@@ -19,7 +19,8 @@
   	&.m-home-section-jonathan {
   		grid-column: 2 / span 12;
   		display: grid;
-  		grid-template-columns: repeat( 12, minmax( 1rem, 96px ) );
+  		grid-template-columns: var(--grid--section);
+  		column-gap: var(--grid--gutter);
   	
   		h1 {
 			color: inherit;

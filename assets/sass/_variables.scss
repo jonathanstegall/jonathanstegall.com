@@ -87,26 +87,16 @@ $font__form: $font__sans;
 $font__line-height-body: 1.5;
 $font__line-height-pre: 1.6;
 
+$body__weight: 500;
 $heading__weight: 700;
 
 // font sizing/spacing
-$base-font-size: 24px;
+$base-font-size: 150%;
 $base-line-height: 1.5;
-$base-line-height-em: $base-line-height + em;
+$footer-font-size: 75%;
 
 // margins/padding
-$base-margin-unit: 1.5em;
-$base-padding-unit: 0.5em;
-$base-heading-padding-unit: 0.25em;
+$base-spacing-unit: 0.5em;
 
 // transition
 $color__transition: color 0.3s ease-in-out 0s;
-
-
-
-// site structure
-$max-width-medium: 680px;
-$medium-margins-too-small: 700px;
-$max-width-medium-plus-margins: 720px;
-$max-width-page: 975px;
-$max-width-story-2012: 452px;

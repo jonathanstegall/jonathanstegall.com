@@ -5,11 +5,55 @@ html {
 
 body {
     font-family: $font__body;
+    font-size: var(--scale0);
+    line-height: $base-line-height;
 }
 
-.o-wrapper {
-    line-height: 1.3em;
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+    font-family: $font__headings;
+    font-weight: $heading__weight;
+    margin: 0;
+    padding: 0;
 }
+
+h1,
+.h1 {
+    font-size: var(--scale4);
+}
+
+h2,
+.h2 {
+    font-size: var(--scale3);
+    padding: 0 0 var(--space-1) 0;
+}
+
+h3,
+.h3 {
+    font-size: var(--scale2);
+}
+
+h4,
+.h4 {
+    font-size: var(--scale1);
+}
+
+h5,
+.h5 {
+    font-size: var(--scale1);
+    font-weight: $body__weight;
+}
+
 
 p {
 	margin: 0;
@@ -17,7 +61,7 @@ p {
 }
 
 p {
-	margin-bottom: 1em;
+	margin-bottom: var(--space1);
 }
 
 p:last-child {
@@ -27,16 +71,21 @@ p:last-child {
 blockquote {
     border-left: 5px solid $color__border-light;
     margin-left: 0;
-    padding: 0 0 0.5em 1em;
-    margin-bottom: 1em;
+    padding: 0 0 var(--space0) var(--space1);
+    margin-bottom: var(--space1);
 }
 
-.screen-reader-text {
-    clip: rect(1px, 1px, 1px, 1px);
-    clip-path: polygon(0px 0px, 0px 0px,0px 0px, 0px 0px);
-    position: absolute !important;
-    white-space: nowrap;
-    height: 1px;
-    width: 1px;
-    overflow: hidden;
+label {
+  line-height: $base-line-height;
+}
+
+input,
+select,
+textarea {
+  font-family: $font__form;
+  line-height: $base-line-height;
+}
+
+input[type="submit"] {
+  font-weight: $heading__weight;
 }

@@ -31,7 +31,7 @@ hr {
 	background-color: $color__hr;
 	border: 0;
 	height: 1px;
-	margin-bottom: $base-line-height-em;
+	margin-bottom: $base-line-height;
 }
 
 img {
@@ -58,7 +58,6 @@ fieldset {
 }
 
 label {
-	line-height: $base-line-height-em;
 	display: inline-block;
 }
 
@@ -66,18 +65,15 @@ input,
 select,
 textarea {
 	max-width: 100%; // sometimes there'll be more specific sizes, but we should never go over 100% here
-	font-family: $font__form;
-	line-height: normal;
 	outline: none;
 	-webkit-appearance: none;
 	border: 0;
-	padding: $base-padding-unit $base-padding-unit / 2;
+	padding: var(--space0);
 }
 
 input[type="submit"] {
-	font-weight: 700;
 	cursor: pointer;
-	padding: $base-padding-unit $base-padding-unit * 2;
+	padding: var(--space0) var(--space1);
 	background: $color__link;
 	color: $color__white;
 
@@ -85,4 +81,14 @@ input[type="submit"] {
 	&:focus {
 		background: $color__link-hover;
 	}
+}
+
+.screen-reader-text {
+    clip: rect(1px, 1px, 1px, 1px);
+    clip-path: polygon(0px 0px, 0px 0px,0px 0px, 0px 0px);
+    position: absolute !important;
+    white-space: nowrap;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
 }

@@ -1,8 +1,7 @@
 nav[role="navigation"] {
-	grid-column: 10 / span 8;
+	grid-column: 8 / span 6;
 	font-family: $font__sans;
-	font-size: 0.8rem;
-	line-height: 2;
+	font-size: var(--scale-1);
 	font-weight: $heading__weight;
 
 	> ul {
@@ -17,11 +16,15 @@ nav[role="navigation"] {
 		}
 
 		a {
-			padding: 0 $base-padding-unit * 2;
+			padding: var(--space0) var(--space1);
 			color: $color__white;
 
 			&:hover, &:focus, &:active, &.active {
 				color: $rgba-tertiary-darker;
+			}
+
+			&:first-of-type {
+				margin-left: calc(-1 * var(--space1));
 			}
 		}
 	}

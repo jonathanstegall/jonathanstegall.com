@@ -41,13 +41,6 @@
 	--grid--section: repeat( 12, minmax( 1rem, 4rem ) );
 }
 
-// space properties
-/*--space--micro: calc( var(--grid--gutter) * 0.25 );
---space--small: calc( var(--grid--gutter) * 0.5 );
---space--medium: var(--grid--gutter);
---space--more: calc( var(--grid--gutter) * 1.25 );
---space--large: calc( var(--grid--gutter) * 2 );*/
-
 // set spacing on :root
 :root {
 	--space-2: calc( var(--grid--gutter) * 0.25 );

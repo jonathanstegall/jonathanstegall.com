@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/jonathanstegall
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jonathanstegall.com
+  * I am jonathanstegall (https://keybase.io/jonathanstegall) on keybase.
+  * I have a public key with fingerprint F8B8 8A81 ABEB ADAF DEAC  B6E8 3550 F7E1 B00D D33A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010155751a22c4310e7a3267208db4b124a40fdd6e0b71162ef13561bf70bb7da4120a",
+            "fingerprint": "f8b88a81abebadafdeacb6e83550f7e1b00dd33a",
+            "host": "keybase.io",
+            "key_id": "3550f7e1b00dd33a",
+            "kid": "010155751a22c4310e7a3267208db4b124a40fdd6e0b71162ef13561bf70bb7da4120a",
+            "uid": "4407e7f9a2e029e2b5e2ad97a3d51419",
+            "username": "jonathanstegall"
+        },
+        "revoke": {
+            "sig_ids": [
+                "afe1fc0f7512bd9b3ba2470a0d25f7df0cb30cc3e1ce42626884d526a694aa4b0f"
+            ]
+        },
+        "service": {
+            "hostname": "jonathanstegall.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1467406317,
+    "expire_in": 157680000,
+    "prev": "8556554d1973a93a2fefde5fd6249df2be3910712030bc3c883cbbc07c6146fd",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMJuAnicrZJbaFRHGMd3vTaBoJW2dtESOmlLxZDMzJnLOUsfGh9qGqPmpWqiYTtz
+ZiZ73HXP9pyTrUkaik+lrbUEYkDFCyptQSgIbUUEsdpQ0VSwjdVeNL2hEvDFC/hS
+dU6obz52XoYZ/t/v+3+X7xpmZ+qz1SM/L53f+VR79vzpbH9mfe3yrSEgQzUA8kOg
+pGcuXVY6TgqlQIE8gAgiSjlFAmOfOAhqLhzMOIaukkQiTASBRimmoeQIMawNcihD
+0nAoJVeCIAwFaAYmqPTpqBoFlcRijStdV7hISC2FEkZp4UumXYdSaLhGEkKlHCcN
+LIZxGmHNSRHrliC0f/ZRmLH3BP3/7Lt/BkcI5JobT2ANsaexpBoL5VmmooggLxXG
+OqqILdqqN4cVkRRFJU50nyiXwXAziHQtLOm0vXHQZ73HIL8RCKOR8W0BFGGpPOlI
+gQmHAipMDVcG+tKBvu9o5GuCGWauSxTFTDCPCEEkNKDXsm3iWuDPwNNmPdlEix9u
+sS6rUZiEfli2gmKSVON8ai4ZqKYR72pZ+I9VkEFF2YnZiJqO4iCsgDyySj8JUjgi
+jBPIHMSbgd5aDSJdCFIF5cyF9qR5dM0iXUoZpUQhjzvCcwQ22s6aGsUw8ZTBUjse
+gtz22oHSd3zXdXwpfch9ZnMYBdLq3qmEIE+tTdFnkbZ/trD+SIPh06c2zclk6zPz
+5s5KNzlTX7fw8X4v+HH+wzePLSjfiW4eWb7o0tXgxPpvrn2da9nVvvrpaM+LalJR
+eXYHaTgXPH+2VG7wxprCX8dvtl242/xBW+mNnveXDJ/58/rWiRXfNh1+rfD6H0PL
+T06zXNTjNTZ8tWKydaI699bb88R7z7zVOTo+cejlfV3/jGwv0mxx1r8HRmarH166
+Wn9mSfdP5vcHU5/1XNnbdWf/x4OvNN5uHfgo1wUGLnyxmGW7pqeO7ruf71xZt6h9
+7Q74XLX7xNrRT+s+fPD9+L1LF/9euumv2ze+nCaDrYOtIxvBxXW/ND7b23GjmG1a
+tfPV39qyUe7g7qjtVMea49s6WjaUlg11Tw5vXnlv+wtj2z7/pNy7P3d96vgjDLda
+Ng==
+=+qVR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jonathanstegall
+
+==================================================================

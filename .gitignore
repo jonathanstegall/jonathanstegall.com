@@ -1,4 +1,52 @@
-_site
-_rake-configuration.rb
-_last_deploy.txt
-wp-config.php
+# server/computer files
+*.log
+.DS_Store
+.svn
+.cvs
+*.bak
+*.swp
+*.pyc
+Thumbs.db
+
+# generated
+sitemap.xml
+sitemap.xml.gz
+
+# wordpress specific
+wp-content/advanced-cache.php
+wp-content/object-cache.php
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/
+wp-content/wp-cache-config.php
+wp-content/plugins/hello.php
+wp-content/themes/twenty*
+*.sql
+
+# wordpress core (as of 4.9.4)
+/index.php
+/license.txt
+/readme.html
+/wp-activate.php
+/wp-blog-header.php
+/wp-comments-post.php
+/wp-config-sample.php
+/wp-config.php
+/wp-cron.php
+/wp-links-opml.php
+/wp-load.php
+/wp-login.php
+/wp-mail.php
+/wp-settings.php
+/wp-signup.php
+/wp-trackback.php
+/xmlrpc.php
+/wp-admin
+/wp-includes
+
+# packages
+node_modules/
+vendor/

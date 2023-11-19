@@ -2,10 +2,12 @@
 	display: grid;
 	grid-template-columns: [edge-start] minmax(1rem, 1fr) [content-start] repeat(12, minmax(1rem, 96px)) [content-end] minmax(1rem, 1fr) [edge-end];
   	grid-auto-rows: minmax(min-content, max-content);
+  	margin-bottom: 1em;
   	&.a-home-section-jonathan {
   		figure {
 			grid-column: 2 / span 5;
 			position: relative;
+			margin: 0;
 			figcaption {
 				position: absolute;
 				top: 0;
@@ -26,6 +28,17 @@
 			grid-column: 8 / span 6;
 			/*font-size: 1.4rem;*/
 			font-size: 1.2rem;
+		}
+	}
+	&.a-home-section-work {
+		h1 {
+			color: #2B6A67;
+			grid-column: 2 / span 3;
+			background: #2B6A67;
+			color: #fff;
+			padding: 0.25em 0.5em;
+			grid-column: 1 / span 16;
+			padding-left: 8em;
 		}
 	}
 }

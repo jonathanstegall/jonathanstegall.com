@@ -1,0 +1,21 @@
+footer {
+	display: grid;
+	grid-template-columns: var(--grid--wrapper);
+	column-gap: var(--grid--gutter);
+	background: $rgba-primary-darker;
+	color: $color__white;
+	font-size: $footer-font-size;
+	padding: var(--space2);
+
+  	section {
+
+  		&.m-more {
+			grid-column: 2/span 6;
+		}
+
+		&.m-copyright {
+			grid-column: 8/span 6;
+			text-align: right;
+		}
+  	}
+}

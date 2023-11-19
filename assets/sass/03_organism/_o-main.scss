@@ -1,0 +1,6 @@
+.o-main {
+	background: $color__white;
+	display: grid;
+	grid-template-columns: var(--grid--wrapper);
+	column-gap: var(--grid--gutter);
+}

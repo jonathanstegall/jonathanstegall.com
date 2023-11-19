@@ -1,0 +1,53 @@
+// set type scale on :root
+:root {
+  $scale-interval: 1.25;    // Unitless for proportional, unit for fixed
+  $body-text: 1rem;  // Must have a unit
+  $scale-min: -2;    // Unitless negative integer
+  $scale-max: 4;     // Unitless positive integer
+
+  --scaleint: #{$scale-interval};
+  --scale0: #{$body-text};
+
+  @if $scale-min < 0 {
+  // Generate scale variables smaller than the base text size
+    @for $i from -1 through $scale-min {
+      @if type-of($scale-interval) == number {
+        @if unitless($scale-interval) {
+          --scale#{$i}: calc(var(--scale#{$i + 1}) / var(--scaleint));
+        } @else {
+          --scale#{$i}: calc(var(--scale#{$i + 1}) - var(--scaleint));
+        }
+      }
+    }
+  }
+  @if $scale-max > 0 {
+    // Generate scale variables larger than the base text size
+    @for $i from 1 through $scale-max {
+      @if type-of($scale-interval) == number {
+        @if unitless($scale-interval) {
+          --scale#{$i}: calc(var(--scale#{$i - 1}) * var(--scaleint));
+        } @else {
+          --scale#{$i}: calc(var(--scale#{$i - 1}) + var(--scaleint));
+        }
+      }
+    }
+  }
+}
+
+// set grid properties on root
+:root {
+	--grid--gutter: #{$base-spacing-unit};
+	--grid--wrapper: [edge-start] minmax(1rem, 1fr) [content-start] repeat(12, minmax(1rem, 4rem)) [content-end] minmax(1rem, 1fr) [edge-end];
+	--grid--section: repeat( 12, minmax( 1rem, 4rem ) );
+}
+
+// set spacing on :root
+:root {
+	--space-2: calc( var(--grid--gutter) * 0.25 );
+	--space-1: calc( var(--grid--gutter) * 0.5 );
+	--space0: var(--grid--gutter);
+	--space1: calc( var(--grid--gutter) * 2 );
+	--space2: calc( var(--grid--gutter) * 3 );
+	--space3: calc( var(--grid--gutter) * 4 );
+	--space4: calc( var(--grid--gutter) * 6 );
+}
